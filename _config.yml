@@ -19,16 +19,31 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ritvik Nag
+name: rnag
 email: rv.kvetch@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newlines until "show_excerpts:"
+  Hello there 👋 . I am Ritvik, a Software Dev at The College Board.
+  I like working on cool and interesting projects, and enjoy building
+  automations with Python and Rust. Currently, I am pursuing my Master's
+  in Computer Science.
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
 domain: rnag.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://rnag.github.io # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: "TODO"
-github_username: rnag
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: nagrim7
+    github: rnag
+    linkedin: ritviknag
+    stackoverflow: 10237506/rv-kvetch
 
 # Build settings
 theme: minima
