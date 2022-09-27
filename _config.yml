@@ -22,10 +22,9 @@ title: Ritvik Nag
 name: rnag
 email: rv.kvetch@gmail.com
 description: >- # this means to ignore newlines until "show_excerpts:"
-  Hello there 👋 . I am Ritvik, a Software Dev at The College Board.
-  I like working on cool and interesting projects, and enjoy building
-  automations with Python and Rust. Currently, I am pursuing my Master's
-  in Computer Science.
+  Hello there 👋 . I am Ritvik, an innovative Software Developer and Engineer. I like
+  working on cool and interesting projects, and enjoy building automations and tools
+  with Python and Rust in my free time.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
