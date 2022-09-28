@@ -62,5 +62,30 @@
       <span class="username">{{ social.twitter | escape }}</span>
     </a>
   </li>
-  {%- endif -%}
+  {%- endif -%} {%- if social.amazon or social.google -%}
+  <li class="p-name">Reviews</li>
+  {%- if social.amazon -%}
+  <li>
+    <a
+      rel="me"
+      href="https://www.amazon.com/gp/profile/amzn1.account.{{ social.amazon | cgi_escape | escape }}"
+      target="_blank"
+      title="My Amazon Reviews"
+    >
+      {% svg /assets/amazon.svg class="svg-icon grey" %}
+      <span class="username">Amazon</span>
+    </a>
+  </li>
+  {%- endif -%} {%- if social.google -%}
+  <li>
+    <a
+      rel="me"
+      href="https://www.google.com/maps/contrib/{{ social.google | cgi_escape | escape }}/reviews"
+      target="_blank"
+      title="My Google Reviews"
+      >{% svg /assets/google.svg class="svg-icon grey" %}
+      <span class="username">Google Maps</span>
+    </a>
+  </li>
+  {%- endif -%} {%- endif -%}
 </ul>
