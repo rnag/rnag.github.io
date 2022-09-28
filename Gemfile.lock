@@ -125,6 +125,9 @@ GEM
       octokit (~> 4.0, != 4.4.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-inline-svg (1.1.4)
+      jekyll (>= 3.3, < 5.0)
+      svg_optimizer (~> 0.2.5)
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -238,6 +241,8 @@ GEM
       faraday (>= 0.17.3, < 3)
     simpleidn (0.2.1)
       unf (~> 0.1.4)
+    svg_optimizer (0.2.6)
+      nokogiri
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -259,6 +264,7 @@ DEPENDENCIES
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-inline-svg (~> 1.1.0)
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
