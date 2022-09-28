@@ -50,11 +50,8 @@ minima:
 # Build settings
 theme: minima
 plugins:
+  - jekyll-inline-svg
   - jekyll-feed
-  - jekyll-inline-svg
-
-gems:
-  - jekyll-inline-svg
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

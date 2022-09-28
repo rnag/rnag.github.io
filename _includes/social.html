@@ -72,7 +72,9 @@
       target="_blank"
       title="My Amazon Reviews"
     >
-      {% svg /assets/amazon.svg class="svg-icon grey" %}
+      <svg class="svg-icon grey">
+        <use xlink:href="{{ '/assets/amazon.svg' | relative_url }}"></use>
+      </svg>
       <span class="username">Amazon</span>
     </a>
   </li>
@@ -83,7 +85,10 @@
       href="https://www.google.com/maps/contrib/{{ social.google | cgi_escape | escape }}/reviews"
       target="_blank"
       title="My Google Reviews"
-      >{% svg /assets/google.svg class="svg-icon grey" %}
+    >
+      <svg class="svg-icon grey">
+        <use xlink:href="/assets/google.svg"></use>
+      </svg>
       <span class="username">Google Maps</span>
     </a>
   </li>
