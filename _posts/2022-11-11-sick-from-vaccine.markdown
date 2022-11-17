@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "This Veteran's Day Was Sick.."
+title: "This Veterans Day Was Sick.."
 date: 2022-11-11 12:00:00 -0400
-categories: first website
+categories: veterans day
 ---
 
 So, today's been a rather _odd_ day. And, I mean the strange kind of odd - not nearing the level of [Stranger Things](https://www.netflix.com/title/80057281), but certainly working it’s way there.
 
-It started off well-meaning enough, on a day that I didn't even register as [Veteran's Day](https://www.va.gov/opa/vetsday/vetdayhistory.asp) until much later after the fact; and in that sense, I guess it really _is_ true what they say, about hindsight being 20/20.
+It started off well-meaning enough, on a day that I didn't even register as [Veterans Day](https://www.va.gov/opa/vetsday/vetdayhistory.asp) until much later after the fact; and in that sense, I guess it really _is_ true what they say, about hindsight being 20/20.
 
-So in any case, kindly put on a tinfoil hat and a light rain jacket (just in case) and proceed to follow me down the rabbit hole -- at least on a surface-level investigation -- just this once, on Veteran's Day, 2022.
+So in any case, kindly put on a tinfoil hat and a light rain jacket (just in case) and proceed to follow me down the rabbit hole -- at least on a surface-level investigation -- just this once, on Veterans Day, 2022.
 
 # Recap
 
