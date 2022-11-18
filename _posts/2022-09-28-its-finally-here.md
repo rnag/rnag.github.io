@@ -5,9 +5,7 @@ date: 2022-09-28 16:24:03 -0400
 categories: first website
 ---
 
-Hooray 🎉!
-
-At long last, I've managed to publish my **first** personal website, after delaying it for many years up until this point. This has certainly been a long time in the making, and I'm glad I was able to find the time in my hectic schedule to put all this together.
+Hooray 🎉! At long last, I've managed to publish my **first** personal website, after delaying it for many years up until this point. This has certainly been a long time in the making, and I'm glad I was able to find the time in my hectic schedule to put all this together.
 
 So as far as first impressions go, I'm currently loving this site, though I wish there were a few improvements and changes I could make. Ideally, I would like to turn this website less into a blog and more into a portfolio page. In particular, on the _home_ page
 of this site, I would like to list my name in bold letters, and underpinning it, add in sufficiently large icons to my social links (LinkedIn, GitHub, etc.)
