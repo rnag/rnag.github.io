@@ -34,7 +34,7 @@ Instead, I decided to have an early morning shower. At around 9 in the morning, 
 
 So anyway, I logged in to my laptop, opened a new browser tab window to augment my already impressive list of browser tabs, and decided to surf StackOverflow for a while, searching for any recent updates or anywhere I could dip my head into the doorway and interject with a, “well, actually…” -- something like a Sheldon or "_Aha!_" moment, I guess.
 
-I didn’t have a whole lot of good fortune, so luckily at around this time I got pinged to help out with a work-related issue. I focused heads down and attentively was able to resolve it without much trouble. I remember the other guy who had contacted me in a group chat thanking me with a heartfelt thumbs up reaction on [Teams](https://www.microsoft.com/en-us/microsoft-teams). Heck yeah bro, right back at ya. I'm glad to be of assistance, anytime and any place. Well, if I get pinged even off hours, I feel obligated to help out, long as it isn’t something that can wait or something my team members can’t assist with.
+I didn’t have a whole lot of good fortune, so luckily at around this time I got pinged to help out with a work-related issue. I focused heads down and attentively was able to resolve it without much trouble. I remember the other guy who had contacted me in a group chat thanking me with a heartfelt thumbs up reaction on [Teams]. Heck yeah bro, right back at ya. I'm glad to be of assistance, anytime and any place. Well, if I get pinged even off hours, I feel obligated to help out, long as it isn’t something that can wait or something my team members can’t assist with.
 
 I went out to brunch, at around 12, since I could feel my stomach about to throw up it’s arms like it was on a workman’s strike and start to rumble like a great "salt shaker" earthquake at any moment, telling me that I’ve put it on the sideline for way too long and it deserves a modicum of attention at least.
 
@@ -66,7 +66,7 @@ I was still shivering pretty noticeably at this point. Hopefully no one noticed 
 
 I was about to leave, then I realized I forgot my AirPods case, so I hightailed it back without even stepping foot out of the tiny up-and-coming joint. Now that’s some pretty good reflexes, and not half-bad thinking at any rate. Looks like I’ve still got the brunt of my youth and seemingly eternal “young blood” running deep in me. I got curious looks from a lady who was slightly older than me, who was upright and gazing intently from across the small coffee table where I had left it, and I nonchalantly returned the gaze and snagged my white rectangular and slightly rounded case off the polished wood table, and slowly sauntered out of the place with nary a care in the wide world.
 
-At around this time, I thought about staying so that I could get some work done on a coffee table in the lounge area of the joint - as I'd brought my work laptop in my backpack, that made perfect sense really; and maybe I could, very well, hunker down and try to get some work done. But then I felt like the ambiance wasn’t exactly right for me, and also I had a pretty bad fever running at this point, so I doubted I could focus all that well on world related stuff. I’d probably end up goofing off anyway and doing only a small part of my tasks, which wasn’t a good thought to be had. As I said, the atmosphere was not right, and it felt like something was off about it, though I couldn’t put my finger on the exact thing.
+At around this time, I thought about staying so that I could get some work done on a coffee table in the lounge area of the joint - as I'd brought my work laptop in my backpack, that made perfect sense really; and maybe I could, very well, hunker down and try to get some work done. But then I felt like the ambiance wasn’t exactly right for me, and also I had a pretty bad fever running at this point, so I doubted I could focus all that well on work-related stuff. I’d probably end up goofing off anyway and doing only a small part of my tasks, which wasn’t a good thought to be had. As I said, the atmosphere was not right, and it felt like something was off about it, though I couldn’t put my finger on the exact thing.
 
 #### Library
 
@@ -80,7 +80,7 @@ Fast forward to when I was back home, as nothing else here is really of import i
 
 #### Continuance
 
-I signed back into my work laptop, doing a cursory glance at the bell for any notifications I might have missed -- there were none. I dipped in and out of Teams on my laptop and trying to wrestle with an unrelated issue with user authentication which I confess I did not have an idea/clue about. Sometimes there are great unsolved mysteries but on a much smaller scale, like grains of sand, and you don’t have the willpower or time to sift through them and sort them out. It honestly feels like finding the eye of a needle in a haystack. So I fiddled with it for a bit, poked my neck into the entrance of the doorway, and peeked through the keyhole to get what I could, and then get out.
+I signed back into my work laptop, doing a cursory glance at the bell for any notifications I might have missed -- there were none. I dipped in and out of [Teams] on my laptop and trying to wrestle with an unrelated issue with user authentication which I confess I did not have an idea/clue about. Sometimes there are great unsolved mysteries but on a much smaller scale, like grains of sand, and you don’t have the willpower or time to sift through them and sort them out. It honestly feels like finding the eye of a needle in a haystack. So I fiddled with it for a bit, poked my neck into the entrance of the doorway, and peeked through the keyhole to get what I could, and then get out.
 
 I presented what meager findings I was able to manage with the tightly concentrated and focused admin powers bestowed on me, and yanked on the thin thread of personal connection to sort of huddle and do a quick brainstorm session on what could be wrong. I called in a small favor to (vicariously) peek through the keyhole in another floor of the same mansion, and was granted the thumbs up.
 
@@ -119,6 +119,7 @@ The icing on the already precipitous cake, is that this vaccine was actually **_
 A truly _strange_ and _aspiring_ cautionary tale, here today on this Veterans Day -- Friday, November 11th, 2022. Watch out, [Stranger Things] - today we tipped our hat, yet slowly but surely - just as the proverbial turtle catches up - we're comin' for ya. Might be any day now, _forsooth_.
 
 [stranger things]: https://www.netflix.com/title/80057281
+[teams]: https://www.microsoft.com/en-us/microsoft-teams
 [egg sammy]: https://blend-coffee-bar.square.site/?location=11e9f52ff8055b38a2130cc47a2ae378&item=12
 [blend coffee bar]: https://blendcoffeebar.com
 [ashburn library]: https://library.loudoun.gov/Ashburn
