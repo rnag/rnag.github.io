@@ -8,21 +8,51 @@ categories:
   - 2022
 ---
 
-This was my first ever time at [AWS re:Invent] this year -- 2022 -- attending in-person at Las Vegas. It was a bittersweet experience, and had more downs than ups. Still, I had a nice time networking with sponsors and other individuals there; I even snapped a photo with "Tom Cruise" at the expo there. All that said -- I honestly don't know if I'll be back at [AWS re:Invent] next year 🫤.
+It was my first ever time at [AWS re:Invent] this year -- 2022 -- attending in-person at Las Vegas.
+
+I found it a bittersweet experience, with _**way**_ more downs than ups. The sheer scope of everything can be intimidating at times. Still, I had a nice time networking with sponsors and other individuals there; I even snapped a photo with “Tom Cruise” at the expo there. All that said -- I honestly don't know if I'll be back at [AWS re:Invent] next year 🫤.
+
+To its credit, the annual event had its highlights certainly, and though I found the party and social scene to be sorely lacking and ungratifying overall -- it _was_ one of the most crowded events that I have ever attended, tech-related or even otherwise.
 
 # Overview
 
-So, a bit of background here -- this year was my first ever time attending [AWS re:Invent].
+So, a bit of background here -- I entered stage as a first-time attendee at [AWS re:Invent] this year, which occurred live and in-person, at a smattering of venues spread out across the eponymous campus in Las Vegas.
 
-In case the event information on the linked site is eventually taken down or archived, I am including the event conferences dates and location, purely for reference:
+In case the event information on the linked site (above) is eventually taken down or archived, I am including the event conferences dates and location here, purely for reference purposes:
 
-| Time                   | Days of Week    | Location      |
-| ---------------------- | --------------- | ------------- |
-| NOV. 28 – DEC. 2, 2022 | Monday - Friday | LAS VEGAS, NV |
+| Event       | Host              | Time                   | Days of Week    | Location      |
+| ----------- | ----------------- | ---------------------- | --------------- | ------------- |
+| [re:Invent] | [Amazon] -- [AWS] | NOV. 28 – DEC. 2, 2022 | Monday - Friday | LAS VEGAS, NV |
+
+That's all well, but now let's fast-forward to the million-dollar question -- what exactly _is_ [re:Invent]?
+
+#### What Is It?
+
+Well, to summarize and distill the essence of the answer to the _big question_ -- posted and available for public viewership, and intended to address general concern, on the [FAQs](https://reinvent.awsevents.com/faqs) page for the event:
+
+> AWS re:Invent is an annual, week-long learning conference hosted by Amazon Web Services (AWS) for the global cloud computing community.
+>
+> The in-person event features keynote announcements, training and certification opportunities, access to 1,500+ technical sessions, the Expo, after-hours events, and so much more.
+
+Also to clarify, in case it's not clear -- Amazon Web Services (AWS) is [a subsidiary of Amazon](https://expandedramblings.com/index.php/amazon-web-services-statistics-facts), and is a cloud service provider which serves millions of clients and customers, providing a platform for cloud computing.
+
+It is, additionally, a lucrative platform -- in fact, close to _75%_ of Amazon's operating profit comes from Amazon Web Services (AWS) alone. AWS also helps fuel over a million organizations and businesses, including ones such as Twitter and Netflix ([source](https://www.visualcapitalist.com/aws-powering-the-internet-and-amazons-profits)).
+
+My current organization, in particular -- [The College Board](https://www.collegeboard.org) -- invests heavily in AWS. We invest a lot of resources in AWS, and utilize a lot of services offered on the platform. I have even created [some projects](https://github.com/rnag/rust.aws-cdk-lambda) that utilize services on, or deploy to, an AWS account or environment.
+
+Switching back to the topic at hand -- AWS uses [re:Invent] as a platform to announce new up-and-coming AWS features and services.
+
+Additionally, when it comes to the question of the type of audience that [AWS re:Invent] is intended for, or more specifically who should _attend_ re:Invent:
+
+> The event is ideal for developers and engineers, system administrators, systems architects, IT executives, and technical decision makers.
+
+As a software developer, attending a tech event like [re:Invent] was especially lucrative, and I had hoped and expected to upskill myself to a degree -- when it came to all things AWS -- and garner a certain modicum of knowledge from it.
+
+#### Background
 
 I had never before attended a (large) tech conference such as this before, not even virtually or online.
 
-That taken into account, it most decidedly turned out to be a _cool_ experience that I was able to attend this event (re:invent) in person this year, 2022. Certainly not life-altering or earth-shattering, and speaking rather candidly -- it was somewhat devastating and mentally-exhausting in many respects.
+That taken into account, it most decidedly turned out to be a _cool_ experience that I was able to attend [re:Invent] in person this year, 2022. Certainly not life-altering or earth-shattering, and speaking rather candidly -- it was somewhat devastating and mentally-exhausting in many respects.
 
 _But_, the real question here is:
 
@@ -73,7 +103,7 @@ The weeks leading up to re:Invent was hectic and busy time for me, as I was actu
 
 Thus, this lead to me booking the actual registration (conference pass) for re:Invent as an individual attendee much later than originally anticipated. In all honesty, it was a week or two after I booked all the hotel/airfare via the company travel portal.
 
-The costs for the individual conference pass for the event (i.e. registration) totaled to exactly **$1700**. In case anyone wonders, that is definitely a pretty significant drop in the bucket. And I'd attended PyCon earlier in the year too, and the registration costs for that was only about $300 or so -- of course this was all out-of-pocket for me, as this was a personal decision to attend the event. So yeah, definitely _costliest_ fees for a tech conference event that I've ever seen, but hey, it is what it is 🤷‍♂️. And well, also, it helps if your company reimburses you for it -- which thankfully mine does 👍.
+The costs for the individual conference pass for the event (i.e. registration) totaled to exactly **$1,799**. In case anyone wonders, that is definitely a pretty significant drop in the bucket. And I'd attended PyCon earlier in the year too, and the registration costs for that was only about $300 or so -- of course this was all out-of-pocket for me, as this was a personal decision to attend the event. So yeah, definitely _costliest_ fees for a tech conference event that I've ever seen, but hey, it is what it is 🤷‍♂️. And well, also, it helps if your company reimburses you for it -- which thankfully mine does 👍.
 
 # Dates and Location
 
@@ -99,6 +129,15 @@ Well, the event -- which included the talks, labs, and breakout sessions -- was 
 # Details
 
 > **TODO. In progress.**
+
+<!--
+Sunday, Nov. 27
+
+Badge pickup
+6:00 AM – 11:59 PM (PST)
+
+HARRY REID INTERNATIONAL AIRPORT - T1 & T3
+-->
 
 # Conclusion + Wrap-up
 
@@ -191,3 +230,6 @@ Thanks all, and happy holidays.
 > \- Ritvik N.
 
 [aws re:invent]: https://reinvent.awsevents.com
+[re:invent]: https://archera.ai/blog/what-is-re-invent
+[aws]: https://aws.amazon.com/what-is-aws
+[amazon]: https://www.aboutamazon.com
