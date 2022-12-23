@@ -10,7 +10,7 @@ categories:
 
 It was my first ever time at [AWS re:Invent] this year -- 2022 -- attending in-person at Las Vegas.
 
-I found it a bittersweet experience, with _**way**_ more downs than ups. The sheer scope of everything can be intimidating at times. Still, I had a nice time networking with sponsors and other individuals there; I even snapped a photo with “Tom Cruise” at the expo there. All that said -- I honestly don't know if I'll be back at [AWS re:Invent] next year 🫤.
+I found it a bittersweet experience, with _**way**_ more downs than ups. The sheer scope of everything can be intimidating at times. Still, I had a nice time networking with sponsors and other individuals there; I even snapped [a photo with “Tom Cruise”](/assets/images/me_tom_cruise.jpeg) at the Expo there. All that said -- I honestly don't know if I'll be back at [AWS re:Invent] next year 🫤.
 
 To its credit, the annual event had its highlights certainly, and though I found the party and social scene to be sorely lacking and ungratifying overall -- it _was_ one of the most crowded events that I have ever attended, tech-related or even otherwise.
 
@@ -28,19 +28,21 @@ That's all well, but now let's fast-forward to the million-dollar question -- wh
 
 #### What Is It?
 
-Well, to summarize and distill the essence of the answer to the _big question_ -- posted and available for public viewership, and intended to address general concern, on the [FAQs](https://reinvent.awsevents.com/faqs) page for the event:
+> Pray tell, what exactly is [re:Invent]?
 
-> AWS re:Invent is an annual, week-long learning conference hosted by Amazon Web Services (AWS) for the global cloud computing community.
+Well, to summarize and distill the essence of the answer to the one _big question_ -- posted and available for public viewership and intended for general consumption, on the [FAQs](https://reinvent.awsevents.com/faqs) page for the event:
+
+> <u>AWS re:Invent</u> is an **annual, week-long learning conference** hosted by **Amazon Web Services** ([AWS]) for the global **cloud computing** community.
 >
-> The in-person event features keynote announcements, training and certification opportunities, access to 1,500+ technical sessions, the Expo, after-hours events, and so much more.
+> The in-person event features **keynote** announcements, training and **certification** opportunities, access to 1,500+ **technical sessions**, the [Expo], after-hours [events](https://conferenceparties.com/reinvent2022), and so much more.
 
 Also to clarify, in case it's not clear -- Amazon Web Services (AWS) is [a subsidiary of Amazon](https://expandedramblings.com/index.php/amazon-web-services-statistics-facts), and is a cloud service provider which serves millions of clients and customers, providing a platform for cloud computing.
 
 It is, additionally, a lucrative platform -- in fact, close to _75%_ of Amazon's operating profit comes from Amazon Web Services (AWS) alone. AWS also helps fuel over a million organizations and businesses, including ones such as Twitter and Netflix ([source](https://www.visualcapitalist.com/aws-powering-the-internet-and-amazons-profits)).
 
-My current organization, in particular -- [The College Board](https://www.collegeboard.org) -- invests heavily in AWS. We invest a lot of resources in AWS, and utilize a lot of services offered on the platform. I have even created [some projects](https://github.com/rnag/rust.aws-cdk-lambda) that utilize services on, or deploy to, an AWS account or environment.
+My current organization, in particular -- [The College Board](https://www.collegeboard.org) -- invests heavily in AWS. We invest a lot of cloud-native resources in AWS, and utilize a lot of services offered on the platform. I have even created [some projects](https://github.com/rnag/rust.aws-cdk-lambda) that leverage services and tools on, or deploy to, an AWS account or environment.
 
-Switching back to the topic at hand -- AWS uses [re:Invent] as a platform to announce new up-and-coming AWS features and services.
+Switching back to the topic at hand -- AWS uses [re:Invent] as a platform to announce new up-and-coming AWS features and services. However, for the vast majority of the attendees and sponsors -- we rely on [re:Invent] as a learning and networking opportunity, to learn about new offerings from AWS and any worthwhile community-driven or open-source projects, and of course, to connect with (other) individuals, sponsors, and organizations.
 
 Additionally, when it comes to the question of the type of audience that [AWS re:Invent] is intended for, or more specifically who should _attend_ re:Invent:
 
@@ -52,7 +54,19 @@ As a software developer, attending a tech event like [re:Invent] was especially 
 
 I had never before attended a (large) tech conference such as this before, not even virtually or online.
 
-That taken into account, it most decidedly turned out to be a _cool_ experience that I was able to attend [re:Invent] in person this year, 2022. Certainly not life-altering or earth-shattering, and speaking rather candidly -- it was somewhat devastating and mentally-exhausting in many respects.
+Apparently, it was necessary for [re:Invent] to go completely virtual on 2020 -- two years ago. This made a whole lot of sense really, since the majority of the world was in the midst (and throes) of the ongoing COVID Pandemic at around that time.
+
+In fact, 2020 was technically the first _full_ year that COVID had to spread, so the world was truly introduced (and _exposed_) to COVID-19 at around that time. So yes, it appears re:Invent in 2020 took place completely online.
+
+According [to sources](https://chronosphere.io/learn/revisiting-last-months-aws-reinvent-2021), re:Invent 2021 transitioned back to in-person (with vaccination and mask requirements) in Las Vegas, Nevada.
+
+Some sources claim there were fewer attendees last year, 2021 -- around 25,000 people, or close to half the amount of usual attendees -- at least based on numbers from the pre-pandemic era. I suppose this makes sense, as the world as a whole was still recovering from the COVID pandemic at around that time, and a lot of people still (such as me) opted not to attend the event in-person that year at all.
+
+That's not even taking into account the registration costs for individual attendees -- attending the full conference in person costs $1799; but you can view a lot of the events live and virtually for free.
+
+Me attending [AWS re:Invent] _this_ year, turned out to be something of a fluke and a "happy accident", and in all honesty -- it wasn't something I had really planned on doing. The idea (to attend) was brought up, I promptly accepted, ended up going -- and I wouldn't change a thing in these regards.
+
+That taken into account, it most decidedly turned out to be a _cool_ experience that I was able to attend [re:Invent] in person this year, 2022. Certainly not life-altering or earth-shattering, and speaking rather candidly -- it was rather devastating and mentally-exhausting in many respects.
 
 _But_, the real question here is:
 
@@ -62,7 +76,7 @@ Read on to learn the answer to that and more.
 
 In fact, I should pin the above question and address it in the conclusion section, summarizing in a couple sentences. In all honesty, that would be a worthwhile goal or a key takeaway from this altogether brief article that I have cobbled together in my free time, once setting aside the sufficient and altogether necessary time required to reflect on my time in Vegas attending the tech event.
 
-But anyways, I digress here. And by the way, this article is still a _**work-in-progress**_ for now. So expect full-stops and potholes in the road. This is all part of my re:Invent Somewhat Personal Journal Experience.
+But anyways, I digress here. And by the way, this article is still a _**work-in-progress**_ for now. So expect full-stops and potholes in the road ahead. This is all part of my re:Invent Somewhat Personal Journal Experience™️.
 
 # How It Happened
 
@@ -103,9 +117,17 @@ The weeks leading up to re:Invent was hectic and busy time for me, as I was actu
 
 Thus, this lead to me booking the actual registration (conference pass) for re:Invent as an individual attendee much later than originally anticipated. In all honesty, it was a week or two after I booked all the hotel/airfare via the company travel portal.
 
-The costs for the individual conference pass for the event (i.e. registration) totaled to exactly **$1,799**. In case anyone wonders, that is definitely a pretty significant drop in the bucket. And I'd attended PyCon earlier in the year too, and the registration costs for that was only about $300 or so -- of course this was all out-of-pocket for me, as this was a personal decision to attend the event. So yeah, definitely _costliest_ fees for a tech conference event that I've ever seen, but hey, it is what it is 🤷‍♂️. And well, also, it helps if your company reimburses you for it -- which thankfully mine does 👍.
+The costs for the individual conference pass for the event (i.e. registration) totaled to exactly **$1,799**. In case anyone wonders, that is definitely a pretty significant drop in the bucket. And I'd attended PyCon earlier in the year too, and the registration costs for that was only about $300 or so -- of course this was all out-of-pocket for me, as this was a personal decision to attend the event. So yeah, definitely _costliest_ fees for a tech conference event that I've ever seen, but hey, it is what it is 🤷‍♂️.
 
-# Dates and Location
+And well, also, it helps if your company reimburses you for it -- which thankfully mine does 👍.
+
+# The Meat and Potatoes
+
+> **TODO. In progress.**
+
+Let's now get into the nitty-gritty, and delve into the "meat and potatoes" as a colleague at work likes to call it.
+
+_When (and in which city) did the live and in-person event for [re:Invent] take place?_
 
 The event conferences times and location:
 
@@ -113,24 +135,68 @@ The event conferences times and location:
 | ---------------------- | --------------- | ------------- | ---------------------- |
 | NOV. 28 – DEC. 2, 2022 | Monday - Friday | LAS VEGAS, NV | NOV. 27 - DEC. 3, 2022 |
 
-Where did the event specifically take place?
+_Where (specifically) did the event take place?_
 
-Well, the event -- which included the talks, labs, and breakout sessions -- was spread out across a couple different venues, which were essentially giant "hotel casinos" that could house thousands of people. Specifically --
+Well, the event -- which included the talks, labs, and breakout sessions -- was spread out across a couple different venues, which were essentially giant "casino hotels" that could house thousands of people.
 
-| Venue          | Days Visited | Notes                                                                                                   |
-| -------------- | ------------ | ------------------------------------------------------------------------------------------------------- |
-| The Venetian   | 5            | Yes indeed, I hung out here most of the time 🥳.                                                        |
-| Caesar's Forum | 1            | There's a walkway connecting to it inside the Venetian, 2nd level.                                      |
-| Encore         | --           | I never got a chance to visit this venue during my time there.                                          |
-| Wynn           | --           |                                                                                                         |
-| MGM Grand      | 1            | Only got a chance to visit here once; there was a cool DeepRacer room with a demo and racing game here. |
-| Mandalay Bay   | 1            | I attended a session with someone I met here once.                                                      |
+Specifically --
 
-# Details
-
-> **TODO. In progress.**
+| Venue                                              | Days Visited | Notes                                                                                                   |
+| -------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------- |
+| [The Venetian](https://www.venetianlasvegas.com)   | 5            | Yes indeed, I hung out here most of the time 🥳.                                                        |
+| [Caesar's Forum](https://caesarsforum.com)         | 1            | There's a walkway connecting to it inside the Venetian, 2nd level.                                      |
+| [Encore](https://www.wynnlasvegas.com)             | --           | I never got a chance to visit this venue during my time there.                                          |
+| [Wynn](https://www.wynnlasvegas.com)               | --           |                                                                                                         |
+| [MGM Grand](https://mgmgrand.mgmresorts.com)       | 1            | Only got a chance to visit here once; there was a cool DeepRacer room with a demo and racing game here. |
+| [Mandalay Bay](https://mandalaybay.mgmresorts.com) | 1            | I attended a session with someone I met here once.                                                      |
 
 <!--
+
+I booked the trip on November 11th
+
+Trip Name: Trip from Washington to Las Vegas
+Start Date: November 27, 2022
+End Date: December 03, 2022
+
+Air Total Price: $1,700
+Hotel: $1,200
+Total Estimated Cost: $3,000
+
+Sunday, November 27, 2022
+
+Flight Washington, DC (IAD) to Denver, CO (DEN)
+United
+Departure: 4 PM
+Washington Dulles Intl Airport (IAD)
+Duration: 3 hours, 51 minutes
+Nonstop
+Arrival: 05:49 PM
+Denver Intl Airport (DEN)
+
+Layover of 1 hour and 29 mins.
+
+Flight Denver, CO (DEN) to Las Vegas, NV (LAS)
+United
+Departure: 07:18 PM
+Denver Intl Airport (DEN)
+Duration: 2 hours, 2 minutes
+Nonstop
+Arrival: 08:20 PM
+Harry Reid Intl (LAS)
+Terminal:3
+
+Serene Vegas, a Vegas Resort
+455 E Harmon Ave
+Checking In: Sun Nov 27
+16:00
+Room 1, Days 6, Guests 1
+Checking Out: Sat Dec 3
+11:00
+
+![name of the image](/assets/images/me_tom_cruise.jpeg)
+
+![name of the image](/assets/images/me_electric_delivery_van.jpeg)
+
 Sunday, Nov. 27
 
 Badge pickup
@@ -151,8 +217,8 @@ I learned that there are a following tips or key takeways of what _not_ to do at
 
   - In any of the (mostly official) re:Invent- and company- sponsored parties
   - At any of the grand, communal sit-down areas for included breakfast / lunch hosted at the various hotel venues
-  - At the expo, where so many companies showcase their products
-    - And yes, this is no joke. I made the mistake of aimlessly walking around and chatting with the sponsors there for way too long, rather than asking about potential job openings or looking for networking opportunities via LinkedIn or similar.
+  - At the Expo, where so many companies showcase their products
+    - And yes, this is no joke. I made the mistake of aimlessly walking around and chatting with the sponsors there for way too long, rather than asking about potential career openings or looking for networking opportunities via LinkedIn or similar.
 
 - Make friends with -- or strike up conversations with -- random strangers, or attempt to expand your social circle.
 
@@ -209,11 +275,11 @@ It was worth it, because I got a chance to visit Las Vegas the first time in a l
 
 It was worth it, because I got to meet one or two cool people there, both from different parts and corners of the world. One person in particular -- I am glad that our paths crossed, if only at least once.
 
-It was worth it, because I got to check out the buzz and experience firsthand what [AWS re:Invent] was all about. I went in person, and attending some really cool talks and breakout sessions. I attended at least one Keynote where there was a speaker (Dr. Werner Vogel), and I thought that talk was kind of cool and interesting, even if I only understood half of what the talk was about. But still, it was an interesting experience to go to the various venues there, and literally spend hours walking around inside the hotel casinos such as the Venetian (spoiler: it's _really huge!_).
+It was worth it, because I got to check out the buzz and experience firsthand what [AWS re:Invent] was all about. I went in person, and attending some really cool talks and breakout sessions. I attended at least one Keynote where there was a speaker (Dr. Werner Vogel), and I thought that talk was kind of cool and interesting, even if I only understood half of what the talk was about. But still, it was an interesting experience to go to the various venues there, and literally spend hours walking around inside the casino hotels such as the Venetian (spoiler: it's _really huge!_).
 
 It was worth it, because I got to go to the DeepRacer room, where I got to play a cool arcade/racing game, where I drove around and completed laps in a virtual race car, and where I also got to face off and compete against an AI to see which of us could finish first (spoiler: it was me -- yay!). And I got to see some cool things on display such as the Amazon Electric-powered Delivery Van, and got to snap some photos of it with me included in it.
 
-It was worth it, because I got to attend the expo, and meet all the different sponsors from the various companies, and just got an opportunity to level-set and just have casual conversations, as well as networking opportunities, with them. I even connected with a handful of people on LinkedIn that I chatted with. Someone even snapped a photo of with me with "Tom Cruise" -- that I promptly posted on LinkedIn.
+It was worth it, because I got to attend the Expo, and meet all the different sponsors from the various companies, and just got an opportunity to level-set and just have casual conversations, as well as networking opportunities, with them. I even connected with a handful of people on LinkedIn that I chatted with. Someone even snapped a photo of with me with "Tom Cruise" -- that I promptly posted on LinkedIn.
 
 But yes, overall, it **was** worth it. And I do not regret going to [AWS re:Invent] for the first time this year, 2022 -- even though I regretted a lot of things I did do at the event, once there.
 
@@ -233,3 +299,4 @@ Thanks all, and happy holidays.
 [re:invent]: https://archera.ai/blog/what-is-re-invent
 [aws]: https://aws.amazon.com/what-is-aws
 [amazon]: https://www.aboutamazon.com
+[expo]: https://reinvent.awsevents.com/learn/expo
