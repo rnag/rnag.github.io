@@ -10,6 +10,8 @@ categories:
 
 It was my first ever time at [AWS re:Invent] this year -- 2022 -- attending in-person at Las Vegas.
 
+![AWS re:Invent](/assets/images/aws-reinvent.jpg){: width="85%"}
+
 I found it a bittersweet experience, with _**way**_ more downs than ups. The sheer scope of everything can be intimidating at times. Still, I had a nice time networking with sponsors and other individuals there; I even snapped [a photo with “Tom Cruise”](/assets/images/me_tom_cruise.jpeg) at the Expo there. All that said -- I honestly don't know if I'll be back at [AWS re:Invent] next year 🫤.
 
 To its credit, the annual event had its highlights certainly, and though I found the party and social scene to be sorely lacking and ungratifying overall -- it _was_ one of the most crowded events that I have ever attended, tech-related or even otherwise.
@@ -30,19 +32,29 @@ That's all well, but now let's fast-forward to the million-dollar question -- wh
 
 > Pray tell, what exactly is [re:Invent]?
 
+![What is re:Invent?](/assets/images/reinvent.jpg)
+
 Well, to summarize and distill the essence of the answer to the one _big question_ -- posted and available for public viewership and intended for general consumption, on the [FAQs](https://reinvent.awsevents.com/faqs) page for the event:
 
 > <u>AWS re:Invent</u> is an **annual, week-long learning conference** hosted by **Amazon Web Services** ([AWS]) for the global **cloud computing** community.
 >
 > The in-person event features **keynote** announcements, training and **certification** opportunities, access to 1,500+ **technical sessions**, the [Expo], after-hours [events](https://conferenceparties.com/reinvent2022), and so much more.
 
-Also to clarify, in case it's not clear -- Amazon Web Services (AWS) is [a subsidiary of Amazon](https://expandedramblings.com/index.php/amazon-web-services-statistics-facts), and is a cloud service provider which serves millions of clients and customers, providing a platform for cloud computing.
+Also to clarify, in case it's not clear -- Amazon Web Services (AWS) is [a subsidiary of Amazon](https://expandedramblings.com/index.php/amazon-web-services-statistics-facts), and is a cloud service provider which serves millions of clients and customers, providing a platform for [cloud computing].
+
+![](https://pimages.toolbox.com/wp-content/uploads/2022/04/26162218/AWS.png){: width="60%"}
 
 It is, additionally, a lucrative platform -- in fact, close to _75%_ of Amazon's operating profit comes from Amazon Web Services (AWS) alone. AWS also helps fuel over a million organizations and businesses, including ones such as Twitter and Netflix ([source](https://www.visualcapitalist.com/aws-powering-the-internet-and-amazons-profits)).
+
+![](https://webneel.com/daily/sites/default/files/images/daily/12-2013/amazing-clouds.jpg){: width="40%"}
 
 My current organization, in particular -- [The College Board](https://www.collegeboard.org) -- invests heavily in AWS. We invest a lot of cloud-native resources in AWS, and utilize a lot of services offered on the platform. I have even created [some projects](https://github.com/rnag/rust.aws-cdk-lambda) that leverage services and tools on, or deploy to, an AWS account or environment.
 
 Switching back to the topic at hand -- AWS uses [re:Invent] as a platform to announce new up-and-coming AWS features and services. However, for the vast majority of the attendees and sponsors -- we rely on [re:Invent] as a learning and networking opportunity, to learn about new offerings from AWS and any worthwhile community-driven or open-source projects, and of course, to connect with (other) individuals, sponsors, and organizations.
+
+> That's all well, but who should actually _attend_ [re:Invent]?
+
+![](https://reinvent.awsevents.com/content/reinvent/us/en/home/_jcr_content/root/container/container/news/newscarousel/newscontentcard/image.coreimg.jpeg/1656520654816/2021-reinvent-116-1201-4861.jpeg)
 
 Additionally, when it comes to the question of the type of audience that [AWS re:Invent] is intended for, or more specifically who should _attend_ re:Invent:
 
@@ -50,17 +62,33 @@ Additionally, when it comes to the question of the type of audience that [AWS re
 
 As a software developer, attending a tech event like [re:Invent] was especially lucrative, and I had hoped and expected to upskill myself to a degree -- when it came to all things AWS -- and garner a certain modicum of knowledge from it.
 
+![](https://news.blr.com/app/uploads/sites/3/2019/04/upskilling.jpg){: width="45%"}
+
 #### Background
 
 I had never before attended a (large) tech conference such as this before, not even virtually or online.
 
 Apparently, it was necessary for [re:Invent] to go completely virtual on 2020 -- two years ago. This made a whole lot of sense really, since the majority of the world was in the midst (and throes) of the ongoing COVID Pandemic at around that time.
 
-In fact, 2020 was technically the first _full_ year that COVID had to spread, so the world was truly introduced (and _exposed_) to COVID-19 at around that time. So yes, it appears re:Invent in 2020 took place completely online.
+![](/assets/images/covid_is_no_joke.jpg){: width="77%"}
 
-According [to sources](https://chronosphere.io/learn/revisiting-last-months-aws-reinvent-2021), re:Invent 2021 transitioned back to in-person (with vaccination and mask requirements) in Las Vegas, Nevada.
+In fact, 2020 was technically the first _full_ year that COVID had to spread, so the world was truly introduced (and _exposed_) to COVID-19 at around that time.
 
-Some sources claim there were fewer attendees last year, 2021 -- around 25,000 people, or close to half the amount of usual attendees -- at least based on numbers from the pre-pandemic era. I suppose this makes sense, as the world as a whole was still recovering from the COVID pandemic at around that time, and a lot of people still (such as me) opted not to attend the event in-person that year at all.
+So yes, it appears re:Invent in 2020 took place completely online.
+
+![](https://cdtalaw.com/wp-content/uploads/2021/02/Many-Law-Schools-Are-Going-Completely-Online-In-2021.jpg){: width="77%"}
+
+According [to sources](https://chronosphere.io/learn/revisiting-last-months-aws-reinvent-2021), re:Invent 2021 transitioned back to in-person -- with vaccination and mask requirements -- in Las Vegas, Nevada.
+
+I perceive these safeguards and guidelines as a perfectly normal (and justified) reaction to COVID.
+
+In fact -- I also attended [PyCon] in-person earlier this year, and everyone (including me) was required to wear facial masks for the entirety of the conference -- in all the talks and lectures, and especially in the hallways and meeting areas of the [Salt Palace Convention Center](https://www.visitsaltlake.com/salt-palace-convention-center).
+
+The only place we were allowed to take off our masks was during lunch or breaktime, which made sense as -- normally -- people cannot consume drink or food with masks on. And yes, to summarize and clarify, this mandated requirement was indeed a mighty inconvenience, but honestly a necessary measure and precaution in these uncertain times -- speaking of the time periods (inclusive) of 2020-2022. Indeed, I can now truly ascertain the benefits of it -- I did not catch COVID (or any other illness) while I was in Utah, attending PyCon, earlier this year.
+
+![](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220914-covid-vaccination-germany-al-1118-f9b617.jpg){: width="77%"}
+
+Some sources claim there were fewer attendees for re:Invent last year, 2021 -- around 25,000 people, or close to half the amount of usual attendees -- at least based on numbers from the pre-pandemic era. I suppose this makes sense, as the world as a whole was still recovering from the COVID pandemic at around that time, and a lot of people still (such as me) opted not to attend the event in-person that year at all.
 
 That's not even taking into account the registration costs for individual attendees -- attending the full conference in person costs $1799; but you can view a lot of the events live and virtually for free.
 
@@ -117,13 +145,13 @@ The weeks leading up to re:Invent was hectic and busy time for me, as I was actu
 
 Thus, this lead to me booking the actual registration (conference pass) for re:Invent as an individual attendee much later than originally anticipated. In all honesty, it was a week or two after I booked all the hotel/airfare via the company travel portal.
 
-The costs for the individual conference pass for the event (i.e. registration) totaled to exactly **$1,799**. In case anyone wonders, that is definitely a pretty significant drop in the bucket. And I'd attended PyCon earlier in the year too, and the registration costs for that was only about $300 or so -- of course this was all out-of-pocket for me, as this was a personal decision to attend the event. So yeah, definitely _costliest_ fees for a tech conference event that I've ever seen, but hey, it is what it is 🤷‍♂️.
+The costs for the individual conference pass for the event (i.e. registration) totaled to exactly **$1,799**. In case anyone wonders, that is definitely a pretty significant drop in the bucket. And I'd attended [PyCon] earlier in the year too, and the registration costs for that was only about $300 or so -- of course this was all out-of-pocket for me, as this was a personal decision to attend the event. So yeah, definitely _costliest_ fees for a tech conference event that I've ever seen, but hey, it is what it is 🤷‍♂️.
 
 And well, also, it helps if your company reimburses you for it -- which thankfully mine does 👍.
 
-# The Meat and Potatoes
+# Details
 
-> **TODO. In progress.**
+#### The Meat and Potatoes
 
 Let's now get into the nitty-gritty, and delve into the "meat and potatoes" as a colleague at work likes to call it.
 
@@ -149,6 +177,20 @@ Specifically --
 | [Wynn](https://www.wynnlasvegas.com)               | --           |                                                                                                         |
 | [MGM Grand](https://mgmgrand.mgmresorts.com)       | 1            | Only got a chance to visit here once; there was a cool DeepRacer room with a demo and racing game here. |
 | [Mandalay Bay](https://mandalaybay.mgmresorts.com) | 1            | I attended a session with someone I met here once.                                                      |
+
+_How many people attended [re:Invent] 2022?_
+
+At least 50,000 individuals attended [re:Invent] in-person in Las Vegas this year, by some counts.
+
+From others at the event, I also heard (first-hand) some other numbers thrown around -- by some estimations it might have been closer to 80,000 attendees for the tech learning event.
+
+These are still pretty big numbers, so I think we can safely estimate the head-count for [AWS re:Invent] 2022 as being somewhere in the ballpark range of 50,000 - 110,000 attendees.
+
+Based on my personal experience wandering the wide, spacious, and seemingly endless hallways of some of the more popular venues such as The Venetian, I can confirm that this estimation of the amount of individuals seems to be accurate; to be honest, there were certainly a _lot_ of people there, easily numbering in the thousands alone, at least from what I could tell.
+
+#### How It Went Down
+
+> **TODO. In progress.**
 
 <!--
 
@@ -291,7 +333,7 @@ Thanks all, and happy holidays.
 
 > Fa-la-la to all, and merry holidays 🎊, from the time and place of: December 2022, hailing from the "sufficiently cold enough" Northern Virginia area.
 >
-> Article last updated: Dec. 21, 2022
+> Article last updated: Dec. 25, 2022
 >
 > \- Ritvik N.
 
@@ -300,3 +342,5 @@ Thanks all, and happy holidays.
 [aws]: https://aws.amazon.com/what-is-aws
 [amazon]: https://www.aboutamazon.com
 [expo]: https://reinvent.awsevents.com/learn/expo
+[cloud computing]: https://medium.com/@colinbaird_51123/a-primer-on-cloud-computing-9a34e90303c8
+[pycon]: https://us.pycon.org
