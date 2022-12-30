@@ -56,7 +56,7 @@ Switching back to the topic at hand -- AWS uses [re:Invent] as a platform to ann
 
 ![](https://reinvent.awsevents.com/content/reinvent/us/en/home/_jcr_content/root/container/container/news/newscarousel/newscontentcard/image.coreimg.jpeg/1656520654816/2021-reinvent-116-1201-4861.jpeg)
 
-Additionally, when it comes to the question of the type of audience that [AWS re:Invent] is intended for, or more specifically who should _attend_ re:Invent:
+When it comes to the question of the type of audience that [AWS re:Invent] is intended for, or more specifically who should _attend_ re:Invent:
 
 > The event is ideal for developers and engineers, system administrators, systems architects, IT executives, and technical decision makers.
 
@@ -84,7 +84,7 @@ I perceive these safeguards and guidelines as a perfectly normal (and justified)
 
 In fact -- I also attended [PyCon] in-person earlier this year, and everyone (including me) was required to wear facial masks for the entirety of the conference -- in all the talks and lectures, and especially in the hallways and meeting areas of the [Salt Palace Convention Center](https://www.visitsaltlake.com/salt-palace-convention-center).
 
-The only place we were allowed to take off our masks was during lunch or breaktime, which made sense as -- normally -- people cannot consume drink or food with masks on. And yes, to summarize and clarify, this mandated requirement was indeed a mighty inconvenience, but honestly a necessary measure and precaution in these uncertain times -- speaking of the time periods (inclusive) of 2020-2022. Indeed, I can now truly ascertain the benefits of it -- I did not catch COVID (or any other illness) while I was in Utah, attending PyCon, earlier this year.
+The only place we were allowed to take off our masks was during lunch or breaktime, which made sense as -- normally -- people cannot consume drink or food with masks on. And yes, to summarize and clarify, this mandated requirement was indeed a mighty inconvenience, but honestly a necessary measure and precaution in these uncertain times -- speaking of the period (inclusive) of 2020-2022. Indeed, I can now truly ascertain the benefits of it -- I did not catch COVID (or any other illness) while I was in Utah, attending PyCon, earlier this year.
 
 ![](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220914-covid-vaccination-germany-al-1118-f9b617.jpg){: width="77%"}
 
@@ -108,7 +108,7 @@ But anyways, I digress here. And by the way, this article is still a _**work-in-
 
 # How It Happened
 
-In early October of this year (2022), my manager originally posted a message to this effect, on Teams:
+In early October of this year (2022), my manager originally posted a message on Teams:
 
 > [10/5 12:33 PM] anyone interested in going to aws:reinvent. budget is limited
 
@@ -118,21 +118,39 @@ I replied with something, _to the effect of_:
 
 OK, so maybe that's not _exactly_ how I replied. However, long story short, I did willingly cast my name in the ballot, so the declaration of intent was clear and spelled out for all.
 
+To expand a little bit on my thought process at this stage, though I'd never attended an event such as this before, I _had_ watched a few tech-related [re:Invent] videos from years past, so I knew at a high level that such a tech event existed. However, I had never attended this conference before, so I really had no idea what to expect or any clue of how to prepare for it.
+
+Still, as I mentioned before -- my organization was really big into AWS, and I also had a preference for deploying and managing infrastructure in AWS when it came to all things [cloud]. I also really preferred the user interface (UI) and the overall _user experience_ when it came to navigating the AWS console and its myriad offerings, at least when I compared it against a competing cloud provider such as [Microsoft Azure] for example.
+
+In any case, I was excited about attending [AWS re:Invent], since I have interfaced a lot (and frequently) with Amazon Web Services in a professional setting, and I was pretty glad at the opportunity to attend an event where I got to learn new things and also socialize with other attendees there -- sort of like knocking out two birds with one stone, if you will.
+
+The idea of looking a gift horse in the mouth, or even concerning myself with financial matters and logistics such as booking, travel, stay, and other fees, didn't even cross my mind. I was still wrapped up in excitement and anticipation for attended an official tech/learning event hosted by AWS.
+
+It was still up in the air whether I would be green-lighted to attend or not, however I was -- at a minimum -- happy and glad that my organization was in the midst of making plans to send a few of us to the learning event in-person this year.
+
 Shortly thereafter, my skip-level manager replied in a group chat, with my manager and me:
 
 > [11/4 1:25 PM] Important!
 > **@Nag, Ritvik** - Just heard, you are approved to travel for AWS Reinvent. Congrats!
 
-And I'm not entirely sure where on timeline it fell, but I also proceeded to book my flight/travel from our company travel site.
+I was rather elated at that point, and struggled to contain my excitement; however, I hadn't booked or finalized anything yet. I was still busy with work-related things, as well as coursework for some graduate-level classes I was attending part-time, during after-work hours. Hence, I understandably put off the event registration and logistical matter of booking travel and a place to stay, for a little longer than I should have.
 
-First, I checked with a person in our organization who oversaw travel/expenses, about how the process of booking everything (flight, stay, registration etc.) for the event, as this was my first exposure to travel/expense related events, and with attending an event that my company was sponsoring me to attend.
+As I was the new kid on the block when it came to [AWS re:Invent] and -- more generally -- when it came to getting my company to financially sponsor me for an event that involved travel and booking a hotel, I was also mighty unclear on the (organization-approved) method or approach to book airfare or handle travel-related expenses.
+
+I wasted a lot more time than intended, as I was still trying to figure it out, and piece together the various parts of the puzzle. I needed a guiding hand to direct me on the next steps to take; towards that end, I contacted individuals within my organization who likely would be able to nudge me in the right direction.
+
+I had initially reached out to my manager, who mentioned looking into something called a corporate [P-Card](https://www.napcp.org/page/WhatArePCards) (I only much later found out what a P-Card was -- that the _P_ stands for *P*urchasing, and that it's a corporate-issued card for employees and used to make payments on behalf of their employer, for instance. However, largely and as a whole, I was able to breathe a sigh of relief, as I later learned I did not need to apply for a P-Card in my scenario; since P-Cards were ideal for employees who were traveling more frequently (generally twice at least) in a given year, and I really did not satisfy the stipulations of this criteria in my current scenario.
+
+I also got led around the block for what felt an inordinate amount of time, as I was essentially bounced back and forth against the wall for a while. Although I had reached out to my manager, I did not glean the necessary details I needed to make an informed decision. My manager, in turn, directed me to a point of contact who, again, had their hands tied as they were not part of the department that oversaw or managed travel and expenditures. To their credit, this person _was_ able to point me in the right direction, to an individual who _was_ able to field a now-burgeoning list of questions that I had.
+
+Thus, I eventually ended up checking with a person in our organization who oversaw travel/expenses, about the process of booking everything (flight, stay, registration etc.) for the event, as this was my first exposure to travel/expense related events, and with attending an event that my company was sponsoring me to attend.
 
 The answer that I got more or less, gave me a few key points and clarifications:
 
 - I could pay for everything with a personal credit card.
 - All travel (and hotel) should be booked through Concur -- our company travel site.
 
-Thus, I immediately booked a flight and hotel to and from the destination area (Las Vegas) using Concur Travel, after signing in with our company SSO.
+A week later -- on November 11th -- I proceeded to book my round-trip flight + hotel on our company travel portal on Concur, to and from the destination site (Las Vegas), after signing in with our company SSO.
 
 I will attach more details when time allows. These are the vagaries and sketched outlines of the travel information:
 
@@ -344,3 +362,5 @@ Thanks all, and happy holidays.
 [expo]: https://reinvent.awsevents.com/learn/expo
 [cloud computing]: https://medium.com/@colinbaird_51123/a-primer-on-cloud-computing-9a34e90303c8
 [pycon]: https://us.pycon.org
+[cloud]: https://www.vox.com/2015/4/30/11562024/too-embarrassed-to-ask-what-is-the-cloud-and-how-does-it-work
+[microsoft azure]: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure
