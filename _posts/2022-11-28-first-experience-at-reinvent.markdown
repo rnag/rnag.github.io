@@ -88,7 +88,7 @@ The only place we were allowed to take off our masks was during lunch or breakti
 
 ![](https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220914-covid-vaccination-germany-al-1118-f9b617.jpg){: width="77%"}
 
-Some sources claim there were fewer attendees for re:Invent last year, 2021 -- around 25,000 people, or close to half the amount of usual attendees -- at least based on numbers from the pre-pandemic era. I suppose this makes sense, as the world as a whole was still recovering from the COVID pandemic at around that time, and a lot of people still (such as me) opted not to attend the event in-person that year at all.
+Some sources claim there were fewer attendees for re:Invent last year, 2021 -- around 25,000 people, or close to half the amount of usual attendees -- at least based on numbers from the pre-pandemic era. I suppose this makes sense, as the world as a whole was still recovering from the COVID Pandemic at around that time, and a lot of people still (such as me) opted not to attend the event in-person that year at all.
 
 That's not even taking into account the registration costs for individual attendees -- attending the full conference in person costs $1799; but you can view a lot of the events live and virtually for free.
 
@@ -124,7 +124,7 @@ Still, as I mentioned before -- my organization was really big into AWS, and I a
 
 In any case, I was excited about attending [AWS re:Invent], since I have interfaced a lot (and frequently) with Amazon Web Services in a professional setting, and I was pretty glad at the opportunity to attend an event where I got to learn new things and also socialize with other attendees there -- sort of like knocking out two birds with one stone, if you will.
 
-The idea of looking a gift horse in the mouth, or even concerning myself with financial matters and logistics such as booking, travel, stay, and other fees, didn't even cross my mind. I was still wrapped up in excitement and anticipation for attended an official tech/learning event hosted by AWS.
+The idea of looking a gift horse in the mouth, or even concerning myself with financial matters and logistics such as booking, travel, stay, and other fees, didn't even cross my mind. I was still wrapped up in excitement and anticipation over attending an official tech/learning event hosted by AWS.
 
 It was still up in the air whether I would be green-lighted to attend or not, however I was -- at a minimum -- happy and glad that my organization was in the midst of making plans to send a few of us to the learning event in-person this year.
 
@@ -139,16 +139,26 @@ As I was the new kid on the block when it came to [AWS re:Invent] and -- more ge
 
 I wasted a lot more time than intended, as I was still trying to figure it out, and piece together the various parts of the puzzle. I needed a guiding hand to direct me on the next steps to take; towards that end, I contacted individuals within my organization who likely would be able to nudge me in the right direction.
 
-I had initially reached out to my manager, who mentioned looking into something called a corporate [P-Card](https://www.napcp.org/page/WhatArePCards) (I only much later found out what a P-Card was -- that the _P_ stands for *P*urchasing, and that it's a corporate-issued card for employees and used to make payments on behalf of their employer, for instance. However, largely and as a whole, I was able to breathe a sigh of relief, as I later learned I did not need to apply for a P-Card in my scenario; since P-Cards were ideal for employees who were traveling more frequently (generally twice at least) in a given year, and I really did not satisfy the stipulations of this criteria in my current scenario.
+I had initially reached out to my manager, who mentioned looking into something called a corporate [P-Card](https://www.napcp.org/page/WhatArePCards). I only much later found out what a P-Card was -- that the _P_ stands for *P*urchasing, and that it's a corporate-issued card for employees and used to make payments on behalf of their employer, for instance.
+
+I wasn't on the surest of footing in terms of the process of applying for a P-Card, and additionally I got the impression it was completely outside of my domain of expertise. This was way out of my depth, and I was starting to tread uncharted waters, without knowing how deep the well went; I also had no idea on how to go about acquiring such a corporate card. This also seemed rather like overkill to me -- after all, did I really need to jump through so many (corporate) hoops to simply record any expenses, when the time came to make the altogether necessary transactions? And wouldn't a personal credit card be much easier, after all? The answers to such burning questions were left largely unanswered, however I could feel a lot of doubt and uncertainty bubbling up and accumulating within me.
+
+However, largely and as a whole, I was able to breathe a sigh of relief, as I later learned I did not need to apply for a P-Card in my scenario; since P-Cards were ideal for employees who were traveling more frequently (generally twice at least) in a given year, and I really did not satisfy the stipulations of this criteria in my current scenario.
 
 I also got led around the block for what felt an inordinate amount of time, as I was essentially bounced back and forth against the wall for a while. Although I had reached out to my manager, I did not glean the necessary details I needed to make an informed decision. My manager, in turn, directed me to a point of contact who, again, had their hands tied as they were not part of the department that oversaw or managed travel and expenditures. To their credit, this person _was_ able to point me in the right direction, to an individual who _was_ able to field a now-burgeoning list of questions that I had.
 
-Thus, I eventually ended up checking with a person in our organization who oversaw travel/expenses, about the process of booking everything (flight, stay, registration etc.) for the event, as this was my first exposure to travel/expense related events, and with attending an event that my company was sponsoring me to attend.
+Thus, I eventually -- like the lone sprinter bursting through bureaucratic red tape of a finish line, with arms outstretched high over their head, a wide smile gracing their bright and enthusiastic face -- wound up checking with a person in our organization who oversaw travel/expenses, on the process of booking everything (flight, stay, registration, etc.) for the event, as this was my first exposure to travel- and expense- related events, especially when it came to signing up for a learning conference my company was sponsoring me to attend.
+
+My questions were received in a candid and friendly manner. While I did not get an influx of new information in the form of relentless, frothing tidal waves that threatened to overwhelm me and upend the foundations of my understanding, there were certainly enough sentences and takeaways that let me satiated, to the point where I could put my foot down and unequivocally state I had enough to go on -- kind of like sipping a glass of fresh-squeezed OJ to slake a dry and parched throat. It was just enough load to not run the risk of tipping over the boat, so to say.
 
 The answer that I got more or less, gave me a few key points and clarifications:
 
-- I could pay for everything with a personal credit card.
-- All travel (and hotel) should be booked through Concur -- our company travel site.
+- _I could pay for everything with a personal credit card._
+  - If I was going to be traveling more than twice a year, I could consider applying for a corporate card, but this was not a hard and fast rule and certainly not a cornerstone for recording booking and payments in any sense.
+- _All travel (and hotel) should be booked through Concur -- our company travel site._
+  - There was, additionally, a help section on the site that featured travel and expense resources for me to look through if I required additional clarification, or a refresher on the Concur training I'd gotten out the way when I initially joined more than a year ago -- and yes, my memory was certainly rusty at this point, so it was indeed worth it to skim through so I could round out my expertise and cement my understanding of such an undertaking, especially in the (likely) case I found myself in the same shoes in the future.
+- _If one is attending a conference where they have a [room block](https://www.heavenlydayevents.com/blog/2020/8/19/what-you-need-to-know-about-hotel-room-blocks) set up, booking can be done directly through that if the rate is better._
+  - To be honest, I did not make use of this one nugget of information when doing the (last-minute) booking on our travel portal for the first time. I might keep this in mind for next time, as I did note on the main [events site](https://reinvent.awsevents.com/campus) for re:Invent that hotel blocks for better rates certainly appears to be a thing. The good news is that hotel blocks for the event _are_ offered, as AWS potentially has a partnership or agreement with the nearby hotel venues; however, at the time that I booked it, such blocks might very well have been sold out by then.
 
 A week later -- on November 11th -- I proceeded to book my round-trip flight + hotel on our company travel portal on Concur, to and from the destination site (Las Vegas), after signing in with our company SSO.
 
