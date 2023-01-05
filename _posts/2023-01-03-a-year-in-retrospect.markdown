@@ -5,31 +5,41 @@ date: 2023-01-04 18:00:00 -0400
 categories: 2022 "new years" year
 ---
 
-This year, or rather, the _past_ year -- 2022 -- was a truly _**great**_ one in more than one respect.
+This year, or rather, the _past_ year -- 2022 -- was a truly _**amazing**_ one in more than one respect.
 
-![](/assets/images/2022.jpg){: width="77%"}
+![Let's Celebrate 2022!](/assets/images/2022.jpg){: width="77%"}
+
+It certainly had its low points too -- rock-bottoms and troughs that were especially **_devastating_** to me.
+
+![Hitting Rock Bottom](https://www.psychmechanics.com/wp-content/uploads/2022/01/man-hitting-rock-bottom.jpg){: width="77%"}
 
 According to general consensus, [2022 was a better year than 2021](https://www.weforum.org/agenda/2021/12/most-think-2022-will-be-better-year).
 
-![](https://images.squarespace-cdn.com/content/v1/5a4fde67be42d6b9d0017e69/1578625046602-Z3Q44SVT3UM6X9EEDWKG/great-year.gif){: width="40%"}
+![It's a Great Year!](https://images.squarespace-cdn.com/content/v1/5a4fde67be42d6b9d0017e69/1578625046602-Z3Q44SVT3UM6X9EEDWKG/great-year.gif){: width="40%"}
 
 This is not to say COVID-19 was _eradicated_, or present no more, in 2022 -- quite the opposite, in fact.
 
-![](https://img2.chinadaily.com.cn/images/202010/30/5f9b5da5a31024adbd9cf89d.jpeg){: width="80%"}
+![No more COVID-19!](https://img2.chinadaily.com.cn/images/202010/30/5f9b5da5a31024adbd9cf89d.jpeg){: width="80%"}
 
 If you ask me, I'd say it was more prevalent than ever.
 
 Of course, this likely is biased, seeing as I got COVID-19 **_twice_** in 2022 -- and, this is the same year I came face-to-face with the virus for the first time ever.
 
-![](https://media.istockphoto.com/id/1203529885/vector/two-people-face-to-face-wearing-masks-2019-ncov-virus.jpg?s=170667a&w=0&k=20&c=TEkxs4QqhD1eQCks4ZImDTg5brevlm7l1-PermESGP0=){: width="80%"}
+![Face-to-Face with COVID-19](https://media.istockphoto.com/id/1203529885/vector/two-people-face-to-face-wearing-masks-2019-ncov-virus.jpg?s=170667a&w=0&k=20&c=TEkxs4QqhD1eQCks4ZImDTg5brevlm7l1-PermESGP0=){: width="80%"}
 
 As with all negatives, there must be positives; and the converse is also true.
 
 Don't take my word for it -- there is actually [a law](https://www.thoughtco.com/definition-of-conservation-of-mass-law-604412) that states as much, more or less.
 
-![](https://www.incimages.com/uploaded_files/image/1920x1080/getty_514657035_367300.jpg){: width="80%"}
+![Balance](https://www.incimages.com/uploaded_files/image/1920x1080/getty_514657035_367300.jpg){: width="80%"}
 
-The name (2022) itself lends itself to wistful _reflection_ and daring _innovation_, at least in terms of looking ahead and planning for the future.
+Apparently, [predictions were made for 2022](https://www.vox.com/future-perfect/2022/12/31/23509593/2022-predictions-macron-bolsanaro-covid-inflation-unemployment-climate-change-olympics) -- the majority of which, happened to be _shockingly_ right.
+
+![Predictions](https://martech.org/wp-content/uploads/2018/08/Prediction-crystal-ball_gmnhgp.png){: width="80%"}
+
+The name -- 2022 -- lends itself to wistful _reflection_ and daring _innovation_, at least in terms of looking ahead and planning for the future.
+
+![Innovation](https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full_caption/public/field_blog_entry_images/2020-09/shutterstock_625010075a.jpg?itok=oqedgtZh){: width="80%"}
 
 ---
 
@@ -55,7 +65,7 @@ Now, hold your horses. That doesn't seem all that right -- after all, was the _w
 
 I'll now rightfully hold out my hands in appeasement. Please, don't shoot. At least, not until the towering elephant in the room has been arrested -- the true perpetrator of the crime. To be fair, it was about time that just desserts were served, and on a burnished gold platter to boot.
 
-![](https://www.incimages.com/uploaded_files/image/1920x1080/getty_498141218_393246.jpg){: width="77%"}
+![Elephant in the Room](https://www.incimages.com/uploaded_files/image/1920x1080/getty_498141218_393246.jpg){: width="77%"}
 
 Confused? Well yes, that was rather intentional on my part.
 
@@ -63,19 +73,21 @@ OK, let's clarify -- the _last three_ above were **only related to me**.
 
 But who knows, this might very well be applicable to a whole slew of other people as well. Maybe I really _have_ opened a big ol' can of worms here. But I would say that's rather [the exception than the rule](https://ell.stackexchange.com/questions/302342/what-does-as-much-the-rule-as-the-exception-mean).
 
-![](https://libraries.uta.edu/ettahulme/sites/ettahulme/files/2020-08/20109756.jpg){: width="77%"}
+![Can of Worms](https://libraries.uta.edu/ettahulme/sites/ettahulme/files/2020-08/20109756.jpg){: width="77%"}
 
 Plus, isn't that really the whole point of the universe, and life in general? Essentially, that one is never on a boat by themselves -- there's always [Fido or even someone else](https://studycat.com/to-be-in-the-same-boat/).
 
-![](https://atlei.com/wp-content/uploads/2016/05/Same%20Boat.jpg){: width="77%"}
+![We're All in the Same Boat](https://atlei.com/wp-content/uploads/2016/05/Same%20Boat.jpg){: width="77%"}
 
-Like the pirate with the lone spyglass, let's cast our eyes through the glass lens, and introspect backwards, on the now-past year.
+Like a pirate gazing intently through the lone spyglass, let's cast our eyes through the glass lens, and introspect backwards, on a now-past year -- and what it means to us.
 
 > **2022.**
 
+![Introspection](https://images.saatchiart.com/saatchi/1782429/art/8419638/7483878-HSC00002-7.jpg){: width="50%"} Image Credits: [Introspection by Pierre Amour](https://www.saatchiart.com/art/Drawing-Introspection/1782429/8419638/view)
+
 # How Was 2022?
 
-_I encourage others to think about what the year means -- meant -- to each of us._
+_I encourage others to consider and think on what the year 2022 means -- or meant -- to each of us._
 
 # Introspection
 
@@ -98,7 +110,7 @@ Let's play along and entertain this fanciful notion for now, and say this (needl
 
 First of all, I would probably throw the (admittedly heavy) rulebook out the window in a fit of anger and frustration, if someone posed that question to me all in one go.
 
-Secondly, sometime after I had calmed down following the incident which involved breaking a rather expensive glass pane, and after I had retrieved said leather-bound book and dusted it off -- once I had a moment to reflect on what the question was largely asking, I would agree that it is essentially posed as an open-ended or free-form question, meaning there is really no right or wrong answer, and so if absolutely needed the question could be distilled down to one simple ask -- phrased in a mere seven words, just as so.
+Secondly, sometime after I had calmed down following the incident which involved breaking a rather expensive glass pane, and after I had retrieved said leather-bound book and dusted it off -- once I had a moment to reflect on what the question was largely asking, I would agree that it is essentially posed as an open-ended or free-form question, meaning there is really no right or wrong answer, and so if absolutely needed the question could be distilled down to one simple ask -- phrased in a mere seven words or less, just as so.
 
 > What went down (and up) in 2022?
 
