@@ -11,7 +11,7 @@ This year, or rather, the _past_ year -- 2022 -- was a truly _**amazing**_ one i
 
 It certainly had its low points too -- rock-bottoms and troughs that were especially **_devastating_** to me.
 
-![Hitting Rock Bottom](https://www.psychmechanics.com/wp-content/uploads/2022/01/man-hitting-rock-bottom.jpg){: width="77%"}
+![Hitting Rock Bottom](/assets/images/rock-bottom.jpg){: width="77%"}
 
 According to general consensus, [2022 was a better year than 2021](https://www.weforum.org/agenda/2021/12/most-think-2022-will-be-better-year).
 
@@ -33,7 +33,7 @@ Don't take my word for it -- there is actually [a law](https://www.thoughtco.com
 
 ![Balance](https://www.incimages.com/uploaded_files/image/1920x1080/getty_514657035_367300.jpg){: width="80%"}
 
-Apparently, [predictions were made for 2022](https://www.vox.com/future-perfect/2022/12/31/23509593/2022-predictions-macron-bolsanaro-covid-inflation-unemployment-climate-change-olympics) -- the majority of which, happened to be _shockingly_ right.
+Apparently, [predictions were made for 2022](https://www.vox.com/future-perfect/2022/12/31/23509593/2022-predictions-macron-bolsanaro-covid-inflation-unemployment-climate-change-olympics) -- the majority of which, turned out to be _shockingly_ right.
 
 ![Predictions](https://martech.org/wp-content/uploads/2018/08/Prediction-crystal-ball_gmnhgp.png){: width="80%"}
 
@@ -79,7 +79,7 @@ Plus, isn't that really the whole point of the universe, and life in general? Es
 
 ![We're All in the Same Boat](https://atlei.com/wp-content/uploads/2016/05/Same%20Boat.jpg){: width="77%"}
 
-Like a pirate gazing intently through the lone spyglass, let's cast our eyes through the glass lens, and introspect backwards, on a now-past year -- and what it means to us.
+Like a pirate gazing ever so intently through the lone spyglass, let's cast our eyes through the transparent lens, and introspect backwards, on a now-past year -- and what it means to us.
 
 > **2022.**
 
@@ -130,7 +130,7 @@ It truly was a _marvelous_ year to envisage new technologies, and to expand your
 
 A year in which most people became understandably restless after being homebound most of 2020 and 2021 due to the COVID-19 Pandemic. Offices started requiring employees to commute to physical offices instead of working from home. Conventions and events started meet in-person this year. People started casting off the metaphorical shackles that had bound them for so long, attempting to break free.
 
-I hit an undoubtedly incredible milestone in my age. I got sick with COVID for the first time, and hated every second of it. I attended two tech conventions, each for the first time in my life. I got COVID _again_, hated it as much; I was bedridden for a whole day. I _almost_ made a friend, and _almost_ made a lover, two separate entities -- then the moment passed, and it slipped through the cracks in my outstretched hand. I traveled all the way West and South of the States. I went hiking and sightseeing at some really cool spots. I finally bit the bullet and got outfitted with a brand spanking new PS5 and game, which I'm rather proud of.
+I hit an undoubtedly _epic_ milestone in my age. I got sick with COVID for the first time, and hated every second of it. I attended two tech conventions, each for the first time in my life. I got COVID _again_, hated it as much; I was bedridden for a whole day. I _almost_ made a friend, and _almost_ made a lover, two separate entities -- then the moment passed, and it slipped through the cracks in my outstretched hand. I traveled (almost) all the way West and South of the contiguous United States. I went hiking and sightseeing at some really cool spots. I finally bit the bullet and got outfitted with a brand spanking new PS5 and game, which I'm rather proud of.
 
 And yes, I stood up this (very same) website that you are reading through now.
 
@@ -157,9 +157,10 @@ _There's a lot I accomplished this year -- in 2022:_
   - I tried my hand [at Archery](https://g.co/kgs/gUDjqY) for the first time.
   - Finished the day by going to a [cool Korean BBQ spot](https://sokoreanbbq.com/).
 - Contracted Coronavirus (COVID-19) for the first time.
-  - Also went to an opera at Wolf Trap, whilst I was unknowingly sick with COVID (to be fair, I pegged it only as a headache).
+  - Also went to an Star Wars concert at [Wolf Trap](https://www.wolftrap.org/), whilst I was unknowingly sick with COVID (to be fair, I pegged it only as a headache).
 - Took a trip with my family to North Carolina, and to Gatlinburg, Tennessee.
   - We visited the Smoky Mountains and quite a few hiking spots there.
+  - Went Moonshine tasting at [Sugarlands](https://www.sugarlands.com/) in Gatlinburg, for only $5 each person. Great quality and varieties of Moonshine.
 - Road trip and joined my extended family in Florida, for Thanksgiving week.
   - Went to Miami, a whole host of other locations and eateries, and Disney World.
 - Attended AWS re:Invent, live and in-person in Las Vegas, NV for the first time.
@@ -175,7 +176,7 @@ _There's a lot I accomplished this year -- in 2022:_
 
 Well, that's certainly a lot to digest, and I'll leave it as is for now.
 
-Suffice it to say, I _will_ miss (the year) 2022. This was a great year, and a lot moved ahead on the personal improvement front, even if not much traction was made on the academic or social front.
+Suffice it to say, I _will_ miss (the year) 2022. This was a great year, and I truly moved the needle on the personal improvement front, even if not much traction was made on the academic or social front.
 
 It was great to have boots on the ground, and embrace an active and adventurous lifestyle in 2022.
 
@@ -185,7 +186,7 @@ In the eye of my mind, I proceed now to light fireworks as a final send-off to a
 
 May you always hold a special place in our hearts and memories. You have served your time well. Go now in peace.
 
-And may you always find solace and comfort in the history books, that will forever capture you in their long, exhaustive pages; also as recorded in this blog -- which I truly hope against all reason passes the test of time.
+And may you always find solace and comfort in the history books, that will forever capture you in their long, exhaustive pages; also as recorded in this blog -- which I truly hope against all reason passes the test of time, and with flying colors at that.
 
 **Final send-off, to the year 2022.**
 
