@@ -62,7 +62,22 @@
       <span class="username">{{ social.twitter | escape }}</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.amazon or social.google -%}
+  {%- endif -%} {%- if social.instagram -%}
+  <li>
+    <a
+      rel="me"
+      href="https://instagram.com/{{ social.instagram | cgi_escape | escape }}"
+      target="_blank"
+      title="{{ social.instagram | escape }}"
+      ><svg class="svg-icon grey">
+        <use
+          xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"
+        ></use>
+      </svg>
+      <span class="username">{{ social.instagram | escape }}</span>
+    </a>
+  </li>
+  {%- endif -%} {%- if social.amazon or social.google or social.yelp -%}
   <li class="p-name">Reviews</li>
   {%- if social.amazon -%}
   <li>
@@ -86,6 +101,18 @@
     >
       <span class="svg-icon grey"> {% include /assets/google.svg %}</span>
       <span class="username">Google Maps</span>
+    </a>
+  </li>
+  {%- endif -%} {%- if social.yelp -%}
+  <li>
+    <a
+      rel="me"
+      href="https://www.yelp.com/user_details_reviews_self?userid={{ social.yelp | cgi_escape | escape }}"
+      target="_blank"
+      title="My Yelp Reviews"
+    >
+      <span class="svg-icon grey"> {% include /assets/yelp.svg %}</span>
+      <span class="username">Yelp</span>
     </a>
   </li>
   {%- endif -%} {%- endif -%}
