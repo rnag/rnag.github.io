@@ -39,6 +39,7 @@ minima:
 
   # generate social links in footer
   social_links:
+    instagram: rv.kvetch
     twitter: nagrim7
     github: rnag
     linkedin: ritviknag
@@ -46,6 +47,7 @@ minima:
     # reviews
     amazon: AGHUUSBG63RRWQ5EEME5ZFNTYVEA
     google: "115125010633237882853"
+    yelp: bV7D-Sjrd-nTT1-X7P9dzQ
 
 # Build settings
 theme: minima
