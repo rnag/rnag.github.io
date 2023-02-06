@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Looking Ahead - Full Launch of a New Year"
+title: "New Year, New Hopes ..."
 date: 2023-02-05 11:54:03 -0400
 categories: new years goals resolutions 2023
 ---
 
-Tonight marks the 5th of February of a Brand New Year -- 2023.
+Tonights marks the 5th of February of a Brand New Year -- 2023.
 
 The year that took the world by _incipient_ storm. A year that no one asked for, but the one that gradually and unanimously showed up at our doorsteps, uninvited in the deep dark but cloaked in the shadows of greatness, with the carrying aura and grace that reminds one of a traveling salesman and a 19th century Gothic poet all neatly rolled into one: promising everything, possessing near to nothing -- not a single whit to its name; it would have been almost comical, had there not been a pending foreclosure riding on its coattails, like a shadow looming overhead, threatening to swallow us whole and blot out the ever-darkening clouds for good measure.
 
@@ -15,7 +15,7 @@ Add to that boiling cauldron of a certifiable "hot mess", now comes a budding ye
 
 **_Valentine's Day_** is certainly -- an _interesting_ holiday and a meaningful occasion for lovers of all kinds, regardless of age and other determining factors.
 
-Hearts and kisses abounding, and hugs and gift-wrapped chocolates, and the vestiges of everything good and generous remaining in this tortuous world. An embracing warmth, like layering oneself in a heated blanket next to an electric fireplace while a snowstorm is in full swing outdoors; or the most-welcome heat of someone hugging you in the heart of a February winter, in the midst of a biting and relentless cold; or an incredible warmth that comes over all at once, like the raging heat of a burning furnace pouring over the bitter, resolute ice-cold steel of a man's heart -- consuming it but not seeking to destroy it, instead boldening it and tempering it, driving it to new heights.
+Hearts and kisses abounding, and hugs and gift-wrapped chocolates, and the vestiges of everything good and generous remaining in this tortuous world. An embracing warmth, like layering oneself in a heated blanket next to an electric fireplace while a snowstorm is in full swing outdoors; or the most-welcome heat of someone hugging you in the heart of a February winter, in the midst of a biting and relentless cold; or an incredible warmth that comes over all at once, like the raging heat of a burning furnace pouring over the bitter, resolute ice-cold steel of a man's heart -- consuming it but not seeking to destroy it, instead boldening and tempering it, driving it to new heights and reinforcing its form.
 
 To sum up, _**Valentine's Day**_ was historically meant to be a day of silent and informal celebration, of spending time with one's lover or loved ones close by and within arm's reach. It's meant to be a time of joy and spreading love -- be it intimate, brotherly, or familial, and so on. And hey, whatever happened to the hungering quest for world peace? Love makes the world go around and breathes new meaning to youth and life, after all -- or purportedly so, at any rate.
 
@@ -23,7 +23,7 @@ And yet, it's never been a holiday that I've ever been partial to, or ever celeb
 
 To sum up, **_Valentine's Day_** is a day for _lovers_ to spend time together. And me saying that, makes me realize that it's actually the entire point and topic of me taking the time and precious effort into writing and chronicling my thoughts down here. It actually cements and validates the purpose of me pouring heart and soul into this blog article -- focuses my desire and intent and hones it into a fine-edged sword if you will, razor-sharp and battle-ready.
 
-Let it be clear: my desire and intent is both _singular_ by nature. By that extension, I only have a singular goal and resolution for the New Year -- 2023. It's no secret, and it's nothing novel in any manner. It actually can be linked to the oldest trick in the book; the simple card trick that skirts the edge between deceit and honest talent.
+Let it be clear: my desire and intent is both _singular_ by nature. By that extension, I only have a singular goal and resolution for the New Year -- 2023. It's no secret, and it's nothing novel in any manner. It actually can be likened to the oldest trick in the book; the simple card trick that skirts the edge between deceit and honest talent.
 
 I only have \*one\* _singular_ goal this year, in 2023: and that is to find my one true **lover**, wherever she (or _he_?) exists in this ever-dreary realm and wide-sweeping plane of existence.
 
