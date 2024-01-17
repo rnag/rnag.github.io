@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "This Veterans Day Was Sick.."
-date: 2022-11-11 12:00:00 -0400
+date: 2022-11-11T12:00:00-04:00
 categories:
+  - blog
+tags:
   - veterans
   - day
   - stranger things

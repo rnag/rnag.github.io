@@ -1,8 +1,13 @@
 ---
-layout: post
 title: "New Year, New Hopes ..."
-date: 2023-02-05 11:54:03 -0400
-categories: new years goals resolutions 2023
+date: 2023-02-05T11:54:03-04:00
+categories:
+  - blog
+tags:
+  - new years
+  - goals
+  - resolutions
+  - '2023'
 ---
 
 Tonights marks the 5th of February of a Brand New Year -- 2023.

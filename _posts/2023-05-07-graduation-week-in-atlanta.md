@@ -1,8 +1,12 @@
 ---
-layout: post
 title: "Graduation Week in Atlanta"
-date: 2023-05-07 18:15:00 -0400
-categories: atlanta georgia graduation
+date: 2023-05-07T18:15:00-04:00
+categories:
+  - blog
+tags:
+  - atlanta
+  - georgia
+  - graduation
 ---
 
 I'm on the long road headed back from **Atlanta, Georgia**.

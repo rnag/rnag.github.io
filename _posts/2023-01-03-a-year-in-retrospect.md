@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "2022: Year in Retrospect"
-date: 2023-01-04 18:00:00 -0400
-categories: 2022 "new years" year
+date: 2023-01-04T18:00:00-04:00
+categories:
+  - blog
+tags: 2022 "new years" year
 ---
 
 This year, or rather, the _past_ year -- 2022 -- was a truly _**amazing**_ one in more than one respect.

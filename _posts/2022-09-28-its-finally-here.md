@@ -1,9 +1,14 @@
 ---
-layout: post
 title: "It's Finally Here!"
-date: 2022-09-28 16:24:03 -0400
-categories: first website
+date: 2022-09-28T16:24:03-04:00
+categories:
+  - blog
+tags:
+  - first
+  - website
 ---
+
+
 
 Hooray 🎉! At long last, I've managed to publish my **first** personal website, after delaying it for many years up until this point. This has certainly been a long time in the making, and I'm glad I was able to find the time in my hectic schedule to put all this together.
 

@@ -1,8 +1,12 @@
 ---
-layout: post
 title: "November: On Reflection and Giving Thanks"
 date: 2023-11-28 23:55:00 -0400
-categories: november thanksgiving reflection
+categories:
+  - blog
+tags:
+  - november
+  - thanksgiving
+  - reflection
 ---
 
 Alright, let’s just get it out of the way — November is not my favorite month.

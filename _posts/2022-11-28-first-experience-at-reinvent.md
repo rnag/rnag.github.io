@@ -1,11 +1,12 @@
 ---
-layout: post
 title: "My First Time at AWS re:Invent"
-date: 2022-11-28 12:00:00 -0400
+date: 2022-11-28T12:00:00-04:00
 categories:
+  - blog
+tags:
   - aws
   - reinvent
-  - 2022
+  - '2022'
 ---
 
 It was my first ever time at [AWS re:Invent] this year -- 2022 -- attending in-person at Las Vegas.
