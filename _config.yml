@@ -8,7 +8,7 @@ title_separator          : "-"
 name                     : &name "Ritvik Nag"
 description: &description >- # this means to ignore newlines until "baseurl:"
   Software Dev & Autom. Engineer. Grad Student (CS/ML) @ [George Mason](https://www.gmu.edu).
-  Love to read, run, cook, write, & game!
+  Love to run, read, cook, write, & game!
 url                      : &url "https://rnag.github.io"
 baseurl                  : ""
 domain                   : rnag.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
@@ -119,7 +119,7 @@ author:
       url: "https://www.amazon.com/gp/profile/amzn1.account.AGHUUSBG63RRWQ5EEME5ZFNTYVEA"
     - label: "Google Maps"
       icon: "fab fa-fw fa-google"
-      url: "https://www.google.com/maps/contrib/115125010633237882853"
+      url: "https://www.google.com/maps/contrib/115125010633237882853/reviews"
     - label: "Yelp"
       icon: "fab fa-fw fa-yelp"
       url: "https://www.yelp.com/user_details_reviews_self?userid=bV7D-Sjrd-nTT1-X7P9dzQ"
