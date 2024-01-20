@@ -9,7 +9,7 @@ name                     : &name "Ritvik Nag"
 description: &description >- # this means to ignore newlines until "baseurl:"
   Software Dev & Autom. Engineer. CS Grad Student @ [George Mason](https://www.gmu.edu).
   Love to run, read, cook, write, & game!
-url                      : &url "https://rnag.github.io"
+url                      : &url "https://ritviknag.com"
 baseurl                  : ""
 domain                   : rnag.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 repository               : "rnag/rnag.github.io"
