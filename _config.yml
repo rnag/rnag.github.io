@@ -7,7 +7,7 @@ subtitle                 : # site tagline that appears below site title in masth
 title_separator          : "-"
 name                     : &name "Ritvik Nag"
 description: &description >- # this means to ignore newlines until "baseurl:"
-  Software Dev & Autom. Engineer. Grad Student (CS/ML) @ [George Mason](https://www.gmu.edu).
+  Software Dev & Autom. Engineer. CS Grad Student @ [George Mason](https://www.gmu.edu).
   Love to run, read, cook, write, & game!
 url                      : &url "https://rnag.github.io"
 baseurl                  : ""
@@ -94,50 +94,45 @@ author:
   bio              : *description
   location         : "Herndon, VA"
   email            : "rv.kvetch@gmail.com"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ritviknag.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rnag"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/rv.kvetch"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ritviknag"
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/10237506/rv-kvetch"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/RitvikNag"
-    # reviews
-    - label: "Amazon"
-      icon: "fab fa-fw fa-amazon"
-      url: "https://www.amazon.com/gp/profile/amzn1.account.AGHUUSBG63RRWQ5EEME5ZFNTYVEA"
-    - label: "Google Maps"
-      icon: "fab fa-fw fa-google"
-      url: "https://www.google.com/maps/contrib/115125010633237882853/reviews"
-    - label: "Yelp"
-      icon: "fab fa-fw fa-yelp"
-      url: "https://www.yelp.com/user_details_reviews_self?userid=bV7D-Sjrd-nTT1-X7P9dzQ"
+  # uri              : "https://ritviknag.com"
+  twitter          :  *twitter
+  linkedin         :  ritviknag
+  instagram        :  rv.kvetch
+  github           :  rnag
+  stackoverflow    :  10237506/rv-kvetch
+  steam            :  *twitter
 
+  # TODO Do I need a YouTube?
+
+  reviews:
+    amazon         : "AGHUUSBG63RRWQ5EEME5ZFNTYVEA"
+    google_maps    : "115125010633237882853"
+    yelp           : "bV7D-Sjrd-nTT1-X7P9dzQ"
+
+# TODO: Let's DRY this, and parametrize as above.
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:photoadrian@outlook.com"
+      url: "mailto:rv.kvetch@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: *url
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rnag"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/RitvikNag"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ritviknag"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rv.kvetch"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rnag"
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/10237506/rv-kvetch"
 
 defaults:
   # _posts
