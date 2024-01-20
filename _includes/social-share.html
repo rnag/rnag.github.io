@@ -9,9 +9,9 @@
   <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}" class="btn btn--twitter" onclick="{{ onclick }}" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <!-- WhatsApp: Laptop -->
-  <a href="https://api.whatsapp.com/send?text=Check out this post! {{ page.title | url_encode }}. {{ page.url | absolute_url | url_encode }}" class="btn btn--whatsapp show-large" onclick="{{ onclick }}" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span></a>
+  <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%0A%0ACheck out this post! {{ page.url | absolute_url | url_encode }}" class="btn btn--whatsapp show-large" onclick="{{ onclick }}" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span></a>
   <!-- WhatsApp: Mobile Devices (iPhone, Android, etc.) -->
-  <a href="whatsapp://send?text=Check out this post! {{ page.title | url_encode }}. {{ page.url | absolute_url | url_encode }}" class="btn btn--whatsapp show-mobile" data-action="share/whatsapp/share" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span></a>
+  <a href="whatsapp://send?text={{ page.title | url_encode }}%0A%0ACheck out this post! {{ page.url | absolute_url | url_encode }}" class="btn btn--whatsapp show-mobile" data-action="share/whatsapp/share" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} WhatsApp"><i class="fab fa-fw fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span></a>
 
   <a href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}&title={{page.title | url_encode}}" class="btn btn--reddit" onclick="{{ onclick }}" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
 
@@ -19,7 +19,7 @@
 
   <a href="https://toot.kytta.dev/?text={{ page.url | absolute_url | url_encode }}" class="btn btn--mastodon" onclick="{{ onclick }}" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Mastodon"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span> Mastodon</span></a>
 
-  <a href="mailto:?subject={{page.title | url_encode}}&amp;body=Check out this post! {{ page.url | absolute_url | url_encode }}" class="btn btn--email" onclick="{{ onclick }}" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share via' }} Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span> Email</span></a>
+  <a href="mailto:?subject={{page.title | url_encode}}&amp;body=Check out this post! {{ page.url | absolute_url | url_encode }}" class="btn btn--email" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share via' }} Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i><span> Email</span></a>
 
 </a>
 
