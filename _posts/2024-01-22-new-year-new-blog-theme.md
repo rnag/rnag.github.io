@@ -11,8 +11,6 @@ tags:
 
 ---
 
-# New Year, New Blog Theme
-
 So — new year, new me.
 And hey, new blog theme too. Well, how about that. Yeah, so I ditched the (somewhat default) `minima` theme that nearly everyone and their mom who uses `jekyll` likes to roll with. I mean, don’t get me wrong — It’s great, it’s awesome, and really it’s superb for beginners (like me) who’re starting to dip their feet into the strange, wide world of self-hosted blog sites, or at least blog sites where one isn’t forced to shell out more than a reasonable amount of cash.
 
