@@ -93,7 +93,7 @@ author:
   avatar           : "/assets/images/ritvik-nag.jpg"
   bio              : *description
   location         : "Herndon, VA"
-  email            : "rv.kvetch@gmail.com"
+  email            : "me@ritviknag.com"
   # uri              : "https://ritviknag.com"
   twitter          :  *twitter
   linkedin         :  ritviknag
@@ -114,7 +114,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:rv.kvetch@gmail.com"
+      url: "mailto:me@ritviknag.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: *url
