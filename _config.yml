@@ -87,6 +87,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 # minima:
 #   date_format: "%b %-d, %Y"
+date_format: "%b %-d, %Y at %I:%M %p local time"
 
 author:
   name             : *name
@@ -143,6 +144,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       toc: true
       comments: true
       share: true
