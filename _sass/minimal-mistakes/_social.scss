@@ -1,0 +1,39 @@
+/* ==========================================================================
+   SOCIAL STYLES. Conditional - Smaller Screens (Phone) vs. Larger (Laptop).
+   ========================================================================== */
+
+   .show-large {
+    display: none;
+  }
+
+  @media only screen and (min-width: 500px) {
+    .show-large {
+      display: inline-block;
+    }
+    .show-mobile {
+      display: none;
+    }
+  }
+
+  .page__inner-wrap > section img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  .icon-amazon {
+    color: rgba(255, 255, 255, 1) !important;
+    background-color: #232F3E !important;
+    border-radius: 1em;
+    padding: 2px;
+  }
+
+  .icon-google {
+    color: #0F9D58 !important;
+  }
+
+  .icon-yelp {
+    color: rgba(255, 255, 255, 1) !important;
+    background-color: rgba(224, 7, 7, 1) !important;
+    border-radius: 1em;
+    padding: 3px;
+  }

@@ -1,0 +1,23 @@
+{% if reviews.amazon %}
+  <li>
+    <a href="https://www.amazon.com/gp/profile/amzn1.account.{{ reviews.amazon | cgi_escape | escape }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-amazon icon-amazon" aria-hidden="true"></i><span class="label">Amazon</span>
+    </a>
+  </li>
+{% endif %}
+
+{% if reviews.google_maps %}
+  <li>
+    <a href="https://www.google.com/maps/contrib/{{ reviews.google_maps | cgi_escape | escape }}/reviews" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-google icon-google" aria-hidden="true"></i><span class="label">Google Maps</span>
+    </a>
+  </li>
+{% endif %}
+
+{% if reviews.yelp %}
+  <li>
+    <a href="https://www.yelp.com/user_details_reviews_self?userid={{ reviews.yelp | cgi_escape | escape }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-yelp icon-yelp" aria-hidden="true"></i><span class="label">Yelp</span>
+    </a>
+  </li>
+{% endif %}
