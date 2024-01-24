@@ -49,12 +49,12 @@ twitter:
 # github: [metadata]
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme             : mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: "US/Eastern"
+permalink                : /:categories/:title/
+paginate                 : 5 # amount of posts to show
+paginate_path            : /page:num/
+timezone                 : "US/Eastern"
 
 include:
   - _pages
@@ -110,52 +110,27 @@ author:
     google_maps    : "115125010633237882853"
     yelp           : "bV7D-Sjrd-nTT1-X7P9dzQ"
 
-# TODO: Let's DRY this, and parametrize as above.
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:me@ritviknag.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: *url
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/RitvikNag"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ritviknag"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/rv.kvetch"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rnag"
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/10237506/rv-kvetch"
-
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path            : ""
+      type            : posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
-      toc: true
-      comments: true
-      share: true
-      related: true
+      layout          : single
+      author_profile  : true
+      read_time       : true
+      show_date       : true
+      toc             : true
+      comments        : true
+      share           : true
+      related         : true
   # _pages
   - scope:
-      path: "_pages"
-      type: pages
+      path            : "_pages"
+      type            : pages
     values:
-      layout: single
-      author_profile: true
+      layout          : single
+      author_profile  : true
 
 category_archive:
   type: liquid

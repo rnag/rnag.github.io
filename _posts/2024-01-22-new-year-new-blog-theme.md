@@ -12,7 +12,9 @@ tags:
 ---
 
 So — new year, new me.
-And hey, new blog theme too. Well, how about that. Yeah, so I ditched the (somewhat default) `minima` theme that nearly everyone and their mom who uses `jekyll` likes to roll with. I mean, don’t get me wrong — It’s great, it’s awesome, and really it’s superb for beginners (like me) who’re starting to dip their feet into the strange, wide world of self-hosted blog sites, or at least blog sites where one isn’t forced to shell out more than a reasonable amount of cash.
+And hey, new blog theme too. Well, how about that.
+
+Yeah, so I ditched the (somewhat default) `minima` theme that nearly everyone and their mom who uses `jekyll` likes to roll with. I mean, don’t get me wrong — It’s great, it’s awesome, and really it’s superb for beginners (like me) who’re starting to dip their feet into the strange, wide world of self-hosted blog sites, or at least blog sites where one isn’t forced to shell out more than a reasonable amount of cash.
 
 For full transparency, all I really pay to maintain my blog site and ensure it’s running is about $10 per year, and that’s just for the domain hosting alone, which one cannot reasonably handle themselves. I pay that amount for the domain `ritviknag.com` — AKA *myname.com* — which I own, and pay an annual fee or tithe or whatever for the ownership of the domain. It’s rather a minor inconvenience, in my opinion, but more importantly it provides peace of mind knowing that yeah, it just works, and I don’t have to think about how, how exactly that’s functioning behind the curtains up on stage. Like the domain `ritviknag.com` exists, it just automagically works when I visit it in a browser, and redirects to my `github.io` url that I’m hosting on GitHub Pages, and all the SSL certificates and email forwarding is all automagically set up as well, and I’ve never had any problem with it, and like seriously — _“It Just Fucking Works™”_.
 
