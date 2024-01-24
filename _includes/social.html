@@ -1,119 +1,66 @@
-{%- assign social = site.minima.social_links -%}
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+<!-- {% assign reviews = author.reviews %} -->
 
-<ul class="social-media-list">
-  {%- if social.github -%}
+<ul class="author__urls social-icons">
+
+  {% if author.email %}
   <li>
-    <a
-      rel="me"
-      href="https://github.com/{{ social.github | cgi_escape | escape }}"
-      target="_blank"
-      title="{{ social.github | escape }}"
-      ><svg class="svg-icon">
-        <use
-          xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"
-        ></use>
-      </svg>
-      <span class="username">{{ social.github | escape }}</span></a
-    >
-  </li>
-  {%- endif -%} {%- if social.stackoverflow -%} {% assign so_username =
-  social.stackoverflow | split: '/' | last | replace: '-', '.' | escape %}
-  <li>
-    <a
-      rel="me"
-      href="https://stackoverflow.com/users/{{ social.stackoverflow | escape }}"
-      target="_blank"
-      title="{{ so_username }}"
-      ><svg class="svg-icon grey">
-        <use
-          xlink:href="{{ '/assets/minima-social-icons.svg#stackoverflow' | relative_url }}"
-        ></use>
-      </svg>
-      <span class="username">{{ so_username }}</span>
+    <a href="mailto:{{ author.email }}" rel="me" class="u-email">
+      <meta itemprop="email" content="{{ author.email }}" />
+      <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.linkedin -%}
+  {% endif %}
+
+  {% if author.github %}
   <li>
-    <a
-      rel="me"
-      href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}"
-      target="_blank"
-      title="{{ social.linkedin | escape }}"
-      ><svg class="svg-icon grey">
-        <use
-          xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"
-        ></use>
-      </svg>
-      <span class="username">{{ social.linkedin | escape }}</span>
+    <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.twitter -%}
+  {% endif %}
+
+  {% if author.stackoverflow %}
   <li>
-    <a
-      rel="me"
-      href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
-      target="_blank"
-      title="{{ social.twitter | escape }}"
-      ><svg class="svg-icon grey">
-        <use
-          xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"
-        ></use>
-      </svg>
-      <span class="username">{{ social.twitter | escape }}</span>
+    <a href="https://stackoverflow.com/users/{{ author.stackoverflow }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i><span class="label">Stack Overflow</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.instagram -%}
+  {% endif %}
+
+  {% if author.linkedin %}
   <li>
-    <a
-      rel="me"
-      href="https://instagram.com/{{ social.instagram | cgi_escape | escape }}"
-      target="_blank"
-      title="{{ social.instagram | escape }}"
-      ><svg class="svg-icon grey">
-        <use
-          xlink:href="{{ '/assets/minima-social-icons.svg#instagram' | relative_url }}"
-        ></use>
-      </svg>
-      <span class="username">{{ social.instagram | escape }}</span>
+    <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.amazon or social.google or social.yelp -%}
-  <li class="p-name">Reviews</li>
-  {%- if social.amazon -%}
+  {% endif %}
+
+  {% if author.twitter %}
   <li>
-    <a
-      rel="me"
-      href="https://www.amazon.com/gp/profile/amzn1.account.{{ social.amazon | cgi_escape | escape }}"
-      target="_blank"
-      title="My Amazon Reviews"
-    >
-      <span class="svg-icon grey"> {% include /assets/amazon.svg %}</span>
-      <span class="username">Amazon</span>
+    <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.google -%}
+  {% endif %}
+
+  {% if author.instagram %}
   <li>
-    <a
-      rel="me"
-      href="https://www.google.com/maps/contrib/{{ social.google | cgi_escape | escape }}/reviews"
-      target="_blank"
-      title="My Google Reviews"
-    >
-      <span class="svg-icon grey"> {% include /assets/google.svg %}</span>
-      <span class="username">Google Maps</span>
+    <a href="https://instagram.com/{{ author.instagram }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span>
     </a>
   </li>
-  {%- endif -%} {%- if social.yelp -%}
+  {% endif %}
+
+  {% if author.steam %}
   <li>
-    <a
-      rel="me"
-      href="https://www.yelp.com/user_details_reviews_self?userid={{ social.yelp | cgi_escape | escape }}"
-      target="_blank"
-      title="My Yelp Reviews"
-    >
-      <span class="svg-icon grey"> {% include /assets/yelp.svg %}</span>
-      <span class="username">Yelp</span>
+    <a href="https://steamcommunity.com/id/{{ author.steam }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fab fa-fw fa-steam" aria-hidden="true"></i><span class="label">Steam</span>
     </a>
   </li>
-  {%- endif -%} {%- endif -%}
+  {% endif %}
+
+  {%- include author-profile-custom-links.html -%}
+
 </ul>
