@@ -8,31 +8,11 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
 
-  <li class="p-name row-header"><span>Reviews</span><i class="icon-pad-both fas fa-fw fa-chevron-circle-right" aria-hidden="true"></i></li>
+  <li class="row-header">
+    <span>Reviews</span><i class="icon-arrow-right fas fa-fw fa-chevron-circle-right" aria-hidden="true"></i>
+  </li>
 
-    {% if reviews.amazon %}
-      <li>
-        <a href="https://www.amazon.com/gp/profile/amzn1.account.{{ reviews.amazon | cgi_escape | escape }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-          <i class="fab fa-fw fa-amazon" aria-hidden="true"></i><span class="label">Amazon</span>
-        </a>
-      </li>
-    {% endif %}
-
-    {% if reviews.google_maps %}
-      <li>
-        <a href="https://www.google.com/maps/contrib/{{ reviews.google_maps | cgi_escape | escape }}/reviews" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-          <i class="fab fa-fw fa-google" aria-hidden="true"></i><span class="label">Google Maps</span>
-        </a>
-      </li>
-    {% endif %}
-
-    {% if reviews.yelp %}
-      <li>
-        <a href="https://www.yelp.com/user_details_reviews_self?userid={{ reviews.yelp | cgi_escape | escape }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-          <i class="fab fa-fw fa-yelp" aria-hidden="true"></i><span class="label">Yelp</span>
-        </a>
-      </li>
-    {% endif %}
+  {%- include review-links.html -%}
 
   </ul>
 </div>
