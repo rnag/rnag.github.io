@@ -14,6 +14,8 @@ tags:
 
 ---
 
+Long story short, I achieved a personal goal to run under a five-minute mile on the treadmill, twice in a day -- and nearly destroyed my legs in the process.
+
 On January 22nd of this year — 2024 — which falls on a Monday, my gym that I go to (Orangetheory Fitness) was pushing a special challenge, which coincided with a seasonal fitness event they apparently have going on. This benchmark challenge was the One Mile Run — on the Treadmill. I attempted and completed it twice on that day, a Monday, and achieved my personal goal of sub-five-minute on the 1 Mile benchmark run. My thoughts and experiences follow.
 
 ## Transformation Goals
