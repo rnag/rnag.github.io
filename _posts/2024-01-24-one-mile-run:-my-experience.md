@@ -102,7 +102,14 @@ So at around 4:00 mark, forty-five seconds before when I was expecting to finish
 
 Anyway, I don’t think I could have sustained even that last burst of speed for the home stretch for a whole 45 seconds, but this dude on the treadmill next to me started cheering me on loudly. If not for that, I don’t think I would have kept going. Sometimes willpower alone is not enough, sometimes the necessary thing is strong words and encouragement from others, even one other. Just as it was in this case. Heart pounding like a wild animal against my chest, breath coming in great gulps of air sucked into my mouth as if through a straw, legs sore and screaming and about to give out, but somehow I made it. Hit the stop button at exactly 1.00 miles reached. Read the one-mile time at 4:47. Honestly was surprised, but also a little disappointed at the same time. I was trying to get better than 4:40 at the least, but I didn’t realize how hard it is to even shave a few seconds off something like a mile time. Also didn’t realize it at the time, but that’s a whole _ten seconds_ faster than my previous record, set earlier by me that selfsame day.
 
+Finally, here's the long-awaited photo of me, with the 1 Mile leaderboard -- not the ultimate version, as it only had participants up until my gym session.
+
+![Me with 1 Mile Board](/assets/images/me-1-mile-board.jpg){: width="70%"}
+
+For those curious, I added a similar post [on my Instagram](https://www.instagram.com/p/C2il8ZCp8Uj) as well.
+
 ## Recap
+
 
 What an experience! Exhausted beyond words, but the words of encouragement and general appreciation from others, felt good to bask in the glow of pride and happiness. Knowing that I wanted to get better than 5:00 minute mile, for no other reason than to prove to myself that I could do it. Honestly I was just competing against myself. The early morning “me” handily beat my goal and ended up with a 4:57. The evening “me” beat even the early morning “me”, and while I did not get my desired time I was shooting for, I got close at 4:47 which is really respectable in itself. In the words of the jovial, burly dude on the treadmill next to me:
 
