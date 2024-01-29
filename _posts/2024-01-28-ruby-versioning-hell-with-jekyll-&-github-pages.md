@@ -1,24 +1,20 @@
 ---
 title: "Tech Tips: Ruby (Versioning) Hell with Jekyll & GitHub Pages"
 excerpt: "A how-to (with lessons learned) on Ruby versioning with Jekyll and GitHub Pages."
-excerpt_separator: "<!--more-->"
 date: "2024-01-28 22:06:58 -0500"
 categories:
   - tech-tips
 tags:
-  - note
-  - TODO
+  - ruby
+  - github-pages
+  - jekyll
+  - rbenv
+  - homebrew
 ---
 
-This article has been cross-posted on my [Medium](https://medium.com/@ritviknag) and [`dev.to`](https://dev.to/ritvik-nag).
-<br/><br/>
-If you found this post useful, please consider *following me* on those platforms as I would be really grateful. Thanks!
-{: .notice--warning}
-<!-- {: .notice--info} -->
+{% include tech-tips-head-notice.html %}
 
 So, huge disclaimer, a lesser-known fact (who am I kidding, I'm not ashamed to admit it) is that I'm a bit of a `ruby` newbie.
-
-<!--more-->
 
 That is, I've never cared to learn `ruby` before. Also, perhaps as a direct result of that, I am a little taken aback when a project asks me to install `ruby` and use tools that it provides such as `bundler` , because the assumption there is that I know what I am doing.
 

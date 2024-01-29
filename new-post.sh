@@ -38,30 +38,48 @@ FILE_NAME="$DATE-${FILE_TITLE}.md"
 
 FULL_PATH="_posts/$FILE_NAME"
 
-if [ $CATEGORY == "tech-tips" ]; then
-  TITLE="Tech Tips: ${TITLE}"
-fi
-
 # The first substitution escapes backslashes, the second
 # escapes double-quotes. They must be done in this order.
 # Credits: https://www.reddit.com/r/linuxquestions/comments/thdjgh/comment/i176z2y
 TITLE="${TITLE//\\/\\\\}"
 TITLE="${TITLE//\"/\\\"}"
 
-cat > "$FULL_PATH" <<EOF
----
-title: "${TITLE}"
+cat > "$COMMON_FRONT_MATTER" <<EOM
 date: "${FULL_DATE}"
 categories:
   - ${CATEGORY}
 tags:
   - note
   - TODO
+EOM
+
+if [ $CATEGORY == "tech-tips" ]; then
+
+cat > "$FULL_PATH" <<EOF
+---
+title: "Tech Tips: ${TITLE}"
+excerpt: "TODO"
+${COMMON_FRONT_MATTER}
+---
+
+{% include tech-tips-head-notice.html %}
+
+# Away We GO!
+
+EOF
+
+else
+
+cat > "$FULL_PATH" <<EOF
+---
+title: "${TITLE}"
+${COMMON_FRONT_MATTER}
 ---
 
 # Away We GO!
 
 EOF
+fi
 
 # TODO until we start this challenge!
 # tags: "note, 100DaysToOffload"
