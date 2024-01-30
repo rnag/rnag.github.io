@@ -36,7 +36,7 @@ TITLE="$@"
 FILE_TITLE=$(echo "$TITLE" | tr " " "-" | tr -d "():;?" | tr "[A-Z]" "[a-z]")
 FILE_NAME="$DATE-${FILE_TITLE}.md"
 
-FULL_PATH="_posts/$FILE_NAME"
+FULL_PATH="_posts/${CATEGORY}/${FILE_NAME}"
 
 # The first substitution escapes backslashes, the second
 # escapes double-quotes. They must be done in this order.
@@ -44,7 +44,7 @@ FULL_PATH="_posts/$FILE_NAME"
 TITLE="${TITLE//\\/\\\\}"
 TITLE="${TITLE//\"/\\\"}"
 
-cat > "$COMMON_FRONT_MATTER" <<EOM
+read -r -d '' COMMON_FRONT_MATTER << EOM
 date: "${FULL_DATE}"
 categories:
   - ${CATEGORY}
