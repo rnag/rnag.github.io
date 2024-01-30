@@ -51,11 +51,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Get Changed Files
         id: files
         uses: jitterbit/get-changed-files@v1
-      - id: posts
-        name: Detecting posts from the changes
+
+      - name: Detecting posts from the changes
+        id: posts
         run: |
           i=0
           for changed_file in ${{ steps.files.outputs.added_modified }}; do
@@ -67,6 +71,7 @@ jobs:
               ((i=i+1))
             fi
           done
+
       - if: steps.posts.outputs.post0
         name: Publish on Medium
         uses: infraway/post-medium-action@v1.6.0
