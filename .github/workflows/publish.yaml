@@ -90,6 +90,33 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Get Changed Files
+        id: files
+        uses: jitterbit/get-changed-files@v1
+
+      - name: Detecting posts from the changes
+        id: posts
+        run: |
+          i=0
+          for changed_file in ${{ steps.files.outputs.added_modified }}; do
+            echo "Do something with ${changed_file}."
+            if [[ "${changed_file}" == "_posts/tech-tips"* ]];
+            then
+              echo "File ${changed_file} matched post."
+
+              while IFS= read -r line
+              do
+                  case "$line" in
+                    *'{% include'*'%}'*) printf "%s\n" "${line/\{\% include*\%\}/}" ;;
+                    *) printf "%s\n" "$line" ;;
+                  esac
+              done < ${changed_file} > ${changed_file}
+
+              echo "::set-output name=post${i}::${changed_file}"
+              ((i=i+1))
+            fi
+          done
+
       - name: Publish on Dev.to
         uses: sinedied/publish-devto@v2
         id: publish_devto
