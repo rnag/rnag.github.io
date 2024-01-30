@@ -1,12 +1,15 @@
 #!/bin/bash
 
-# This script generates a new blog post.
+# This script generates a new "Blog" or "Tech Tips" post.
 #
-# Adapted from: https://github.com/garritfra/garrit.xyz/blob/main/gen-post.sh
+# Adapted from:
+#   https://github.com/garritfra/garrit.xyz/blob/main/gen-post.sh
 #
 # Example usage:
-# ./new-post.sh My first post
-
+#
+#   ./new-post.sh My first blog post
+#   ./new-post.sh -t This is a tech tips post!
+#
 POSITIONAL_ARGS=()
 CATEGORY=blog
 
@@ -45,6 +48,7 @@ TITLE="${TITLE//\\/\\\\}"
 TITLE="${TITLE//\"/\\\"}"
 
 read -r -d '' COMMON_FRONT_MATTER << EOM
+title: "${TITLE}"
 date: "${FULL_DATE}"
 categories:
   - ${CATEGORY}
@@ -57,7 +61,6 @@ if [ $CATEGORY == "tech-tips" ]; then
 
 cat > "$FULL_PATH" <<EOF
 ---
-title: "Tech Tips: ${TITLE}"
 excerpt: "TODO"
 ${COMMON_FRONT_MATTER}
 ---
@@ -72,7 +75,6 @@ else
 
 cat > "$FULL_PATH" <<EOF
 ---
-title: "${TITLE}"
 ${COMMON_FRONT_MATTER}
 ---
 

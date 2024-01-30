@@ -1,5 +1,5 @@
 ---
-title: "Tech Tips: Test Publish to Medium and Dev.to"
+title: "Test Publish to Medium and Dev.to"
 excerpt: "TODO"
 date: "2024-01-30 00:26:02 -0500"
 categories:
