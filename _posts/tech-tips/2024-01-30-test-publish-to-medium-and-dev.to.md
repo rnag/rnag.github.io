@@ -9,8 +9,6 @@ tags:
   - TODO
 ---
 
-{% include tech-tips-head-notice.html %}
-
 # Away We GO!
 
 Hello... this is a test.
