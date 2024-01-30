@@ -1,7 +1,11 @@
+# Mac OS
+.DS_Store
+
+# Jekyll
+_drafts
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 Gemfile.lock
 vendor
-.DS_Store

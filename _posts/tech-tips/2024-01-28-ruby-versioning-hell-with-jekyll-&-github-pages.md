@@ -1,5 +1,5 @@
 ---
-title: "Tech Tips: Ruby (Versioning) Hell with Jekyll & GitHub Pages"
+title: "Ruby (Versioning) Hell with Jekyll & GitHub Pages"
 excerpt: "A how-to (with lessons learned) on Ruby versioning with Jekyll and GitHub Pages."
 date: "2024-01-28 22:06:58 -0500"
 categories:
