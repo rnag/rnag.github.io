@@ -165,7 +165,7 @@ _There's a lot I accomplished this year -- in 2022:_
 - Road trip and joined my extended family in Florida, for Thanksgiving week.
   - Went to Miami, a whole host of other locations and eateries, and Disney World.
 - Attended AWS re:Invent, live and in-person in Las Vegas, NV for the first time.
-  - [I blogged](/aws/reinvent/2022/2022/11/28/first-experience-at-reinvent.html) about it too.
+  - [I blogged]({{ site.baseurl }}{% post_url blog/2022-11-28-first-experience-at-reinvent %}) about it too.
   - I got down with Coronavirus (COVID-19) once again. Perhaps Omicron or another strain this time. It was as unpleasant as the first time.
 - Attended a ton of social events, and _almost_ made a new friend.
 - Met a nice, cute girl who was perfect for me -- then I somehow miraculously fouled it up, and I ended up right back where I started. [SNAFU](https://qz.com/work/1225213/the-difference-between-a-snafu-a-shitshow-and-a-clusterfuck), anyone?
