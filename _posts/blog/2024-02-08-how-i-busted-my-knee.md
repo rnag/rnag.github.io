@@ -12,9 +12,9 @@ tags:
   - endurance
 ---
 
-## A Meandering Intro
-
 Putting this into words a day or two too late, but still better late than never, as they say.
+
+## A Meandering Intro
 
 Lately I’ve been feeling down. It’s never a good feeling when your body betrays you at the moment that you need it a more. It delivers a shock to your system and to your psyche, more than anything. Like a forced full-body submersion in an ice bath. I would hate to put myself through that personally. So drawing a parallel to that and your body giving up and quitting on you, failing to perform, failing to match expectations.
 
