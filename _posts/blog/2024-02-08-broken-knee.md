@@ -1,5 +1,5 @@
 ---
-title: "How I Busted My Knee"
+title: "Broken Knee"
 date: "2024-02-08 00:58:33 -0500"
 categories:
   - blog
@@ -16,7 +16,7 @@ Putting this into words a day or two too late, but still better late than never,
 
 ## A Meandering Intro
 
-Lately I’ve been feeling down. It’s never a good feeling when your body betrays you at the moment that you need it a more. It delivers a shock to your system and to your psyche, more than anything. Like a forced full-body submersion in an ice bath. I would hate to put myself through that personally. So drawing a parallel to that and your body giving up and quitting on you, failing to perform, failing to match expectations.
+Lately I’ve been feeling down. It’s never a good feeling when your body betrays you at the moment that you need it most. It delivers a shock to the system and to the psyche, more than anything. Like a forced full-body submersion in an ice bath. I would hate to put myself through that, personally. So drawing a parallel to that and your body giving up and quitting on you, failing to deliver and perform its intended function, failing to match expectations.
 
 I mean, picture this, right — it’s like you’re reaching out your hands, and there’s a glittering, multi-colored firefly that you want to catch. It’s like a golden, surefire “bird in the hand”, isn’t that what they say? Picture not only the image of that, but the _desire_ that must surely live deep within your heart and soul. To reach out an arm and want to touch something so desirable, something just out of arm’s reach. You can almost scent victory. Like the barbecue roast of a medium-rare, mouth-salivating burger. So unbelievably tantalizing. Like you’re the fish, and the bait is being dangled right above your head. There’s no way you’re not gonna go for it. That’s outta the question. That bird is basically _in_ your hand already. It’s possible to have your cake and eat it too, why the hell not?
 
