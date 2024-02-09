@@ -1,5 +1,5 @@
 ---
-excerpt: "TODO"
+excerpt: "Learn how to obviate the need to rebuild a Docker image every time an local file in the host's current directory changes, with the power of Bind mounts!"
 title: "How to Mount Current Working Directory To Your Docker Container"
 date: "2024-02-09 11:12:54 -0500"
 categories:
@@ -98,7 +98,7 @@ Now that theory is knocked out of the way, we understand that we prefer to updat
 
 Also, it is important here to go over the problem statement once more.
 
-The goal that we are trying to solve is that **we have to rebuild the image every time an HTML, JS, EJS, CSS, or similar file in the current local directory changes.**
+The goal that we are trying to solve is **how to obviate the need to rebuild the Docker image every time an HTML, JS, EJS, CSS, or similar file in the current local directory changes.**
 
 The host's current directory is the same that we are copying over to `/usr/app` on the Docker container, as specified in the above `Dockerfile` .
 
