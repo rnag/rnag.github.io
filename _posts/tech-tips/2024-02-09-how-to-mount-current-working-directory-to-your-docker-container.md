@@ -26,7 +26,7 @@ By the way, this article is inspired by some other articles on that I found on t
 
 As I and my team are developing on an (Apple Silicon-based) Mac, we don't care too much about the `docker run` command being compatible between Mac and Windows overmuch.
 
-However, I certainly agree that Docker is super handy for anyone wanting to write software in a Linux environment while still running a Windows computer.
+However, I certainly agree that Docker is super handy for anyone wanting to write software in a Linux environment while still running a Mac (or Windows) computer.
 
 ## Theory
 
