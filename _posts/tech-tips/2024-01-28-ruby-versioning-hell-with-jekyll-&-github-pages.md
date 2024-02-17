@@ -117,7 +117,7 @@ $ bundle
 
 I'll be honest, I felt like tearing my hair out at this point. Sweat started metaphorically trickling down my back. Being a `ruby` newb, I was about to throw in the towel, and as a last resort maybe open up an issue on the project page for one of the gems, or post about it on a forum asking other users for help.
 
-Now that I think about it, maybe ChatGPT could have helped me. Hello ChatGPT? Can you explain this error please, and suggest me a solution <_paste stack trace_>.
+Now that I think about it, maybe ChatGPT could have helped me. Hello ChatGPT? Can you explain this error please, and suggest me a solution \<_paste stack trace_\>.
 
 However, thankfully, that was ultimately not needed. I found a workaround that helps me to maintain `ruby` version across different machines, consistently.
 

@@ -7,9 +7,9 @@ categories:
 tags:
   - docker
   - mac
-  - windows
   - linux
-  - express-js
+  - expressjs
+  - nodejs
 ---
 
 {% include tech-tips-head-notice.html %}
@@ -18,7 +18,7 @@ My team has been building out a new web app in _Express.js_, and for local deplo
 
 One of the burning questions we wanted to find an answer to - apart from the ultimate question of all life, the universe, and everything - is how can we mount our local (current) directory to the running Docker container, so that `nodemon` can listen for local file changes when we develop, and automatically reload or restart the (containerized) web server as needed.
 
-Towards that end, I hastily Googled online for "Can Docker mount local drive and listen for file changes", and even kicked this same prompt to my work-approved AI assistant (*wink* ChatGPT alternative?). Anyway, the responses from the AI prompt are recorded separately below.
+Towards that end, I hastily Googled online for "Can Docker mount local drive and listen for file changes", and even kicked this same prompt to my work-approved AI assistant (\*wink\* ChatGPT alternative?). Anyway, the responses from the AI prompt are recorded separately below.
 
 By the way, this article is inspired by some other articles on that I found on the web while researching if such a thing is possible - e.g. mounting a local folder to a Docker container - including the following article on Medium, which does a good job of condensing the main points:
 
@@ -120,7 +120,7 @@ Also, note that the first result is from the official Docker documentation itsel
 
 In short, this appears to be a question of `--volume` vs. `-- mount` with a `type:bind`. The [Docker docs](https://docs.docker.com/storage/bind-mounts/#differences-between--v-and---mount-behavior) (_see first link above)_ mention that using `--volume` is the old style, and there is one important difference in behavior. Hence, using `--mount` explicitly going forward seems to be the safer (and more future-proof) approach.
 
-However, note that either approach (`--volume` or `-- mount`) should work for our use case.
+However, note that either approach (`--volume` or `--mount`) should work for our use case.
 
 ## Ask an AI Assistant
 
@@ -156,7 +156,7 @@ The `--mount type=bind` command takes a single parameter formatted like so:
 
 If we want to _**exclude**_ any sub-folders in our `<host directory>` when mounting the local folder to the Docker container, we need to pass `--mount type=volume` with the full path to that sub-folder, and exclude the `src` argument, as follows:
 
-> _`dst=<target directory to not mount>`_
+> _`dst=<host directory to not mount>`_
 
 ## Example
 

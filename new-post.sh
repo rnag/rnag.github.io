@@ -15,18 +15,18 @@ CATEGORY=blog
 
 while [[ $# -gt 0 ]]; do
   case $1 in
-    -t|--tech-tips)
-      CATEGORY=tech-tips
-      shift # past argument
-      ;;
-    -*|--*)
-      echo "Unknown option $1"
-      exit 1
-      ;;
-    *)
-      POSITIONAL_ARGS+=("$1") # save positional arg
-      shift # past argument
-      ;;
+  -t | --tech-tips)
+    CATEGORY=tech-tips
+    shift # past argument
+    ;;
+  -* | --*)
+    echo "Unknown option $1"
+    exit 1
+    ;;
+  *)
+    POSITIONAL_ARGS+=("$1") # save positional arg
+    shift                   # past argument
+    ;;
   esac
 done
 
@@ -47,22 +47,23 @@ FULL_PATH="_posts/${CATEGORY}/${FILE_NAME}"
 TITLE="${TITLE//\\/\\\\}"
 TITLE="${TITLE//\"/\\\"}"
 
-read -r -d '' COMMON_FRONT_MATTER << EOM
+read -r -d '' COMMON_FRONT_MATTER <<EOM
 title: "${TITLE}"
 date: "${FULL_DATE}"
 categories:
   - ${CATEGORY}
-tags:
-  - note
-  - TODO
 EOM
 
 if [ $CATEGORY == "tech-tips" ]; then
 
-cat > "$FULL_PATH" <<EOF
+  cat >"$FULL_PATH" <<EOF
 ---
 excerpt: "TODO"
 ${COMMON_FRONT_MATTER}
+tags:  # up to 5, compatible with https://medium.com/explore-topics
+  - TODO
+devto_tags:  # up to 4, compatible with https://dev.to/tags
+  - TODO
 ---
 
 {% include tech-tips-head-notice.html %}
@@ -73,9 +74,12 @@ EOF
 
 else
 
-cat > "$FULL_PATH" <<EOF
+  cat >"$FULL_PATH" <<EOF
 ---
 ${COMMON_FRONT_MATTER}
+tags:
+  - note
+  - TODO
 ---
 
 # Away We GO!
