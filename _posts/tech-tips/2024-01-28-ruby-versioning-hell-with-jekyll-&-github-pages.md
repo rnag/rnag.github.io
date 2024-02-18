@@ -10,6 +10,13 @@ tags:
   - jekyll
   - rbenv
   - homebrew
+dev_to:
+  id: 1744145
+  tags:  # up to 4, compatible with https://dev.to/tags
+  - ruby
+  - jekyll
+  - github
+  - homebrew
 ---
 
 {% include tech-tips-head-notice.html %}
