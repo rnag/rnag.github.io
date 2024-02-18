@@ -10,7 +10,9 @@ tags:  # up to 5, compatible with https://medium.com/explore-topics
   - programming
   - javascript
   - npm-package
-devto_tags:  # up to 4, compatible with https://dev.to/tags
+dev_to:
+  id: 1764341
+  tags:  # up to 4, compatible with https://dev.to/tags
   - medium
   - graphql
   - javascript
@@ -23,7 +25,7 @@ devto_tags:  # up to 4, compatible with https://dev.to/tags
 
 I'm trying to integrate Medium blogging into my personal site at *myname.com*.
 
-That is, I'm trying to automate the process of me publishing an article on my personal blog, and have the contents of the Jekyll-based markdown post -- an `.md` file -- be posted to the two other blogging sites I'm currently signed up on, [`medium.com`](https://medium.com) and [`dev.to`](https://dev.to).
+That is, I'm trying to automate the process of publishing an article on my personal blog, and have the contents of the Jekyll-based markdown post -- an `.md` file -- be posted to the two other blogging sites I'm currently signed up on, [`medium.com`](https://medium.com) and [`dev.to`](https://dev.to).
 
 Towards that end, I tried to search online to see if there is such as a thing as a Medium API that allows me to:
 
@@ -141,11 +143,11 @@ The work was split into a few main parts:
 
 This project is the direct result of my hard work and effort:
 
-> [https://github.com/rnag/medium-sdk-ts](https://github.com/rnag/medium-sdk-ts)
+[https://github.com/rnag/medium-sdk-ts](https://github.com/rnag/medium-sdk-ts)
 
 Below is the package on the NPM registry:
 
-> [`medium-sdk-ts`](https://www.npmjs.com/package/medium-sdk-ts)
+[https://www.npmjs.com/package/medium-sdk-ts](https://www.npmjs.com/package/medium-sdk-ts)
 
 ### Install
 
