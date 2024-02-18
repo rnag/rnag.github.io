@@ -236,5 +236,3 @@ Again, here is the source code for it: [https://github.com/rnag/medium-sdk-ts](h
 If this library has proved useful in your automation efforts, please let me know via the comments down below, and feel free to also **star** the project on GitHub if you'd like.
 
 As mentioned, this is my first-ever TypeScript library package I have published to NPM, so I would appreciate the support or feedback on it -- do certainly let me know if there's anything else I can improve on it.
-
-Thanks for reading. Until next time!
