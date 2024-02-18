@@ -1,6 +1,6 @@
 ---
 excerpt: "Leverage the Medium API in JavaScript to publish a post to medium.com, and retrieve a list of all (published) posts for a user."
-title: "Medium API with JavaScript in 2024"
+title: "Navigating Medium API with JavaScript in 2024"
 date: "2024-02-17 19:07:00 -0500"
 categories:
   - tech-tips
