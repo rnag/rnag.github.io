@@ -36,7 +36,7 @@ DATE=$(date +"%Y-%m-%d")
 FULL_DATE=$(date +"%Y-%m-%d %H:%M:%S %z")
 
 TITLE="$@"
-FILE_TITLE=$(echo "$TITLE" | tr " " "-" | tr -d "():;?" | tr "[A-Z]" "[a-z]")
+FILE_TITLE=$(echo "$TITLE" | tr " " "-" | tr -d "(),:;?" | tr "[A-Z]" "[a-z]")
 FILE_NAME="$DATE-${FILE_TITLE}.md"
 
 FULL_PATH="_posts/${CATEGORY}/${FILE_NAME}"
