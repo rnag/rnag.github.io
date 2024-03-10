@@ -30,18 +30,17 @@ Oh, and another thing I remember, thanks to my photo library, is around 10PM or,
 
 Not for me, though. I decided I was hungry as I still hadn’t had dinner, so I went to TGI Friday’s at Worldgate Centre — the complex which is actually a pretty depressing place to be at nighttime due to lack of events and anything worthwhile happening — and started off by ordering a $2 draft beer special (the one in a tall glass).
 
-![Beer at TGIF](/assets/images/041424-beer.jpeg){: width="40%", height="10%"}
+![Beer at TGIF](/assets/images/2024-02-14-beer.jpeg){: width="40%", height="10%"}
 
 Then, skipped the apps and went for the main entree with a burger with bacon, BBQ sauce on the side, and fries. 
 
-![Burger at TGIF](/assets/images/041424-burger.jpeg){: width="70%"}
+![Burger at TGIF](/assets/images/2024-02-14-burger.jpeg){: width="70%"}
 
 Burger was decent. Because I was somewhat buzzed from the drink and feeling a little down due to my relationship status on V-Day, I also ordered dessert at the same time. Eating healthy and nutritious is a great concept on paper, but sometimes you gotta live a little. You never know when your life is going to suddenly end. It could be months, years, or even decades. If not decades, then it doesn’t matter what you eat, once in a while.
 
 Because sometimes you gotta do whatever the *fuck* you want to do, to satisfy an overactive sweet tooth or whatever craving hits you at the moment. So that’s what I ended up doing. I got a brownie drenched in hot fudge, some vanilla ice cream with some pecans and maybe some caramel on it. I don’t remember the name of the dessert item, but it tasted pretty great -- as you can probably tell!
 
-![Dessert TGIF](/assets/images/041424-dessert.jpeg){: width="70%"}
-
+![Dessert TGIF](/assets/images/2024-02-14-dessert.jpeg){: width="70%"}
 
 For once, I could just put away all fears and red flags that went off in my head, and table that for the time being. Like the whisper that drinking that beer is not good for the gut. That eating red meat is bad for you in the long run. Or the one that (rightfully) said that eating something loaded with  sugar and artificial crap like syrup and whipped cream and whatnot, is not good for you, and can cause you to gain weight the next day. The last voice probably had a point. But the thing to note here, is that I could just silence all those opinions and red flags that went off in my head. I simply devoured the whole brownie along with the vanilla cream and hot fudge and whatever syrup or sauce they’d loaded it with. One might say, that’s heresy. That’s blasphemy. Overindulgence. It wouldn’t be wrong to say that either. The truth is, eating that dessert *was* a guilty pleasure.
 
