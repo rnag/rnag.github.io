@@ -17,7 +17,7 @@ frameworks such as React.
 Rather than dive into anything else **really** about me, I’ll just refer you to my other online presences:
 
 <div>
-  {%- include social.html -%}
+  {%- include author-profile.html -%}
 </div>
 
 _Note:_ I'm kind of old school, even despite being a rather young guy. I'm planning on signing up for social sites like [Instagram](https://www.instagram.com/), but I've left that on the back-burner for now, as I've other things to contend with, that tend to eat up too much of my time in general. But I promise, I'll get around to signing up for them eventually.
