@@ -31,6 +31,14 @@
     </li>
     {% endif %}
 
+    {% if author.reddit %}
+    <li>
+      <a href="https://www.reddit.com/user/{{ author.reddit }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+        <i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span class="label">Reddit</span>
+      </a>
+    </li>
+    {% endif %}
+
     {% if author.twitter %}
       <li>
         <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
