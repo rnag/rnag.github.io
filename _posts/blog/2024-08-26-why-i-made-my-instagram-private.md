@@ -55,7 +55,7 @@ sprang unbidden to my eyes. I was crying in my dream, and I was crying in real l
 
 I don't really know what triggered it. But as I said, I remember the context of it.
 I suppose it was spurred by the choking loneliness I feel at various points throughout
-my life. The lack of friendship, the lack of companionship, the lack of love. The lack
+my life. Friendship I do have now, and family, and appreciate them equally. What remains is the lack of companionship, the lack of love. The lack
 of having a basic necessity like that, almost like I was destitute, or homeless. I don't
 want to compare myself to what people like that go through, but I don't really have any
 other way to describe it.
