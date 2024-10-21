@@ -1,5 +1,5 @@
 ---
-title: "How To Win a Race"
+title: "How to Cross the Finish Line on Top"
 date: "2024-10-20 08:56:46 -0400"
 categories:
   - blog
@@ -15,13 +15,13 @@ tags:
   - half
 ---
 
-Recently I have had some milestones in running. I broke 4 miles in Catch Me If You Can (CMIYC), a benchmark challenge at the gym I go to. I got Top 3 in a trail half marathon race in early October. More recently,  I’ve got a PR in my mile time, down to 4:38 now, a record that I’m super proud of. I’ve also crossed 3 whole states in my goal to run a half in every state, that too in the very year (2024) that I started this journey, and ran my first half ever. 
+This year has been a significant one for my running journey. I recently surpassed a key benchmark at my gym’s "Catch Me If You Can" challenge by breaking the 4-mile barrier. I placed in the Top 3 at a trail half marathon in early October, and even hit a new personal best for my mile time, shaving it down to 4:38—a record I’m incredibly proud of. Additionally, I’ve checked off three states from my goal of running a half marathon in every state, all in the same year I began this adventure with my very first half marathon.
 
-So a lot of milestones, and not enough time to wax eloquent on each of those topics, and give those topics the love and praise they deserve. Still, I want to expound on each of those separately. It’s better to record those experiences than to have a large gap of not penning them down. It’s like hiking to the top of a mountain, and seeing a canyon, an abyss and chasm that stretches from mountain to mountain, more specifically from that mountain to the next mountain. No one wants to stare at a piece of blank paper, where there should have words emblazoned in dark ink. So to put it right, I’m gonna spend the necessary time to put this into words.
+With so many milestones, there’s not enough time to wax eloquent about each one or give them the full attention—the love and praise—that they deserve. Yet, I believe it’s worth diving into each of them separately, expounding on them. It’s better to capture these moments than to let them fade into a chasm of unrecorded memories. It’s like hiking to the top of a mountain and seeing a canyon—an abyss that stretches from peak to peak. No one wants to stare at a blank page where there should be words, emblazoned in dark ink. So, I’m determined to take the time to put these experiences into words that capture the essence of the memory, and hopefully, resonate with others.
 
 ## Half Marathon in Connecticut
 
-My first half marathon was in April this same year, in Reston, VA. I got a finish time of around 1 hour 36 minutes, and the hills almost killed me in that first one. I had prepared by doing trail running, especially around W&OD trail close to me, but I don’t know that it helped so much. I carb-loaded with pasta before my first half, a tradition which I have dutifully carried out and executed for all subsequent half’s and most races that I have had afterwards.
+My first half marathon was in April 21st of this same year, in Reston, VA. I [got a finish time](https://raceday.enmotive.com/#/events/2024-runners-half-marathon-and-5k-of-reston/results) of around 1 hour 36 minutes, and the hills almost killed me in that first one. I had prepared by doing trail running, especially around W&OD trail close to me, but I don’t know that it helped so much. I carb-loaded with pasta before my first half, a tradition which I have dutifully carried out and executed for all subsequent half’s and most races that I have had afterwards.
 
 My first half taught me a lot about running a half marathon distance of 13.1 miles, more specifically about running in general. For example, running up hills sucks, and has the potential to destroy me as a runner, meanwhile downhill is exhilarating, and one shouldn’t fight it. Don’t fight gravity. Anything that goes up, must come down. It’s like the unspoken laws of running, and of life in general. Seems like Newton should take note, if you ask me.
 
@@ -89,3 +89,7 @@ Also, moving a bit faster on the rower and especially floor blocks /w the body w
 
 Going to add on to this when time allows lol, going to get some breakfast now.
 
+
+## 1 Mile Run
+
+TODO.
