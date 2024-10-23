@@ -87,9 +87,104 @@ Also, moving a bit faster on the rower and especially floor blocks /w the body w
 
 ## Half Marathon in West Virginia
 
-Going to add on to this when time allows lol, going to get some breakfast now.
+As fate would have it, my three months of complimentary Tesla supercharging was destined to expire exactly three months after I rolled my new ride off the factory floor. The date? October 6th — a Sunday that loomed like a sunset, signaling the end of my “on the house” road tripping experience. Knowing the juice was worth the squeeze, I set out to make the most of those dwindling days of cost-free power. With a home charger quietly humming along, I hadn’t needed — or really felt the urge — to visit a supercharger for a while. But this time, I decided to stretch that muscle, milk those last drops, and wring every bit of value from this fleeting perk that would soon vanish into thin air.
 
+As the calendar flipped to October, I took my search to the digital highway — hopping between Google and race websites, scouting for half marathons in states near my humble abode in Virginia. My shortlist included nearby adventures in Maryland, Pennsylvania, West Virginia, Ohio, Tennessee, and South Carolina—places where the drive was manageable, ideally less than 10 hours behind the wheel, with landscapes that would etch a memory for my first race in a new state.
+
+After narrowing down my options to two or three promising contenders, I turned to ChatGPT for a nudge. The Pirate Half in Tennessee caught my eye, though it came with a catch — an extra 200 miles of road compared to a race I found in West Virginia. And the allure of a free bike hiking tour made it even more tempting, promising a scenic escape. Even yet, the Strasburg Half in Pennsylvania beckoned with the convenience of proximity, a mere three-hour drive away. With all the races falling on the same weekend, I found myself in a tug-of-war between options, hoping for a little guidance.
+
+I posed my dilemma to ChatGPT like so:
+
+> Deciding between NEW RIVER GORGE WILDS TRAIL RUN and a few other half marathon races this weekend on Oct 5th. Pirate Half in Knoxville, TN, was one, and Strasburg Half in PA was another. Which will be best for me to sign up for?
+
+The advantage of a digital companion with a memory? ChatGPT already understood my mission—running a half marathon in every state—and it knew I was searching for an event that would leave an indelible mark, with a course as breathtaking as the journey itself.
+
+ChatGPT’s response, albeit exhaustive, cut right to the heart of my quandary:
+
+> Given your goals of enjoying breathtaking views during runs and your endurance background, I’d recommend the New River Gorge Wilds Trail Run if you’re up for a challenge and want a scenic adventure. However, if you’re looking to focus on speed or prefer a less intense race, the Pirate Half Marathon in Knoxville would be a better fit for this weekend.
+
+With that, my path became clear. I shelled out $70 for a spot in the half marathon distance at the New River Gorge Wilds Trail Run, knowing that while it was the highest price tier, it was a small price to pay for an experience I wouldn’t soon forget. In the back of my mind, I felt that $70 was a steal for the registration—even though I’d waited until the week of the race and had to pay the highest price tier. After all, I usually see half marathons going for double that, even for “early bird” pricing, which frankly can feel overpriced. I missed out on a free race T-shirt by registering so late—an oversight that stung a little, but a lesson learned all the same.
+
+| Pricing Tiers               | Price  |
+| --------------------------- | ------ |
+| Early Bird - Ends June 30th | $50.00 |
+| Advance - Ends October 2nd  | $60.00 |
+| Day of Race                 | $70.00 |
+
+What is the New River Gorge Wilds Trail Run, exactly? Here is a blurb on the race from their website:
+
+> The New River Gorge Wilds Trail Run is the newest running event at ACE Adventure Resort this Fall. Runners can choose to participate in a full marathon, half marathon or a 5k run. Cash prizes will be awarded to overall top finishers and over $1,000 in prizes and awards are up for grabs! Runner perks include free camping Friday and Saturday nights, finisher medals, race shirt, and burrito buffet after the run. Run wild with us through the gorgeous fall colors this October 5th.
+
+So, they mentioned they offered **free camping** at the Resort on Friday and Saturday evening. I’ll get to that shortly. They also have a burrito buffet post-race, which caught at my eye, as it seemed like it would be sorely needed in my case.
+
+As outlined on their race website, they had 3 events that started at the same day and time:
+* Full Marathon
+* Half Marathon
+* 5K
+
+All said and done, that is the story of how I eagerly signed up for the [New River Gorge Wilds Trail Run](https://aceraft.com/event/new-river-gorge-wilds-trail-run/) for the Half Marathon — 13.1 mile — distance. I also let my family know about this via our group chat, shared with them the details as well as the impetus behind it — free supercharging ending on race weekend — and made known my plan to camp at the Resort, in an effort to save on accommodation.
+
+Now, I haven’t camped in a really long while — feels like a decade or more at this point — and I did not have any camping gear on hand, and really had no idea what I was doing. I figured I needed to grab a tent from somewhere like Costco or Walmart, and then order the other necessities from an online storefront like Amazon, or else borrow one from my family.
+
+However, for better or worse (probably for the best) this “camping” plan that was admittedly riddled with holes got shot down, before it had a chance to become fully realized and come to fruition. I got convinced by my fam — actually my Mom, who’s more level-headed and sensible than me — to consider alternate accommodation nearby, one that did not involve camping, which I was sorely ill-prepared for.
+
+I looked out and considered few options such as AirBnb, but the cheapest actually was lodging such as a hotel or motel. I booked a stay for a single night at [Skyline Lodge](https://skylinewv.com/) in Ghent, WV — which was a little less than an hour from the location in Oak Hill, WV where the race was set to take place, ACE Adventure Resort.
+
+Some time after, I got a call from my fam and it was decided that my Dad would be coming with me. So it was decided, and that Friday, we left around lunch break, and we alternated driving to our lodging in Ghent, WV. The drive from Northern Virginia to the stay in West Virginia was incredibly scenic, and overall a great experience.
+
+We arrived in the evening right around sunset, with dinnertime right around the corner. After searching for nearby Italian and pasta spots, I chanced upon Pasquale’s in Beckley, WV. 
+
+I event left a review for it:
+	<span class="yelp-review" data-review-id="jyLb415TnbuH3JIu_ZoADQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=bV7D-Sjrd-nTT1-X7P9dzQ" rel="nofollow noopener">Ritvik N.</a>'s <a href="https://www.yelp.com/biz/pasquale-s-italian-restaurant-beckley?hrid=jyLb415TnbuH3JIu_ZoADQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/HzJ9TmhWB0Y9EZUByuvXhg" rel="nofollow noopener">Pasquale’s Italian Restaurant</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+
+\<TODO add more here when time allows\>
+
+My race took place on Saturday, October 5th, 2024 at 9pm, at Ace Adventure Resort in Oak Hill, West Virginia. In reality, we started after a half hour delay.
+
+Here’s the race map:
+![](https://aceraft.com/wp-content/uploads/2023/01/WIlds-23-Race-Map.jpg)
+
+As you can see, the half marathon and marathon runners share the same path, for the large bulk of it, roughly about 10 miles or so. At roughly around the point they split up, the 5K runners join up with us — the half marathon runners. In reality, none of us actually *saw* any of the 5K runners join up with us near the end, because it was *at least* an hour or so since the start by that time, and very few 5K runners take more than hour to run the 5K (3.1 mile) distance. The route *is* an out-and-back for parts of it, but it appears to diverge in the second half of it, and head back on a different route altogether.
+
+It was a true trail run, and it took a lot out of me. I had actually not examined the race map too closely — truthfully not at all — and also I had never run a race on the trail before, so I really did not know what to expect. If I could describe it now after experiencing it firsthand, I would say the trial run as a whole was brutal and challenging, and the half marathon distance is the limit of how long I can run that.
+
+All said and done, I [completed](https://aptiming.com/race/results/1707) it in 3rd place, with a time of 1:50:03. In reality, I crossed the finish line in a little under 1 hour and 50 minutes, as can be seen below.
+
+![Crossing the Finish Line](finish_wild_gorge.jpeg)
+
+I placed Top 3 and 3rd overall in the race, and 3rd in my gender group. Here’s my [race certificate](https://aptiming.com/static/certificate/790108/3647 "race certificate") in case others are curious.
+
+Going to add on to this when time allows, but in summary I am glad that I checked off West Virginia from my list of states to run a half marathon in. Now, only 47 left to go!
 
 ## 1 Mile Run
 
-TODO.
+On Wednesday, October 16th, OrangeTheory had the 1 Mile benchmark challenge that recurs every so often, and I grudgingly participated in it.
+
+The last time around, I was on vacation around the Seattle, WA area, and at the gym I did it at, the treadmills only went up to 12 mph, so I went at 2% and got a 5:00 mile readout exactly.
+
+Knowing how exhausting it can be to run a sub-5 mile, let alone a 5:00 mile, I was understandably apprehensive about it.
+
+The weeks and then days leading up to it, the nervousness and fear about the ever-looming 1 Mile Run slowly built up, and got under my skin bit by bit.
+
+The self-doubt was ever-present:
+* Did I possess the same (or better) endurance? I was not getting younger, and I know age affects this in some important, not yet understood way.
+* What if willpower wasn’t enough? Last time, I relied on force of fill to overpower the strong, insistent voice in the back of my head telling me to give up the ghost, but what if will or drive wasn’t enough this time around? What if it deserted me when I needed it the more?
+
+I had a new pair of running shoes I’d bought for racing — actually for my upcoming half marathons — from this app called StockX. I bid on it and though I could have got it for less, I still got under fair market value or at least what Nike had listed it on sale for, which a cool $250 or so. In short, I played it smart and got it for less than that. The running shoes in question are the Nike Vaporfly NEXT%3, the same line or family of carbon-plated shoes worn by many famous athletes and especially pro marathon runners such as Elide Kipchoge, the only human [to break the 2-hour barrier](https://en.wikipedia.org/wiki/Ineos_1:59_Challenge) on the marathon distance.
+
+The day before, I decided to break in my brand spanking new running shoes, by donning them alongside my new favorite moisture-wicking shoes from Feetures, and ran at 70% duration (and slightly reduced intensity) in a regular 2G workout. For me, that was a 2% at an average of 12.7 mph — adjusted, I was targeting around 12.7-12.8 mph for this pre-race effort — for at least 3 minutes and 15 seconds. Based on my performance stats from the app, I started at 12.9 mph, scaled down to 12.7 rather quickly, and pulled back yet again to 12.5 mph after 2 minutes or so, which I sustained for the remaining effort. All said and done, I ran at an average of ~12.8 mph — adjusted for 1% — for about 70% of the anticipated race duration. I found that the new shoes were bouncy, springy, and helped me propel me forward and exerted less stress on my body and lungs, than my favorite (non-carbon-plated) pair of running shoes. All said and done, the Nike Vaporfly’s got a solid check mark from me.
+
+Going to add on this as time allows, but in summary:
+* On race day, I prepared with good nutrition and had ChatGPT chart out my diet and nutrition plan for the day.
+	* For instance, I cooked and ate 2 medium-sized beets drizzled in olive oil and pepper and salt and spices, 1-2 hours before the race.
+	* I took electrolytes and caffeine — a cup of matcha — shortly before the race.
+* I wore a loose-fitting and performance-enhancing outfit and shoes, such as sleeveless, short with no pockets, moisture-wicking and blister-preventing Feetures socks, and of course my brand new pair of Nike Vaporfly Next%3 running shoes, the stars in my PR attempt for the 1 Mile distance.
+* I showed up early and chose my favorite treadmill to run on.
+* I started at 13.0 mph at 1%, held for about three minutes, then pulled back to 12.7 mph when I started dying and my legs started going numb like Jello, and I could barely feel them. I tried multiple times to increase it to 13-13.2 mph, but my body and legs were too exhausted, my brain was screaming at me, and it was a no-go. I tried to sustain at least 13.2 mph for the last 30-second “empty the tank” effort, and I *mostly* succeeded in that. At the end, my lungs were screaming for release, but more grateful were my legs, who had curiously gone almost completely numb from the prolonged intensity and speed necessitated by my effort.
+* I ended up with a finish time of 4:38 for the 1 Mile distance, and wouldn’t have known the exact number had not our ever-watchful coach stated it as such. I got first place on my studio’s leaderboard, and got a PR by 9 whole seconds.
+* I realized that I was able to maintain a mile at the same pace, roughly, as Eliud Kipchoge’s marathon pace — that is, the same speed and intensity he’s able to maintain for 26.2 miles, or at least **25x** longer than all I could (barely) sustain it for. This fact is truly humbling, and puts things in perspective for me.
+* I felt terrible during the 1 Mile race effort, but felt much better afterwards, especially after social media praise and nods from others.
+
+
+
+
