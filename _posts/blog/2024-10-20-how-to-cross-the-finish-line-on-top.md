@@ -39,11 +39,29 @@ So the trip time to our Airbnb in New Haven, CT was estimated around 6 hours or 
 
 I’ll add on more to this section as time allows. We had two Airbnb’s in Connecticut, one in New Haven and another in Middletown.  Supercharging was a bit difficult at times, as Tesla Superchargers were not in some areas in CT. In Middletown, it rained almost every day, at around the time of year we went, which was depressing. A good thing as we mostly used our Airbnb spot to bunk down for the night, and drove or traveled extensively otherwise. 
 
-The evening before my race, we ate out at an Italian restaurant that served pastas. It was called Consiglio’s, and [I left a review for the spot](https://maps.app.goo.gl/jaQ5MhEJQEu5mZE77) on Google and Yelp.
+The evening before my race, we ate out at an authentic Italian restaurant -- Consiglio's -- that served pastas.
 
-The 62nd annual Ocean Beach/John & Jessie Kelley Half Marathon was in New London, CT on Saturday, August 3rd. I think we left around 6am from our place in New Haven, as it took close an hour to get there. I chose to wear my bright orange Hoka shoes for it. I’ll add more details to this race, but it went well, and I got a new PR of around 1 hour and 32 minutes. It took a lot out of me, and I stopped and rested or walked at least 3 times because I was too exhausted to run. Still, I am glad and proud of the PR and enjoyed the experience overall.
+I left a review for the spot, [on Google](https://maps.app.goo.gl/rDjeYvH1cYPRV62U8) and Yelp (below).
 
-Afterwards my sister joined us, and along with her our family continued exploring Connecticut and nearby areas in our road trip. We visited Mystic, Old Saybrook, the Yale Campus and Wooster Street in New Haven, Hartford which is the Capitol of CT, other spots around Connecticut, and even drove up to Rhode Island and visited Newport, RI; also we separately drove up to Massachussets and visited a lot of beaches — especially dog-friendly beaches —and places there such as Provincetown, MA.
+<span class="yelp-review" data-review-id="e-tC1gcwIPzPfuk7ZnQqig" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=bV7D-Sjrd-nTT1-X7P9dzQ" rel="nofollow noopener">Ritvik N.</a>'s <a href="https://www.yelp.com/biz/consiglios-restaurant-new-haven-2?hrid=e-tC1gcwIPzPfuk7ZnQqig" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/J-M0MZXfhGRpRkFSk_6jwA" rel="nofollow noopener">Consiglio's Restaurant</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+
+The [62nd annual Ocean Beach/John & Jessie Kelley Half Marathon](https://www.kelleyroadrace.com/) took place on Saturday, August 3rd, in Ocean Beach Park, located in New London, CT. I think we left around 6 AM from our place in New Haven, as it took close an hour to get there. I chose to wear my bright orange Hoka shoes for it.
+
+There was quite a bit of hill running involved in the race, but not as many as in my first half, thankfully. Most of the run was on flat ground, usually on the road. One would think that would enable me to move faster, however, it's worth pointing out the race took place at the peak of summer, in August.
+
+It was pretty hot and humid outside, but not so much -- maybe 60s to high 70s if I had to guess. What was worse that after about an hour or so, it got pretty sunny, and the blistering heat started to get to me. It got to the point there were dedicated volunteers along the sidelines of the route standing with hoses with those attached sprinkler heads, who would spray down anyone who got close enough to the sides. I saw a lot of other runners do this, and I myself willingly got my head, neck, shoulders, and parts of my shirt sprayed down.
+
+They were handing out both water and gatorade at the aid stations, and I drank each indisciminately. At the latter half of the race, they were handing out entire plastic water bottles at the aid stations. Initially, I would drink a bit from the bottle, jog with it, and then drink a bit more to replenish my lost fluids; it helped, but I realized this was somewhat inefficient, because the added weight of the bottle and the liquid (water) inside slowed me down in a sense.
+
+At one of those aid stations, I was too exhausted and I had to walk it out for at least half a minute; this happened to me at least twice more. I believe the reason was that I had started out too fast, likely closer to my true 10K pace -- around 6:30/mile -- which I maintained for at least 7 miles, but after that point I started to break down from sheer exhaustation, general lack of endurance, fatigue, and dehydration. 
+
+I saw others grabbing the full water bottles at the aid stations, drinking one or two gulps, dumping the rest on their head, and then immediately tossing it away; seeing wisdom in this, I followed suit and did the same.
+
+Never have I been more glad to see something, when I saw the finish line in my sights. My lungs were killing me, and one final kick -- my last-ditch effort -- enabled me keep toe to toe with another runner who had crept up from behind me, and we both finished at almost the same time. 
+
+I’ll add more details to this race, but it went well, and I got a new PR and [finished](https://runsignup.com/Race/Results/55435#resultSetId-476286;perpage:100) in a little under 1 hour and 32 minutes. It took a lot out of me, and I stopped and rested or walked at least 3 times because I was too exhausted to run. Still, I am glad and proud of the PR and enjoyed the experience overall.
+
+Afterwards, my sister joined us via a flight, and then alongside her, our family continued exploring Connecticut and nearby areas in our road trip. We visited Mystic, Old Saybrook, the Yale Campus and Wooster Street in New Haven, Hartford which is the Capitol of CT, other spots around Connecticut, and even drove up to Rhode Island and visited Newport, RI; also we separately drove up to Massachussets and visited a lot of beaches — especially dog-friendly beaches —and places there such as Provincetown, MA.
 
 Overall, the road trip was a huge success and we enjoyed sightseeing Connecticut and places we had not been to before.
 
@@ -130,27 +148,43 @@ However, for better or worse (probably for the best) this “camping” plan tha
 
 I looked out and considered few options such as AirBnb, but the cheapest actually was lodging such as a hotel or motel. I booked a stay for a single night at [Skyline Lodge](https://skylinewv.com/) in Ghent, WV — which was a little less than an hour from the location in Oak Hill, WV where the race was set to take place, ACE Adventure Resort.
 
-Some time after, I got a call from my fam and it was decided that my Dad would be coming with me. So it was decided, and that Friday, we left around lunch break, and we alternated driving to our lodging in Ghent, WV. The drive from Northern Virginia to the stay in West Virginia was incredibly scenic, and overall a great experience.
+Some time after, I got word on the wire that my Dad would be joining me on my trip to WVA. So it was decided, and that Friday, we left around lunch break, and alternated driving to our lodging in Ghent, WV. The drive from Northern Virginia to the stay in West Virginia was incredibly scenic, and overall a great experience.
 
 We arrived in the evening right around sunset, with dinnertime right around the corner. After searching for nearby Italian and pasta spots, I chanced upon Pasquale’s in Beckley, WV. 
 
-I event left a review for it:
+I event left a review for it: 
 	<span class="yelp-review" data-review-id="jyLb415TnbuH3JIu_ZoADQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=bV7D-Sjrd-nTT1-X7P9dzQ" rel="nofollow noopener">Ritvik N.</a>'s <a href="https://www.yelp.com/biz/pasquale-s-italian-restaurant-beckley?hrid=jyLb415TnbuH3JIu_ZoADQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/HzJ9TmhWB0Y9EZUByuvXhg" rel="nofollow noopener">Pasquale’s Italian Restaurant</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+
+The food was excellent, likely the best Italian food I've eaten in my life of 30+ years.
 
 \<TODO add more here when time allows\>
 
-My race took place on Saturday, October 5th, 2024 at 9pm, at Ace Adventure Resort in Oak Hill, West Virginia. In reality, we started after a half hour delay.
+My race took place on Saturday, October 5th, 2024, at Ace Adventure Resort in Oak Hill, West Virginia.
 
-Here’s the race map:
+The drive there went OK for the most part, and then once we hit the horrendous dirt, gravel, and rock-strewn roads at ACE Adventure Resort, it started to wear down on me, because I could only go below 10 MPH, and 15 MPH tops. It was a jerky ride, and the drive was too bouncy, and not enjoyable at all.
+
+Anyway, I stood in line and picked up my race bib, and clipped it on my attire all by myself -- a first for me.
+
+The race was supposed to start at 9 AM on the dot. In reality, we started after a half hour delay, because some guy was explaining everything to all of us, and some folks were late to register and sign up. Also, it was hard to coordinate a large crowd of around 200 runners, who were signed up for three different events or distances -- the marathon, half marathon, and the 5K Run.
+
+Funny guy, at a little after 9 AM, when the race should have started, he initially said: "OK everyone, race starts in 1 minute! Let's go!" I could swear my heart skipped a beat, but then he immediately corrected myself: "Just kidding, I'll give you guys a break, let's start at 9:30 AM."
+
+Attire wise, I decided to go sleeveless this time, wore my go-to race shorts with no pockets, Feetures moisture-wicking [quarter socks](https://feetures.com/products/elite-ultra-light-quarter-cycle-3-pack?variant=40072000602184), and my bright orange Hoka shoes.
+
+I drank electrolytes before, skipped my tea so I was almost running on empty when it came to caffeine, but thankfully I possessed the faculty and good sense to carry an (organic) energy gel -- [Honey Stinger](https://honeystinger.com/collections/all-energy-gels) -- with me.
+
+Anyway, here’s the race map:
 ![](https://aceraft.com/wp-content/uploads/2023/01/WIlds-23-Race-Map.jpg)
 
 As you can see, the half marathon and marathon runners share the same path, for the large bulk of it, roughly about 10 miles or so. At roughly around the point they split up, the 5K runners join up with us — the half marathon runners. In reality, none of us actually *saw* any of the 5K runners join up with us near the end, because it was *at least* an hour or so since the start by that time, and very few 5K runners take more than hour to run the 5K (3.1 mile) distance. The route *is* an out-and-back for parts of it, but it appears to diverge in the second half of it, and head back on a different route altogether.
 
 It was a true trail run, and it took a lot out of me. I had actually not examined the race map too closely — truthfully not at all — and also I had never run a race on the trail before, so I really did not know what to expect. If I could describe it now after experiencing it firsthand, I would say the trial run as a whole was brutal and challenging, and the half marathon distance is the limit of how long I can run that.
 
-All said and done, I [completed](https://aptiming.com/race/results/1707) it in 3rd place, with a time of 1:50:03. In reality, I crossed the finish line in a little under 1 hour and 50 minutes, as can be seen below.
+I took the energy gel at around the halfway point. I am grateful I carried it with me, because I sorely needed it to keep me going.
 
-![Crossing the Finish Line](finish_wild_gorge.jpeg)
+All said and done, I [finished](https://aptiming.com/race/results/1707) the race in 3rd place, with a time of 1:50:03. In reality, I crossed the finish line in a little under 1 hour and 50 minutes, as can be seen below.
+
+![Crossing the Finish Line](/assets/images/finish_wild_gorge.jpeg)
 
 I placed Top 3 and 3rd overall in the race, and 3rd in my gender group. Here’s my [race certificate](https://aptiming.com/static/certificate/790108/3647 "race certificate") in case others are curious.
 
@@ -160,7 +194,7 @@ Going to add on to this when time allows, but in summary I am glad that I checke
 
 On Wednesday, October 16th, OrangeTheory had the 1 Mile benchmark challenge that recurs every so often, and I grudgingly participated in it.
 
-The last time around, I was on vacation around the Seattle, WA area, and at the gym I did it at, the treadmills only went up to 12 mph, so I went at 2% and got a 5:00 mile readout exactly.
+The last time around, I was on vacation around the Seattle, WA area, and at the gym I did it at, the treadmills only went up to 12 MPH, so I went at 1.5% and got an exact 5:00 mile readout.
 
 Knowing how exhausting it can be to run a sub-5 mile, let alone a 5:00 mile, I was understandably apprehensive about it.
 
@@ -168,23 +202,20 @@ The weeks and then days leading up to it, the nervousness and fear about the eve
 
 The self-doubt was ever-present:
 * Did I possess the same (or better) endurance? I was not getting younger, and I know age affects this in some important, not yet understood way.
-* What if willpower wasn’t enough? Last time, I relied on force of fill to overpower the strong, insistent voice in the back of my head telling me to give up the ghost, but what if will or drive wasn’t enough this time around? What if it deserted me when I needed it the more?
+* What if willpower wasn’t enough? Last time, I relied on force of will to overpower and drown out the loud, persistent voice in the back of my head telling me to give up the ghost and "Call it quits, Jim!" -- but what if will or drive wasn’t enough this time around? What if this elusive mental resilience and strength, deserted me when I needed it the most?
 
-I had a new pair of running shoes I’d bought for racing — actually for my upcoming half marathons — from this app called StockX. I bid on it and though I could have got it for less, I still got under fair market value or at least what Nike had listed it on sale for, which a cool $250 or so. In short, I played it smart and got it for less than that. The running shoes in question are the Nike Vaporfly NEXT%3, the same line or family of carbon-plated shoes worn by many famous athletes and especially pro marathon runners such as Elide Kipchoge, the only human [to break the 2-hour barrier](https://en.wikipedia.org/wiki/Ineos_1:59_Challenge) on the marathon distance.
+I had a new pair of running shoes I’d bought for racing —- actually for my upcoming half marathons and races -- from this app called StockX. I bid on it and though I could have got it for less, I still got under fair market value or at least what Nike was listing it on sale for at the time, just a cool $250 or so. In short, I played it smart and got it for less. The running shoes in question are the Nike Vaporfly NEXT %3 -- AKA the Vaporfly 3 -- the same line or family of carbon-plated shoes worn by many famous athletes and especially pro-marathoners such as Eliud Kipchoge, the only human [to break the 2-hour barrier](https://en.wikipedia.org/wiki/Ineos_1:59_Challenge) on the marathon distance.
 
-The day before, I decided to break in my brand spanking new running shoes, by donning them alongside my new favorite moisture-wicking shoes from Feetures, and ran at 70% duration (and slightly reduced intensity) in a regular 2G workout. For me, that was a 2% at an average of 12.7 mph — adjusted, I was targeting around 12.7-12.8 mph for this pre-race effort — for at least 3 minutes and 15 seconds. Based on my performance stats from the app, I started at 12.9 mph, scaled down to 12.7 rather quickly, and pulled back yet again to 12.5 mph after 2 minutes or so, which I sustained for the remaining effort. All said and done, I ran at an average of ~12.8 mph — adjusted for 1% — for about 70% of the anticipated race duration. I found that the new shoes were bouncy, springy, and helped me propel me forward and exerted less stress on my body and lungs, than my favorite (non-carbon-plated) pair of running shoes. All said and done, the Nike Vaporfly’s got a solid check mark from me.
+The day before, I decided to break in my brand spanking new running shoes, by donning them alongside my new favorite moisture-wicking [no-show tab socks](https://feetures.com/products/elite-ultra-light-no-show-tab-3-pack?variant=40370326372424) from Feetures, and ran at 70% duration (and slightly reduced intensity) in a regular 2G workout. For me, that was 2% with at least 12.5 mph — adjusted, I was targeting around 12.7-12.8 mph for this pre-race effort — for at least 3 minutes and 15 seconds. Based on my performance stats from the app, I started at 12.9 mph, scaled down to 12.7 rather quickly, and pulled back yet again to 12.5 mph after 2 minutes or so, which I sustained for the remaining effort. In summary, I ran at an average of ~12.8 mph — adjusted for 1% — for about 70% of the anticipated race duration. I found that the new shoes were bouncy, springy, and helped me propel me forward and exerted less stress on my body and lungs, than my favorite (non- carbon-plated) pair of running shoes. All said and done, the Nike Vaporfly’s got a solid check mark from me.
 
-Going to add on this as time allows, but in summary:
-* On race day, I prepared with good nutrition and had ChatGPT chart out my diet and nutrition plan for the day.
-	* For instance, I cooked and ate 2 medium-sized beets drizzled in olive oil and pepper and salt and spices, 1-2 hours before the race.
-	* I took electrolytes and caffeine — a cup of matcha — shortly before the race.
-* I wore a loose-fitting and performance-enhancing outfit and shoes, such as sleeveless, short with no pockets, moisture-wicking and blister-preventing Feetures socks, and of course my brand new pair of Nike Vaporfly Next%3 running shoes, the stars in my PR attempt for the 1 Mile distance.
+Going to add on this as time allows, but in short:
+* On race day, I prepared with good nutrition and used ChatGPT as a helper to chart out my diet and nutrition plan for the day. To clarify, I provided all the things I wanted to eat or drink or consume (in supplement form) on race day, and used ChatGPT as a sort of "scheduling assistant" to determine the ideal window or timeframe to take each of them.
+	* For instance, I air-fryed and ate 2 medium-sized beets drizzled in olive oil and pepper and salt and spices, 1-2 hours before the race.
+	* I took electrolytes via a [Nuun Sport](https://nuunlife.com/products/nuun-sport) tablet, tart cherry juice, and caffeine — a cup of matcha — shortly before the race.
+	* I consumed fruits pre-race. I note the variety, quantity, and timing all seems to matter.
+* I wore a loose-fitting and performance-enhancing attire and shoes, such as sleeveless, short with no pockets, moisture-wicking and blister-preventing [Feetures socks](https://feetures.com/products/elite-ultra-light-no-show-tab-3-pack?variant=40370326372424), and of course my brand new pair of Nike Vaporfly Next%3 running shoes, the shining, resplendent and "front and center" stars in my PR attempt for the 1 Mile distance.
 * I showed up early and chose my favorite treadmill to run on.
-* I started at 13.0 mph at 1%, held for about three minutes, then pulled back to 12.7 mph when I started dying and my legs started going numb like Jello, and I could barely feel them. I tried multiple times to increase it to 13-13.2 mph, but my body and legs were too exhausted, my brain was screaming at me, and it was a no-go. I tried to sustain at least 13.2 mph for the last 30-second “empty the tank” effort, and I *mostly* succeeded in that. At the end, my lungs were screaming for release, but more grateful were my legs, who had curiously gone almost completely numb from the prolonged intensity and speed necessitated by my effort.
-* I ended up with a finish time of 4:38 for the 1 Mile distance, and wouldn’t have known the exact number had not our ever-watchful coach stated it as such. I got first place on my studio’s leaderboard, and got a PR by 9 whole seconds.
+* I started at 13.0 mph at 1%, held for about three minutes, then pulled back to 12.7 mph when I started dying inside and could feel my legs starting to going numb like Jello -- I could barely feel them. I tried multiple times to pump it up to 13 - 13.2 mph, but my body and legs were too exhausted, my brain was screaming at me, and it was a no-go. I tried to sustain at least 13.5 mph for the last 30-second “empty the tank” effort, and I *mostly* succeeded in that. At the end, my lungs were screaming for release, but more grateful by far were my legs, who had curiously gone almost completely numb from the prolonged intensity and speed necessitated by my ruthless, unyielding effort.
+* I ended up with a finish time of 4:38 for the 1 Mile distance, though I wouldn’t have known the exact seconds were it not for our ever-watchful coach, who had their eye on the readout and stated it aloud. The upshot, I claimed first place on my studio’s leaderboard, and PR'ed by 9 whole seconds.
 * I realized that I was able to maintain a mile at the same pace, roughly, as Eliud Kipchoge’s marathon pace — that is, the same speed and intensity he’s able to maintain for 26.2 miles, or at least **25x** longer than all I could (barely) sustain it for. This fact is truly humbling, and puts things in perspective for me.
-* I felt terrible during the 1 Mile race effort, but felt much better afterwards, especially after social media praise and nods from others.
-
-
-
-
+* I felt like I was barely holding it together for the first half, and terrible during the latter half of the the 1 Mile Run. More than once during that effort, I questioned my existence and even why I was attempting this. I felt much better afterwards, especially after social media praise and nods from others.
