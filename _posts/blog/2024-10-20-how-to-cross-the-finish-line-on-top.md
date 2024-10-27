@@ -15,29 +15,42 @@ tags:
   - half
 ---
 
-This year has been a significant one for my running journey. I recently surpassed a key benchmark at my gym’s "Catch Me If You Can" challenge by breaking the 4-mile barrier. I placed in the Top 3 at a trail half marathon in early October, and even hit a new personal best for my mile time, shaving it down to 4:38—a record I’m incredibly proud of. Additionally, I’ve checked off three states from my goal of running a half marathon in every state, all in the same year I began this adventure with my very first half marathon.
+This year has been a significant one for my running journey. I recently surpassed a key benchmark at my gym’s “Catch Me If You Can” challenge by breaking the 4-mile barrier. I placed in the Top 3 at a trail half marathon in early October, and even hit a new personal best for my mile time, shaving it down to 4:38 — a record I’m incredibly proud of. Additionally, I’ve checked off three states from my goal of running a half marathon in every state, all in the same year I began this adventure with my very first half marathon.
 
-With so many milestones, there’s not enough time to wax eloquent about each one or give them the full attention—the love and praise—that they deserve. Yet, I believe it’s worth diving into each of them separately, expounding on them. It’s better to capture these moments than to let them fade into a chasm of unrecorded memories. It’s like hiking to the top of a mountain and seeing a canyon—an abyss that stretches from peak to peak. No one wants to stare at a blank page where there should be words, emblazoned in dark ink. So, I’m determined to take the time to put these experiences into words that capture the essence of the memory, and hopefully, resonate with others.
+With so many milestones, there’s not enough time to wax eloquent about each one or give them the full attention — the love and praise — that they deserve. Yet, I believe it’s worth diving into each of them separately, expounding on them. It’s better to capture these moments than to let them fade into a chasm of unrecorded memories. It’s like hiking to the top of a mountain and seeing a canyon — an abyss that stretches from peak to peak. No one wants to stare at a blank page where there should be words, emblazoned in dark ink. So, I’m determined to take the time to put these experiences into words that capture the essence of the memory, and hopefully, resonate with others.
 
 ## Half Marathon in Connecticut
 
-My first half marathon was on April 21st of this year, in Reston, VA. I [finished](https://raceday.enmotive.com/#/events/2024-runners-half-marathon-and-5k-of-reston/results) with a time of around 1 hour and 37 minutes, but the hills nearly got the best of me. I had prepared by doing trail runs, especially on the W&OD Trail nearby, though I’m not sure how much it helped with those relentless climbs. Before my first half, I carb-loaded with pasta -- a tradition I’ve dutifully carried out and executed for every half marathon and most races since.
+My first half marathon was on April 21st of this year, in Reston, VA; for those curious, [I blogged]({{ site.baseurl }}{% post_url blog/2024-04-28-on-my-first-race-and-running %})
+about it too. I [finished](https://raceday.enmotive.com/#/events/2024-runners-half-marathon-and-5k-of-reston/results) with a time of around 1 hour and 37 minutes, but the hills nearly got the best of me. I had prepared by doing trail runs, especially on the W&OD Trail nearby, though I’m not sure how much it helped with those relentless climbs. Before my first half, I carb-loaded with pasta -- a tradition I’ve dutifully carried out and executed for every half marathon and most races since.
+
+Heres a photo of me on my first half marathon and race -- the same one [I blogged]({{ site.baseurl }}{% post_url blog/2024-04-28-on-my-first-race-and-running %}) about:
+
+![RMR Half Marathon - On Race](/assets/images/RMR_half_on_race_1.jpg){: width="40%"}
 
 My first half taught me a lot about running the 13.1-mile distance, and about running in general. For example, running uphill is tough -- borderline brutal -- and has the potential to destroy me as a runner, while running downhill is exhilarating, a ride you should never fight. Don’t fight gravity. What goes up must come down; and the unfortunate converse holds true as well. It’s like an unspoken law of running, and of life itself. Newton should’ve taken note, if you ask me.
 
-Another tip is on how to get water at the aid stations. I don’t know what’s the best thing, to get water at each aid station, or only to pick it up as needed. I guess it depends on certain conditions, like how hot and sunny it is on race day. The thing is, this being my first time, I didn’t know the best way to get water at aid stations. As a result, I spilled some on my shirt, unintentionally soaking it in liquid, or else almost choked as I tried to swallow water too fast. I’m still learning the art of drinking water as one is running. But I think I’m getting better on it. One last thing, it’s about getting lost in races. This unfortunately is still a problem with me, and it’s more prevalent in races of longer distances, such as half marathons. The reason here is that it’s very, very hard to run next to someone the whole way of it. The half marathon is a truly challenging distance, for not just you but everyone else attempting that race and distance. It humbles you as a runner, similar to hill running or incline workouts on the treadmill. My first half had a lot of newcomers who did not understand the distance of a half marathon, or 13.1 miles. Their minds could not comprehend it. Mine could barely comprehend it too. I was not a complete newcomer, having run the half marathon distance at least twice in a practice trail run. Still, it somehow managed to humble me once again. I have to attribute this to the sheer number of hills as well as the hard to run sections, in my first half marathon.
+Another tip is on how to get water at the aid stations. I don’t know what’s the best thing, to get water at each aid station, or only to pick it up as needed. I guess it depends on certain conditions, like how hot and sunny it is on race day. The thing is, this being my first time, I didn’t know the best way to get water at aid stations. As a result, I spilled some on my shirt, unintentionally soaking it in liquid, or else almost choked as I tried to swallow water too fast. I’m still learning the art of drinking water as one is running. But I think I’m getting better on it.
+
+One last thing, it’s about getting lost in races. This unfortunately is still a problem with me, and it’s more prevalent in races of longer distances, such as half marathons. The reason here is that it’s very, very hard to run next to someone the whole way of it.
+
+In my first half, I must have gotten lost on the race course at least twice. I had to shout at least once at a volunteer on the sidelines, inquiring "which way (do I go)?". They pointed out the right direction, otherwise for the life of me, I wouldn't have known. Even at the finish line, I got confused and ran the wrong direction, cutting left instead of looping around right; I got corrected by someone, and I cursed but went the long way to the finish. The point is, getting lost wasted precious time -- and had I seen at least one other runner near the latter end of it, that wouldn't have happened to me.
+
+For the first 10K at least, I ran next to someone. But that is unusual in a race of a longer distance, such as a half marathon. The point is, it's hard to match someone's pace, and run next to them the whole way. Harder yet to carry on a conversation, when you're so focused on racing, and on finishing with a good time.
+
+The half marathon is a truly challenging distance, for not just you but everyone else attempting that race and distance. It humbles you as a runner, similar to hill running or incline workouts on the treadmill. My first half had a lot of newcomers who did not understand the distance of a half marathon, or 13.1 miles. Their minds could not comprehend it. Mine could barely comprehend it too. I was not a complete newcomer, having run the half marathon distance at least twice in a practice trail run. Still, it somehow managed to humble me once again. I have to attribute this to the sheer number of hills as well as the hard to run sections, in my first half marathon.
 
 That said, I carried some of these lessons learned about racing and half marathon running, into my 2nd half marathon, which transpired in New London, Connecticut.
 
 I had signed up a long time earlier for that previously, like maybe around May or so. Not sure exactly when. The CT race was posted in the group chat on one of my running groups. It was free at the time to sign up. For the first 100 people to sign up, or so. I hastily jumped on that bandwagon and signed up for the free half as soon as I could.
 
-I posted a while ago about my new car that I bought as a birthday gift for myself, in July. A Red Tesla, Model 3. I got 3 months of Free Supercharging once I picked up the car out of factory. Well, at the start of August, I decided to put those Free Supercharging Miles to use, and put the pedal to the metal.
+[I posted]({{ site.baseurl }}{% post_url blog/2024-07-31-at-the-peak-of-summer %}) a while ago about my new car that I bought as a birthday gift for myself, in July. A Red Tesla, Model 3. I got 3 months of Free Supercharging once I picked up the car out of factory. Well, at the start of August, I decided to put those Free Supercharging Miles to use, and put the pedal to the metal.
 
 As the fuel cost for the trip was free anyway, my family decided to join me on the trip, because why not. I went to my parent’s home and I picked them up, and also our dog, a lab mix. Packing and getting ready took a long time, as there was a lot of luggage, including a bed for our dog, and putting everything in the car took a lot of effort and time -- including using all available space such as the frunk, trunk, cabin interior, foot space, and even the glovebox I believe. I also made sure to get some must-have accessories for my new Tesla, such as all-weather floor mats and a handy wired charging hub for phones and other devices, so I was pretty well prepared. Anyway once we got loaded, we took off.
 
-So the trip time to our Airbnb in New Haven, CT was estimated around 6 hours or 350 miles, if memory serves correct, but in reality with supercharging stops and breaks along the way, it took closer to 8 hours. I also had an included FSD (Full Self Driving) subscription that was expiring exactly a month after I got it, so it was a great time to put it to use — especially because I enjoy driving so much, and rarely would use FSD otherwise. I drove almost the entire way to CT, just myself (and FSD to alternate between). I learned a lot about road tripping and long-distance driving with a Tesla on my first road trip with my Tesla. For example, do you know how uncomfortable the driver’s seat gets after the first hour? Mad uncomfortable, and shooting back pain starts after an hour or two. Trust me, I just found about this the hard way. Also, I learned a lot about optimal supercharging for road tripping, and also how to use FSD for road tripping. It really helped in certain cases, like at the start when there just so much traffic, back to back traffic. No one wants to drive in those cases. It’s stressful. So that’s where FSD really shines — it handles all this perfectly, including slowing down when needed, such as when a frustrated driver switches abruptly to your lane. Even otherwise, after driving 3-4 hours straight, one gets a little tired. I would get tired after driving for an hour or two, my nerves a bit frayed and my brain a bit exhausted and hurting from seeing and navigating nothing but the road, and that’s when I switched to FSD with the press of a button. Essentially handing over the reigns to another driver — a non-human one! Harnessing the power of AI, I was able to use FSD as a “co-pilot” of sorts, and relegate the necessity and task of driving to it. I am glad to say, it performed extraordinary well! Only in certain edge cases on the eternal highway, such as roads converging and diverging especially nearing the toll booths, or construction areas, did I (or the driver) need to wrest control and take over the reigns abruptly from Supervised FSD! And yes, there’s a reason they call it “Supervised” FSD instead of Full Self Driving. Anyway, I did not drive on the whole drop. My dad also drove partway to and from Connecticut, and also pretty frequently in the meantime we were in Connecticut. It was his first time driving an EV, especially as my parents own fully gas-powered cars. We arrived at our Airbnb in New Haven, CT at around midnight on Friday or close to it, and we unpacked the necessary luggage and hit the bed almost immediately.
+So the trip time to our Airbnb in New Haven, CT was estimated around 6 hours or 350 miles, if memory serves correct, but in reality with supercharging stops and breaks along the way, it took closer to 8 hours. I also had an included FSD (Full Self Driving) subscription that was expiring exactly a month after I got it, so it was a great time to put it to use — especially because I enjoy driving so much, and rarely would use FSD otherwise. I drove almost the entire way to CT, just myself (and FSD to alternate between). I learned a lot about road tripping and long-distance driving with a Tesla on my first road trip with my Tesla. For example, do you know how uncomfortable the driver’s seat gets after the first hour? Mad uncomfortable, and shooting back pain starts after an hour or two. Trust me, I just found about this the hard way. Also, I learned a lot about optimal supercharging for road tripping, and also how to use FSD for road tripping. It really helped in certain cases, like at the start when there was just so much traffic, back to back traffic. No one wants to drive in those cases. It’s stressful. So that’s where FSD really shines — it handles all this perfectly, including slowing down when needed, such as when a frustrated driver switches abruptly to your lane. Even otherwise, after driving 3-4 hours straight, one gets a little tired. I would get tired after driving for an hour or two, my nerves a bit frayed and my brain a bit exhausted and hurting from seeing and navigating nothing but the road, and that’s when I switched to FSD with the press of a button. Essentially handing over the reins to another driver — a non-human one! Harnessing the power of AI, I was able to use FSD as a “co-pilot” of sorts, and relegate the necessity and task of driving to it. I am glad to say, it performed extraordinary well! Only in certain edge cases on the eternal highway, such as roads converging and diverging especially nearing the toll booths, or construction areas, did I (or the driver) need to wrest control and take over the reins abruptly from Supervised FSD! And yes, there’s a reason they call it “Supervised” FSD instead of Full Self Driving. Anyway, I did not drive on the whole way. My dad also drove partway to and from Connecticut, and also pretty frequently in the meantime we were in Connecticut. It was his first time driving an EV, especially as my parents own fully gas-powered cars. We arrived at our Airbnb in New Haven, CT at around midnight on Friday or close to it, and we unpacked the necessary luggage and hit the bed almost immediately.
 
-I’ll add on more to this section as time allows. We had two Airbnb’s in Connecticut, one in New Haven and another in Middletown.  Supercharging was a bit difficult at times, as Tesla Superchargers were not in some areas in CT. In Middletown, it rained almost every day, at around the time of year we went, which was depressing. A good thing as we mostly used our Airbnb spot to bunk down for the night, and drove or traveled extensively otherwise. 
+I’ll add on more to this section as time allows. We had two Airbnb’s in Connecticut, one in New Haven and another in Middletown.  Supercharging was a bit difficult at times, as Tesla Superchargers were not in some areas in CT. In Middletown, it rained almost every day, at around the time of year we went, which was depressing. A good thing as we mostly used our Airbnb spot to bunk down for the night, and drove or traveled extensively otherwise.
 
 The evening before my race, we ate out at an authentic Italian restaurant -- Consiglio's -- that served pastas.
 
@@ -59,7 +72,14 @@ I saw others grabbing the full water bottles at the aid stations, drinking one o
 
 Never have I been more glad to see something, when I saw the finish line in my sights. My lungs were killing me, and one final kick -- my last-ditch effort -- enabled me keep toe to toe with another runner who had crept up from behind me, and we both finished at almost the same time. 
 
+Here's a (shirtless) photo of me after the race. It was a hot day, and most other race finishers were getting sprayed down by what looked like a grand hose with a showerhead, so I decided to partake as well.
+
+![After Race](/assets/images/20240803_093740_Original.jpg){: width="40%"}
+
 I’ll add more details to this race, but it went well, and I got a new PR and [finished](https://runsignup.com/Race/Results/55435#resultSetId-476286;perpage:100) in a little under 1 hour and 32 minutes. It took a lot out of me, and I stopped and rested or walked at least 3 times because I was too exhausted to run. Still, I am glad and proud of the PR and enjoyed the experience overall.
+
+![After Race](/assets/images/20240803_072725_Original.jpg){: width="70%"}
+> Me After The Race
 
 Afterwards, my sister joined us via a flight, and then alongside her, our family continued exploring Connecticut and nearby areas in our road trip. We visited Mystic, Old Saybrook, the Yale Campus and Wooster Street in New Haven, Hartford which is the Capitol of CT, other spots around Connecticut, and even drove up to Rhode Island and visited Newport, RI; also we separately drove up to Massachussets and visited a lot of beaches — especially dog-friendly beaches —and places there such as Provincetown, MA.
 
@@ -89,6 +109,10 @@ The day before CMIYC, I did a prep or warm-up run as I usually do the day before
 
 I believe I went in for CMIYC at lunch break, at around noon. Nutritionally, I prepared well with a well-rounded breakfast of oatmeal and berries, and made sure I was loaded up on caffeine. I alternated between 11 and 11.2 mph, that is 11.2 mph for a minute every 3rd minute and fall back to 11 mph for “recovery” — if memory serves correct — and I ended up with 4.08 miles down after 22 long minutes, and claimed first place on my gym’s leaderboard and ranking for the challenge. Super proud of that achievement!
 
+Here is a candid, post-run photo of me:
+
+![IMG_5485](/assets/images/cmiyc-2024.jpg){: width="70%"}
+
 Afterwards I was basking in the glory of having broken the personal barrier of 4 miles for the CMIYC distance, because that is something I had only dreamed of achieving, and thus fancied it as a pipe dream. The last time I had attempted to break 4 miles in CMIYC, I suffered a persistent knee injury, as I blogged about, which prevented me from running for about a week. Thus, I was understandably nervous and anxious about attempting it again this time around. Still, super proud and excited to have finally achieved my goal of breaking 4 miles on CMIYC! 🎉
 
 ## Dri Tri
@@ -102,6 +126,10 @@ My secret likely was in good nutrition and planning, including signing up for th
 Still, right shoes was also key! I wore my favorite running shoes for these types of benchmarks, and that also enabled me to run under a 17 minutes for the 5K distance! 
 
 Also, moving a bit faster on the rower and especially floor blocks /w the body weights really helped me.
+
+Here's me with my Dri-Tri completion certificate, some time after completing it and taking a shower and setting aside some much-needed recovery time:
+
+![Post Dri-Tri](/assets/images/post-dritri-2024.JPG){: width="50%"}
 
 ## Half Marathon in West Virginia
 
@@ -153,7 +181,8 @@ Some time after, I got word on the wire that my Dad would be joining me on my tr
 We arrived in the evening right around sunset, with dinnertime right around the corner. After searching for nearby Italian and pasta spots, I chanced upon Pasquale’s in Beckley, WV. 
 
 I event left a review for it: 
-	<span class="yelp-review" data-review-id="jyLb415TnbuH3JIu_ZoADQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=bV7D-Sjrd-nTT1-X7P9dzQ" rel="nofollow noopener">Ritvik N.</a>'s <a href="https://www.yelp.com/biz/pasquale-s-italian-restaurant-beckley?hrid=jyLb415TnbuH3JIu_ZoADQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/HzJ9TmhWB0Y9EZUByuvXhg" rel="nofollow noopener">Pasquale’s Italian Restaurant</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
+
+<span class="yelp-review" data-review-id="jyLb415TnbuH3JIu_ZoADQ" data-hostname="www.yelp.com">Read <a href="https://www.yelp.com/user_details?userid=bV7D-Sjrd-nTT1-X7P9dzQ" rel="nofollow noopener">Ritvik N.</a>'s <a href="https://www.yelp.com/biz/pasquale-s-italian-restaurant-beckley?hrid=jyLb415TnbuH3JIu_ZoADQ" rel="nofollow noopener">review</a> of <a href="https://www.yelp.com/biz/HzJ9TmhWB0Y9EZUByuvXhg" rel="nofollow noopener">Pasquale’s Italian Restaurant</a> on <a href="https://www.yelp.com" rel="nofollow noopener">Yelp</a><script src="https://www.yelp.com/embed/widgets.js" type="text/javascript" async></script></span>
 
 The food was excellent, likely the best Italian food I've eaten in my life of 30+ years.
 
@@ -167,9 +196,13 @@ Anyway, I stood in line and picked up my race bib, and clipped it on my attire a
 
 The race was supposed to start at 9 AM on the dot. In reality, we started after a half hour delay, because some guy was explaining everything to all of us, and some folks were late to register and sign up. Also, it was hard to coordinate a large crowd of around 200 runners, who were signed up for three different events or distances -- the marathon, half marathon, and the 5K Run.
 
-Funny guy, at a little after 9 AM, when the race should have started, he initially said: "OK everyone, race starts in 1 minute! Let's go!" I could swear my heart skipped a beat, but then he immediately corrected myself: "Just kidding, I'll give you guys a break, let's start at 9:30 AM."
+Funny guy, at a little after 9 AM, when the race should have started, he initially said: "OK everyone, COME ON let's line up already, race starts in 10 seconds! Here we go, 3... 2... 1!" I could swear my heart skipped a beat, but then he immediately corrected myself: "Just kidding, I'll give you guys a break, let's start at 9:30 AM."
 
-Attire wise, I decided to go sleeveless this time, wore my go-to race shorts with no pockets, Feetures moisture-wicking [quarter socks](https://feetures.com/products/elite-ultra-light-quarter-cycle-3-pack?variant=40072000602184), and my bright orange Hoka shoes.
+Attire-wise, I decided to go sleeveless this time, wore my go-to race shorts with no pockets, Feetures moisture-wicking [quarter socks](https://feetures.com/products/elite-ultra-light-quarter-cycle-3-pack?variant=40072000602184), and my bright orange Hoka shoes.
+
+Me in all my glory, with pre-race nerves intact:
+
+![Pre-Race](/assets/images/wild-gorge-pre-race.jpg){: width="80%"}
 
 I drank electrolytes before, skipped my tea so I was almost running on empty when it came to caffeine, but thankfully I possessed the faculty and good sense to carry an (organic) energy gel -- [Honey Stinger](https://honeystinger.com/collections/all-energy-gels) -- with me.
 
@@ -178,7 +211,7 @@ Anyway, here’s the race map:
 
 As you can see, the half marathon and marathon runners share the same path, for the large bulk of it, roughly about 10 miles or so. At roughly around the point they split up, the 5K runners join up with us — the half marathon runners. In reality, none of us actually *saw* any of the 5K runners join up with us near the end, because it was *at least* an hour or so since the start by that time, and very few 5K runners take more than hour to run the 5K (3.1 mile) distance. The route *is* an out-and-back for parts of it, but it appears to diverge in the second half of it, and head back on a different route altogether.
 
-It was a true trail run, and it took a lot out of me. I had actually not examined the race map too closely — truthfully not at all — and also I had never run a race on the trail before, so I really did not know what to expect. If I could describe it now after experiencing it firsthand, I would say the trial run as a whole was brutal and challenging, and the half marathon distance is the limit of how long I can run that.
+It was a true trail run, and it took a lot out of me. I had actually not examined the race map too closely — truthfully not at all — and also I had never run a race on the trail before, so I really did not know what to expect. If I could describe it now after experiencing it firsthand, I would say the trail run as a whole was brutal and challenging, and the half marathon distance is the limit of how long I can run that.
 
 I took the energy gel at around the halfway point. I am grateful I carried it with me, because I sorely needed it to keep me going.
 
@@ -187,6 +220,10 @@ All said and done, I [finished](https://aptiming.com/race/results/1707) the race
 ![Crossing the Finish Line](/assets/images/finish_wild_gorge.jpeg)
 
 I placed Top 3 and 3rd overall in the race, and 3rd in my gender group. Here’s my [race certificate](https://aptiming.com/static/certificate/790108/3647 "race certificate") in case others are curious.
+
+Pictures didn't do it justice, but here is the vista and view of the finish line for that race. It was a beautiful day, and in hindsight, the run itself was scenic and awe-inspiring, as promised. West Virginia lives up to its moniker of "Wild Wonderful", for sure! So many hidden gems and trails like these, it is mind-boggling to even think about.
+
+![Wild Gorge Wilds Trail - Scenic View](/assets/images/wild-gorge-scenic.jpg){: width="80%"}
 
 Going to add on to this when time allows, but in summary I am glad that I checked off West Virginia from my list of states to run a half marathon in. Now, only 47 left to go!
 
@@ -219,3 +256,7 @@ Going to add on this as time allows, but in short:
 * I ended up with a finish time of 4:38 for the 1 Mile distance, though I wouldn’t have known the exact seconds were it not for our ever-watchful coach, who had their eye on the readout and stated it aloud. The upshot, I claimed first place on my studio’s leaderboard, and PR'ed by 9 whole seconds.
 * I realized that I was able to maintain a mile at the same pace, roughly, as Eliud Kipchoge’s marathon pace — that is, the same speed and intensity he’s able to maintain for 26.2 miles, or at least **25x** longer than all I could (barely) sustain it for. This fact is truly humbling, and puts things in perspective for me.
 * I felt like I was barely holding it together for the first half, and terrible during the latter half of the the 1 Mile Run. More than once during that effort, I questioned my existence and even why I was attempting this. I felt much better afterwards, especially after social media praise and nods from others.
+
+In closing, here’s a snapshot capturing my mix of exhaustion and exhilaration after hitting a new personal best of 4:38 for the 1-Mile distance—proudly displayed on my studio's leaderboard and showcased here on my personal blog for all to see:
+
+![Me After 1 Run](/assets/images/2024-10-16-mile-run-and-pr.jpg){: width="70%"}
