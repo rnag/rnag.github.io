@@ -16,7 +16,7 @@ tags:
 
 I am resurgent. <br>
 I am dormant, asleep, until needed. <br>
-Like a Bear in winter's embrace, I wait patiently. <br>
+Like a Bear in winter's embrace, I wait, patient and still. <br>
 This is not the end; it is only a pause. <br>
 Once I was, and soon I will be again.
 
@@ -24,7 +24,8 @@ Once I was, and soon I will be again.
 
 I am resurgent. <br>
 I am dormant, asleep, until I am called upon. <br>
-Like a bear, I hibernate through the winter, gathering strength. <br>
+Like a Bear, I hibernate through the winter, drawing strength. <br>
+I am not yet departed; I exist, suspended between worlds. <br>
 Once I was, and I shall rise again.
 
 ## Hail to the New Year
@@ -190,13 +191,14 @@ Anyway, here it is:
 
 > I am resurgent.<br>
 > I am dormant, asleep, until needed.<br>
-> Like a Bear in winter's embrace, I wait patiently. <br> 
+> Like a Bear in winter's embrace, I wait, patient and still. <br> 
 > This is not the end; it is only a pause. <br>
 > Once I was, and soon I will be again.
 > 
 > *[Brief interlude of silence]*
 > 
-> I am resurgent.<br>
-> I am dormant, asleep, until I am called upon.<br>
-> Like a bear, I hibernate through the winter, gathering strength.<br>
+> I am resurgent. <br>
+> I am dormant, asleep, until I am called upon. <br>
+> Like a Bear, I hibernate through the winter, drawing strength. <br>
+> I am not yet departed; I exist, suspended between worlds. <br>
 > Once I was, and I shall rise again.
