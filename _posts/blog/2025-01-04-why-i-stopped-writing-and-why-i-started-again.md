@@ -34,7 +34,7 @@ Once I was, and I shall rise again.
 >
 > *[Reference to previous poem about hibernation and resurgence]*
 
-The statement above is true. This is a small poem that I wrote, to capture in a bottle my essence, my individuality, and my loneliness. Albeit, I don’t hibernate through *all* of winter. I enjoy the cold months — until they become too cold. For me, that cutoff is somewhere around the mid-30s. Below that, it’s just misery: hands numb, feet frozen, and the cold seeping into places you didn’t think it could. It’s the kind of weather that makes you question things you normally wouldn’t.
+The statement above is true. This is a small poem that I wrote, to capture in a bottle my essence, my individuality, and my loneliness. Albeit, I don’t hibernate through *all* of winter. I enjoy the cold months — until they become too cold. For me, that cutoff is somewhere around the mid-30s (Fahrenheit). Below that, it’s just misery: hands numb, feet frozen, and the cold seeping into places you didn’t think it could. It’s the kind of weather that makes you question things you normally wouldn’t.
 
 I stopped writing for a while. Why? Because I felt like it didn’t matter. No one wants to read what you write. No one cares. The world feels like a graveyard sometimes — a place filled with skeletons and mean old Grinches.
 
