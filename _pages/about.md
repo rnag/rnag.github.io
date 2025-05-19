@@ -5,22 +5,22 @@ title: "About"
 
 > Insert placeholder quote here ~ Someone
 
-Hi there 👋 . Just a little about me: I am Ritvik, a Software Developer
-based off the East Coast. I like working on cool and interesting projects,
-and enjoy building automations and tools with Python and Rust, among
-others.
+Hi there 👋 — I'm Ritvik, a software developer based on the East Coast.
 
-Currently, I am pursuing my Master's in Computer Science at GMU. I also have
-an interest in learning front-end web technologies, especially prevalent JS
-frameworks such as React.
+I enjoy building tools and automations that make life a little easier, often with Python or Rust in hand. Lately, I’ve been exploring modern frontend technologies — yes, even React has grown on me.
 
-Rather than dive into anything else **really** about me, I’ll just refer you to my other online presences:
+When I’m not in front of a screen, you’ll likely find me running, hiking, or somewhere off the grid outdoors. I like to keep things balanced.
+
+One of my better-known open source side projects is [Dataclass Wizard](https://github.com/rnag/dataclass-wizard) — a lightweight library for working with Python `dataclasses`.
+
+If you're curious to learn more (or just want to say hi), feel free to explore the rest of the site or check out a few of my other haunts:
 
 <div>
   {%- include author-profile.html -%}
 </div>
 
-_Note:_ I'm kind of old school, even despite being a rather young guy. I'm planning on signing up for social sites like [Instagram](https://www.instagram.com/), but I've left that on the back-burner for now, as I've other things to contend with, that tend to eat up too much of my time in general. But I promise, I'll get around to signing up for them eventually.
+---
 
-Also, I should probably pin my reading list here, while I'm at it. I rarely get any time to read anymore, but that's one of my
-enduring passions and interests, ever since I was a young lad still in my prepubescent years.
+I tend to avoid most social media — not out of principle, but because there's usually something more interesting (or offline) calling for my attention.
+
+Books, for instance. But we’ll talk about that another time.
