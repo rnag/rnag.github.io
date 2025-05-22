@@ -10,11 +10,13 @@ tags:  # up to 5, compatible with https://medium.com/explore-topics
   - apple
   - health
   - productivity
-devto_tags:  # up to 4, compatible with https://dev.to/tags
-  - apple
-  - automation
-  - productivity
-  - health
+dev_to:
+  id: 2513211
+  tags:  # up to 4, compatible with https://dev.to/tags
+    - apple
+    - automation
+    - productivity
+    - health
 ---
 
 {% include tech-tips-head-notice.html %}

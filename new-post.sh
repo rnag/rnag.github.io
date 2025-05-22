@@ -62,8 +62,9 @@ excerpt: "TODO"
 ${COMMON_FRONT_MATTER}
 tags:  # up to 5, compatible with https://medium.com/explore-topics
   - TODO
-devto_tags:  # up to 4, compatible with https://dev.to/tags
-  - TODO
+dev_to:
+  tags:  # up to 4, compatible with https://dev.to/tags
+    - TODO
 ---
 
 {% include tech-tips-head-notice.html %}
