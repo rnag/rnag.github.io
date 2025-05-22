@@ -25,7 +25,7 @@ As a runner and fitness enthusiast, sleep is essential for my recovery — and y
 
 One thing I’ve wanted to automate for a while now is disabling Wi-Fi and Bluetooth on the devices near my bed — including both my personal and work MacBooks, my iPhone, and ideally even my Apple Watch (which I wear to track sleep). These devices all stay in my bedroom overnight, so minimizing potential sleep disruptors has become a personal experiment.
 
-You might ask: why go through the trouble of shutting off Wi-Fi and Bluetooth automatically? It’s a fair question. This study raises concerns that Wi-Fi radiation may impact sleep quality and increase the risk of insomnia. And this video explanation discusses the potential relationship between wireless radiation and disrupted sleep. While scientific research on the topic is still largely inconclusive, I figured that if there's even a slight chance of improving sleep quality by reducing exposure, it's worth exploring.
+You might ask: why go through the trouble of shutting off Wi-Fi and Bluetooth automatically? It’s a fair question. [This study](https://sleepreviewmag.com/sleep-health/parameters/quality/study-raises-concerns-wi-fi-device-radiation-sleep-quality/) raises concerns that Wi-Fi radiation may impact sleep quality and increase the risk of insomnia. And this [video explanation](https://neurologicwellnessinstitute.com/can-wifi-affect-sleep-quality/) discusses the potential relationship between wireless radiation and disrupted sleep. While scientific research on the topic is still largely inconclusive, I figured that if there's even a slight chance of improving sleep quality by reducing exposure, it's worth exploring.
 
 So for the past several months, I’ve had an automation in place that turns off Wi-Fi and Bluetooth on my Apple devices around bedtime — and in this post, I’ll share how I set that up in case you’re looking to try something similar.
 
@@ -69,9 +69,11 @@ Now, there’s a few way to schedule these two automations on a Mac. You can eit
 
 ## Scheduling with Calendar
 
-Regardless, the next step is to open the **Calendar** app on Mac.
+Regardless, the next step is to open the **Calendar** app on your Mac.
 
-Now, remember that I chose to save the Automator scripts to my iCloud Drive, under the “Automator” folder? There’s a reason I chose to use iCloud. If you’re only using a single Macbook — perhaps as a personal laptop — then there’s no need to go down this route; saving it to `/Applications` is good enough. However, in my case I use both a _Mac Air_ as my personal laptop, and a _Mac Pro_ as my work laptop. Since I have two devices, I wanted to sync the toggling of Wi-Fi and Bluetooth across both my Mac laptops. What I found after trial and error in my case, is that the Calendar app syncs across your Apple devices automatically. So if you set up the calendar events on one laptop, you shouldn’t need to do it on your other one, as it should sync (theoretically anyway).
+Now, remember how I saved the Automator scripts to iCloud Drive, inside an “Automator” folder? There’s a reason for that. If you’re using just one Mac — say, a personal laptop — saving the scripts to `/Applications` works fine. But in my case, I use both a *MacBook Air* (personal) and a *MacBook Pro* (work). I wanted the Wi-Fi and Bluetooth toggling to sync across both devices.
+
+After some trial and error, I found that Calendar events sync automatically across Apple devices — but local file paths like `/Applications` do not. So, if the script lives in `/Applications` on one Mac, the synced calendar event on the second Mac will break. By storing the script in iCloud Drive, both Macs can access the same path, and I only have to set up the Calendar automation once (in theory, at least).
 
 First thing I did was hit the **+** button at the top to create a new Calendar event. I called the first one “**Start Morning**”, set it to **repeat daily** at **8:00 AM**, and the important bit here is to expand the event, click on “Add Alert, Repeat, or Travel Time”, and then to go to where you see `alert: None`, click the dropdown, and go to `Custom...`, choose `Open File` and then in the second dropdown choose `Other...` . In the Finder window, locate and select the file location for the Automator script `StartMorning.app`  that you saved in previous step. Next, though technically not needed, I clicked the dropdown to alert **15 Minutes before** and changed it to **At time of event**.
 
