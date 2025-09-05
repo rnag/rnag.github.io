@@ -12,6 +12,7 @@ tags:  # up to 5, compatible with https://medium.com/explore-topics
   - productivity
   - student-life
 dev_to:
+  id: 2820956
   tags:  # up to 4, compatible with https://dev.to/tags
     - python
     - automation
