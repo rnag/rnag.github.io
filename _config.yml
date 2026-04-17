@@ -8,8 +8,7 @@ subtitle                 : # site tagline that appears below site title in masth
 title_separator          : "-"
 name                     : &name "Ritvik Nag"
 description: &description >- # this means to ignore newlines until "baseurl:"
-  Senior Software Engineer focused on automation and backend systems.
-  M.S. in Computer Science (AI/ML).
+  Senior Software Engineer (automation, backend). M.S. (AI/ML).
   Runner pursuing a half marathon in all 50 states.
 url                      : &url "https://ritviknag.com"
 baseurl                  : ""
