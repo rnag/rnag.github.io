@@ -39,7 +39,11 @@ TITLE="$@"
 FILE_TITLE=$(echo "$TITLE" | tr " " "-" | tr -d "(),:;?" | tr "[A-Z]" "[a-z]")
 FILE_NAME="$DATE-${FILE_TITLE}.md"
 
-FULL_PATH="_posts/${CATEGORY}/${FILE_NAME}"
+if [ $CATEGORY == "blog" ]; then
+  FULL_PATH="_posts/${FILE_NAME}"
+else
+  FULL_PATH="_posts/${CATEGORY}/${FILE_NAME}"
+fi
 
 # The first substitution escapes backslashes, the second
 # escapes double-quotes. They must be done in this order.

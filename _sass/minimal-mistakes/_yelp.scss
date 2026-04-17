@@ -1,0 +1,28 @@
+.yelp-embed-wrap {
+  max-width: 420px;
+  margin: 1rem auto;
+  padding: 0.75rem;
+  border-radius: 12px;
+  background: var(--global-bg-color, #fff);
+  border: 1px solid rgba(128, 128, 128, 0.2);
+}
+
+.review-card {
+  max-width: 420px;
+  margin: 1rem auto;
+  padding: 0rem 1.25rem;
+  border-radius: 12px;
+  background: mix(#fff, $background-color, 6%);
+  border: 1px solid $border-color;
+  color: $text-color;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.review-card a {
+  color: $link-color;
+}
+
+.review-card a:hover {
+  color: $link-color-hover;
+}
+
