@@ -11,7 +11,7 @@ tags:
   - 50-states
 ---
 
-**Progress:** 13 / 51 states  
+**Progress:** 15 / 51 states  
 ⭐ = Personal Record (PR)
 
 I’m working toward running a half marathon in every U.S. state (13.1 × 50/51).
@@ -43,6 +43,18 @@ In the words of a volunteer on the sidelines:
 | Race | Location   | Time           | Pace    | Overall | AG |
 |------|------------|----------------|---------|---------|----|
 | 11   | Richmond, VA | **1:23:37** ⭐ | 6:23/mi | 124     | 30 |
+
+<div class="review-card">
+  <h4>Pre-Race: Casa Italiana</h4>
+  <p>
+    Family Owned Italian Restaurant Specializing in Home Made Pasta.
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/casa-italiana-richmond?hrid=OVT_Zwlg0z0F6Mi5YeyZ3g" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
 
 Fast downhill finish. Strong close over the final stretch.
 
@@ -235,4 +247,61 @@ Cool temps (~47–50°F), but didn’t feel like it.
 |------|------------|----------------|---------|---------|----|
 | 13   | Little Rock, AR | **1:24:42** | 6:28/mi | 17      | 2  |
 
+<div class="review-card">
+  <h4>Pre-Race: Ristorante Capeo</h4>
+  <p>
+    Arkansas' Premier Italian Restaurant
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/ristorante-capeo-north-little-rock-2?hrid=mMfOurCpQ978ID06xg0IKw" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
+
 Hilly course, but a great race overall. Ran alongside another runner for much of it — strong finish and great crowd support.
+
+
+# 14. Kentucky
+
+## Kentucky Derby Festival – Humana Mini-Marathon (4/25/2026)
+
+| Race | Location   | Time           | Pace    | Overall | AG |
+|------|------------|----------------|---------|---------|----|
+| 16   | Louisville, KY | **1:21:53** | 6:15/mi | 42      | 10  |
+
+<div class="review-card">
+  <h4>Pre-Race: The Old Spaghetti Factory</h4>
+  <p>
+      Classic Italian spot in downtown Louisville with generous portions and solid pre-race pasta options.
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/the-old-spaghetti-factory-louisville?hrid=go0y-AT0ufKtpkleD0L6OA" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
+
+A scenic and energetic first race in Louisville with strong crowd support throughout the course. Cool morning weather and a solid pre-race dinner helped set up a fast day and a new state completed on the half marathon journey.
+
+# 15. Ohio
+
+## Flying Pig Half Marathon (5/3/2026)
+
+| Race | Location   | Time           | Pace    | Overall | AG |
+|------|------------|----------------|---------|---------|----|
+| 17   | Cincinnati, OH | **1:29:33** | 6:51/mi | 165      | 27  |
+
+<div class="review-card">
+  <h4>Pre-Race: Pepp & Dolores</h4>
+  <p>
+      Popular Cincinnati Italian restaurant with flavorful pasta and a relaxed atmosphere.
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/pepp-and-dolores-cincinnati-5?hrid=Rav2UsxFeg2937in1eNA8Q" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
+
+First time racing in Cincinnati at one of the most well-known half marathons in the Midwest. Cold conditions and heavy congestion early on made the race challenging, but the course atmosphere, riverfront views, and crowd energy still made it a memorable experience.
