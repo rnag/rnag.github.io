@@ -32,3 +32,20 @@
 .layout--splash .page__hero--overlay .btn:not(:first-of-type):hover {
   background-color: rgba(255,255,255,0.15) !important;
 }
+
+.page__content .feature__wrapper {
+  margin-bottom: 1.5em !important;
+}
+
+.archive-links {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__content > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+.page__footer {
+  margin-top: 1em !important;
+}

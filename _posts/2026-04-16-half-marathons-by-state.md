@@ -1,5 +1,5 @@
 ---
-title: "Half Marathons by State: My 50-State Running Journey"
+title: "Half Marathons by State"
 date: "2026-04-16 23:10:28 -0400"
 sticky: true
 categories:
@@ -11,14 +11,14 @@ tags:
   - 50-states
 ---
 
-**Progress:** 15 / 51 states  
+**Progress:** 15 states completed  
 ⭐ = Personal Record (PR)
 
-I’m working toward running a half marathon in every U.S. state (13.1 × 50/51).
+I’m working toward running a half marathon in every U.S. state and DC.
 
-Before each race, I keep a simple tradition: carb-load the night before — usually pasta. When I can, I’ll share pre-race spots that are worth checking out.
+Before each race, I keep a simple tradition: carb-loading the night before — usually pasta. Whenever possible, I’ll also share memorable pre-race spots worth checking out.
 
-This is a running log of races so far — times, courses, and a few notes along the way.
+This page is a running log of races so far — times, courses, travel notes, and a few thoughts along the way.
 
 ---
 

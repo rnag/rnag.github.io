@@ -9,7 +9,7 @@ title_separator          : "-"
 name                     : &name "Ritvik Nag"
 description: &description >- # this means to ignore newlines until "baseurl:"
   Senior Software Engineer (automation, backend). M.S. (AI/ML).
-  Runner pursuing a half marathon in all 50 states.
+  Runner pursuing a half marathon in all 51 states.
 url                      : &url "https://ritviknag.com"
 baseurl                  : ""
 domain                   : rnag.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
@@ -44,8 +44,8 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-twitter:
-  username               : &twitter RitvikNag
+# twitter:
+#   username               : &twitter RitvikNag
 
 # github: [metadata]
 
