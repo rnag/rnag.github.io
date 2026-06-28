@@ -17,10 +17,10 @@ excerpt: >
   Software engineer, open source maintainer, aspiring pilot, and runner pursuing a half marathon in all 51 states.
 
 feature_row:
-  - title: "Dataclass Wizard"
-    excerpt: "Python dataclass serialization, JSON parsing, and developer-friendly tooling."
-    url: "https://github.com/rnag/dataclass-wizard"
-    btn_label: "View project"
+  - title: "Projects"
+    excerpt: "Open source libraries and tools for Python, AWS, and backend engineering."
+    url: "/projects/"
+    btn_label: "Explore projects"
     btn_class: "btn--primary"
 
   - title: "Half Marathons by State"
