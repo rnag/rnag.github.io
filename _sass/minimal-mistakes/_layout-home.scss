@@ -33,6 +33,22 @@
   background-color: rgba(255,255,255,0.15) !important;
 }
 
+.layout--splash .page__content {
+  padding-top: 0em !important;
+}
+
+.layout--splash .page__content .feature__wrapper:first-child {
+  margin-top: -0.5em !important;
+}
+
+.layout--splash .feature__item {
+  margin-bottom: 1em !important;
+}
+
+.layout--splash .archive__item-title {
+  margin-top: 0.25em !important;
+}
+
 .page__content .feature__wrapper {
   margin-bottom: 1.5em !important;
 }
