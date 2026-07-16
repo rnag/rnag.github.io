@@ -345,8 +345,6 @@ Beautiful mountain scenery and my first podium finish at altitude. Racing above 
 |------|----------|------|------|---------|----|
 | 19 | West Yellowstone, MT | **1:37:41** | 7:27/mi | 9 | 2 |
 
-High-altitude trail race with roughly 671 feet of climbing, rocky footing, and temperatures around 38°F at the start. One of the toughest half marathons I've run, but an unforgettable destination race.
-
 <div class="review-card">
   <h4>Pre-Race: Madison Crossing Lounge</h4>
   <p>
@@ -358,6 +356,8 @@ High-altitude trail race with roughly 671 feet of climbing, rocky footing, and t
     </a>
   </p>
 </div>
+
+High-altitude trail race with roughly 671 feet of climbing, rocky footing, and temperatures around 38°F at the start. One of the toughest half marathons I've run, but an unforgettable destination race.
 
 [Read the full Yellowstone Half race guide →](https://races.ritviknag.com/races/yellowstone-half)
 
@@ -371,8 +371,6 @@ High-altitude trail race with roughly 671 feet of climbing, rocky footing, and t
 |------|----------|------|------|---------|----|
 | 20 | Boise, ID | **1:28:48** | 6:47/mi | 10 | 2 |
 
-A rainy race morning replaced the sunny forecast, but the downtown course was fast, walkable, and well organized. After two weeks of racing at much higher elevations, running at Boise's lower elevation felt refreshingly comfortable.
-
 <div class="review-card">
   <h4>Pre-Race: Àlavita</h4>
   <p>
@@ -384,5 +382,7 @@ A rainy race morning replaced the sunny forecast, but the downtown course was fa
     </a>
   </p>
 </div>
+
+A rainy race morning replaced the sunny forecast, but the downtown course was fast, walkable, and well organized. After two weeks of racing at much higher elevations, running at Boise's lower elevation felt refreshingly comfortable.
 
 [Read the full Boise Half race guide →](https://races.ritviknag.com/races/boise-half)
