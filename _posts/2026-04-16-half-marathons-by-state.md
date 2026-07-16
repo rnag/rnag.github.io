@@ -11,12 +11,15 @@ tags:
   - 50-states
 ---
 
-**Progress:** 15 states completed  
+**Progress:** 18 states completed  
 ⭐ = Personal Record (PR)
 
 I’m working toward running a half marathon in every U.S. state and DC.
 
 Before each race, I keep a simple tradition: carb-loading the night before — usually pasta. Whenever possible, I’ll also share memorable pre-race spots worth checking out.
+
+
+For detailed destination race guides -- including lodging, restaurants, airports, parking, weather, elevation, and race-morning logistics -- visit [Race Across 50 States](https://races.ritviknag.com/).
 
 This page is a running log of races so far — times, courses, travel notes, and a few thoughts along the way.
 
@@ -305,3 +308,70 @@ A scenic and energetic first race in Louisville with strong crowd support throug
 </div>
 
 First time racing in Cincinnati at one of the most well-known half marathons in the Midwest. Cold conditions and heavy congestion early on made the race challenging, but the course atmosphere, riverfront views, and crowd energy still made it a memorable experience.
+
+---
+
+# 16. Wyoming
+
+## Grand Teton Half Marathon (6/6/2026)
+
+| Race | Location | Time | Pace | Overall | AG |
+|------|----------|------|------|---------|----|
+| 18 | Jackson, WY | **1:34:05** | 7:10/mi | 12 | 2 |
+
+
+Beautiful mountain scenery and my first podium finish at altitude. Racing above 6,300 feet felt dramatically harder than the course profile suggested, but the views of the Tetons made every mile worthwhile.
+
+[Read the full Grand Teton Half race guide →](https://races.ritviknag.com/races/grand-teton-half)
+
+---
+
+# 17. Montana
+
+## Yellowstone Half Marathon (6/13/2026)
+
+| Race | Location | Time | Pace | Overall | AG |
+|------|----------|------|------|---------|----|
+| 19 | West Yellowstone, MT | **1:37:41** | 7:27/mi | 9 | 2 |
+
+High-altitude trail race with roughly 671 feet of climbing, rocky footing, and temperatures around 38°F at the start. One of the toughest half marathons I've run, but an unforgettable destination race.
+
+<div class="review-card">
+  <h4>Pre-Race: Madison Crossing Lounge</h4>
+  <p>
+    Excellent pasta just minutes from the race start and one of my favorite pre-race dinners.
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/madison-crossing-lounge-west-yellowstone-6?hrid=VTRn6Ij5d3GchndGpUYk4w" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
+
+[Read the full Yellowstone Half race guide →](https://races.ritviknag.com/races/yellowstone-half)
+
+---
+
+# 18. Idaho
+
+## Boise Half Marathon (6/20/2026)
+
+| Race | Location | Time | Pace | Overall | AG |
+|------|----------|------|------|---------|----|
+| 20 | Boise, ID | **1:28:48** | 6:47/mi | 10 | 2 |
+
+A rainy race morning replaced the sunny forecast, but the downtown course was fast, walkable, and well organized. After two weeks of racing at much higher elevations, running at Boise's lower elevation felt refreshingly comfortable.
+
+<div class="review-card">
+  <h4>Pre-Race: Àlavita</h4>
+  <p>
+    Handmade pasta within walking distance of the race start—one of the best pre-race restaurants in Boise.
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/%C3%A0lavita-boise-2?hrid=HTlRwW36jUtTuKEinV3ljg" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
+
+[Read the full Boise Half race guide →](https://races.ritviknag.com/races/boise-half)

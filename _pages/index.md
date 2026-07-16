@@ -8,13 +8,13 @@ header:
   overlay_image: /assets/images/pilot-hero.jpg
   overlay_filter: 0.25
   actions:
+    - label: "View Race Guides"
+      url: "https://races.ritviknag.com/"
     - label: "Read the Blog"
       url: "/blog/"
-    - label: "View Tech Tips"
-      url: "/tech-tips/"
 
 excerpt: >
-  Software engineer, open source maintainer, aspiring pilot, and runner pursuing a half marathon in all 51 states.
+  Software engineer, open source maintainer, aspiring pilot, and runner building firsthand destination race guides while pursuing a half marathon in all 50 states plus DC.
 
 feature_row:
   - title: "Projects"
@@ -23,10 +23,10 @@ feature_row:
     btn_label: "Explore projects"
     btn_class: "btn--primary"
 
-  - title: "Half Marathons by State"
-    excerpt: "Race results, travel notes, pre-race meals, and progress toward all 51 states."
-    url: "/blog/half-marathons-by-state/"
-    btn_label: "Follow the journey"
+  - title: "Race Across 50 States"
+    excerpt: "Firsthand destination race guides covering lodging, restaurants, airports, parking, weather, elevation, and race-morning logistics."
+    url: "https://races.ritviknag.com/"
+    btn_label: "View race guides"
     btn_class: "btn--primary"
 
   - title: "Tech Tips"
@@ -37,6 +37,10 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<p class="archive-links">
+  <a href="/blog/half-marathons-by-state/">View my 18-state race history</a>
+</p>
 
 <p class="archive-links">
   <a href="/posts/">Posts</a> ·
