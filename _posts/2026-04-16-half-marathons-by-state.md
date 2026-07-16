@@ -319,6 +319,17 @@ First time racing in Cincinnati at one of the most well-known half marathons in 
 |------|----------|------|------|---------|----|
 | 18 | Jackson, WY | **1:34:05** | 7:10/mi | 12 | 2 |
 
+<div class="review-card">
+  <h4>Pre-Race: Calico Restaurant &amp; Bar</h4>
+  <p>
+    Fantastic pasta just minutes from packet pickup at Stilson Lot. One of my favorite pre-race dinners of the entire 50-state journey.
+  </p>
+  <p>
+    <a href="https://www.yelp.com/biz/calico-restaurant-and-bar-wilson-2?hrid=w6wt8mUrTG5q0CrN3j1WGg" rel="nofollow noopener">
+      Read full review on Yelp
+    </a>
+  </p>
+</div>
 
 Beautiful mountain scenery and my first podium finish at altitude. Racing above 6,300 feet felt dramatically harder than the course profile suggested, but the views of the Tetons made every mile worthwhile.
 
