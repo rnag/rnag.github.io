@@ -22,19 +22,17 @@ Patient.
 
 Still.
 
-This is not the end.  
-Only a pause.
+This is not the end;
+it is only a pause.
 
-Once I was.
-
-And soon I will be again.
+Once I was,
+and soon I will be again.
 
 ---
 
 _I am resurgent._
 
 I am dormant, asleep, until I am called upon.
-
 Like a bear, I hibernate through winter, gathering strength.
 
 Once I was.
