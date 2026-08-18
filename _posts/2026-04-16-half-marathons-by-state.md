@@ -2,6 +2,8 @@
 title: "Half Marathons by State"
 date: "2026-04-16 23:10:28 -0400"
 sticky: true
+sticky_order: 1
+excerpt: "My ongoing project to run a half marathon in every state, with race results, travel notes, and lessons from the road."
 categories:
   - blog
 tags:
@@ -18,7 +20,6 @@ I’m working toward running a half marathon in every U.S. state and DC.
 
 Before each race, I keep a simple tradition: carb-loading the night before — usually pasta. Whenever possible, I’ll also share memorable pre-race spots worth checking out.
 
-
 For detailed destination race guides -- including lodging, restaurants, airports, parking, weather, elevation, and race-morning logistics -- visit [Race Across 50 States](https://races.ritviknag.com/).
 
 This page is a running log of races so far — times, courses, travel notes, and a few thoughts along the way.
@@ -29,9 +30,9 @@ This page is a running log of races so far — times, courses, travel notes, and
 
 ## Reston Half Marathon (4/21/2024)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 1    | Reston, VA | **1:36:41** ⭐ | 7:23/mi | 5       | 1  |
+| Race | Location   | Time           | Pace    | Overall | AG  |
+| ---- | ---------- | -------------- | ------- | ------- | --- |
+| 1    | Reston, VA | **1:36:41** ⭐ | 7:23/mi | 5       | 1   |
 
 First in AG. I was expecting at least 3rd — a nice surprise.
 
@@ -43,9 +44,9 @@ In the words of a volunteer on the sidelines:
 
 ## Richmond Half Marathon (11/15/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 11   | Richmond, VA | **1:23:37** ⭐ | 6:23/mi | 124     | 30 |
+| Race | Location     | Time           | Pace    | Overall | AG  |
+| ---- | ------------ | -------------- | ------- | ------- | --- |
+| 11   | Richmond, VA | **1:23:37** ⭐ | 6:23/mi | 124     | 30  |
 
 <div class="review-card">
   <h4>Pre-Race: Casa Italiana</h4>
@@ -67,9 +68,9 @@ Great course, great crowd — solid weekend.
 
 ## Sentara Shamrock Half Marathon (3/22/2026)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 15   | Virginia Beach, VA | **1:18:37** ⭐ | 6:00/mi | 15      | 3  |
+| Race | Location           | Time           | Pace    | Overall | AG  |
+| ---- | ------------------ | -------------- | ------- | ------- | --- |
+| 15   | Virginia Beach, VA | **1:18:37** ⭐ | 6:00/mi | 15      | 3   |
 
 > The Sentara Shamrock Half Marathon is flat and fast, making it the perfect place for a PR.
 
@@ -81,9 +82,9 @@ Flat and fast was accurate.
 
 ## 62nd Annual John & Jessie Kelley Half Marathon (8/3/2024)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 2    | New London, CT | **1:31:53** ⭐ | 7:01/mi | 31      | 4  |
+| Race | Location       | Time           | Pace    | Overall | AG  |
+| ---- | -------------- | -------------- | ------- | ------- | --- |
+| 2    | New London, CT | **1:31:53** ⭐ | 7:01/mi | 31      | 4   |
 
 <div class="review-card">
   <h4>Pre-Race: Consiglio's Restaurant</h4>
@@ -107,9 +108,9 @@ Well-organized race despite tough conditions. Volunteers spraying water along th
 
 ## New River Gorge Wilds Trail Run (10/5/2024)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 3    | Oak Hill, WV | **1:50:03** | 8:24/mi | 3       | ?  |
+| Race | Location     | Time        | Pace    | Overall | AG  |
+| ---- | ------------ | ----------- | ------- | ------- | --- |
+| 3    | Oak Hill, WV | **1:50:03** | 8:24/mi | 3       | ?   |
 
 Top 3 at ACE Adventure Resort.
 
@@ -125,9 +126,9 @@ First trail half marathon. Racing with a dead watch, no phone, no gear, and limi
 
 ## Charlotte Half Marathon (11/16/2024)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 4    | Charlotte, NC | **1:24:35** ⭐ | 6:28/mi | 38      | 6  |
+| Race | Location      | Time           | Pace    | Overall | AG  |
+| ---- | ------------- | -------------- | ------- | ------- | --- |
+| 4    | Charlotte, NC | **1:24:35** ⭐ | 6:28/mi | 38      | 6   |
 
 First sub-1:25. Also the debut of the Nike Vaporfly 3.
 
@@ -137,9 +138,9 @@ First sub-1:25. Also the debut of the Nike Vaporfly 3.
 
 ## Run Sedona (2/1/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 5    | Sedona, AZ | **1:31:02** | 6:57/mi | 16      | 3  |
+| Race | Location   | Time        | Pace    | Overall | AG  |
+| ---- | ---------- | ----------- | ------- | ------- | --- |
+| 5    | Sedona, AZ | **1:31:02** | 6:57/mi | 16      | 3   |
 
 Two hours of sleep, hills, and elevation — still happy with the result.
 
@@ -149,9 +150,9 @@ Two hours of sleep, hills, and elevation — still happy with the result.
 
 ## DC Rock 'N Roll Half (3/15/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 6    | Washington, DC | **1:23:54** | 6:24/mi | 146     | 22 |
+| Race | Location       | Time        | Pace    | Overall | AG  |
+| ---- | -------------- | ----------- | ------- | ------- | --- |
+| 6    | Washington, DC | **1:23:54** | 6:24/mi | 146     | 22  |
 
 A good summary of this race:
 
@@ -166,9 +167,9 @@ A good summary of this race:
 
 ## NYCRUNS Half — Brooklyn Ice Cream Social (8/23/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 7    | Brooklyn, NY | **1:24:53** | 6:29/mi | 9       | 4  |
+| Race | Location     | Time        | Pace    | Overall | AG  |
+| ---- | ------------ | ----------- | ------- | ------- | --- |
+| 7    | Brooklyn, NY | **1:24:53** | 6:29/mi | 9       | 4   |
 
 Four laps around Prospect Park.
 
@@ -178,9 +179,9 @@ Four laps around Prospect Park.
 
 ## Boulderthon (9/28/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 8    | Boulder, CO | **1:24:17** | 6:25/mi | 62      | 10 |
+| Race | Location    | Time        | Pace    | Overall | AG  |
+| ---- | ----------- | ----------- | ------- | ------- | --- |
+| 8    | Boulder, CO | **1:24:17** | 6:25/mi | 62      | 10  |
 
 Happy to break 1:25 at altitude.
 
@@ -194,9 +195,9 @@ Did a 10.5-mile shakeout on Davidson Mesa beforehand to acclimate. Still — the
 
 ## Smuttynose Rockfest Half Marathon (10/5/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 9    | Hampton Beach, NH | **1:20:25** ⭐ | 6:09/mi | 21      | 6  |
+| Race | Location          | Time           | Pace    | Overall | AG  |
+| ---- | ----------------- | -------------- | ------- | ------- | --- |
+| 9    | Hampton Beach, NH | **1:20:25** ⭐ | 6:09/mi | 21      | 6   |
 
 ---
 
@@ -204,9 +205,9 @@ Did a 10.5-mile shakeout on Davidson Mesa beforehand to acclimate. Still — the
 
 ## Nashville Half Marathon (10/25/2025)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 10   | Nashville, TN | **1:23:47** | 6:23/mi | 97      | 11 |
+| Race | Location      | Time        | Pace    | Overall | AG  |
+| ---- | ------------- | ----------- | ------- | ------- | --- |
+| 10   | Nashville, TN | **1:23:47** | 6:23/mi | 97      | 11  |
 
 Started late (~7:20 AM) due to long bib pickup lines.
 
@@ -220,9 +221,9 @@ Hilly course — but the downhills helped. Strong energy downtown, and a unique 
 
 ## Maui Oceanfront Marathon (1/18/2026)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 11   | Wailuku, HI | **1:23:24** | 6:22/mi | 4       | 1  |
+| Race | Location    | Time        | Pace    | Overall | AG  |
+| ---- | ----------- | ----------- | ------- | ------- | --- |
+| 11   | Wailuku, HI | **1:23:24** | 6:22/mi | 4       | 1   |
 
 First time in Hawaii — traveled with family.
 
@@ -232,9 +233,9 @@ First time in Hawaii — traveled with family.
 
 ## Bay Breeze Half Marathon (2/14/2026)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 12   | San Leandro, CA | **1:21:15** | 6:12/mi | 3       | 2  |
+| Race | Location        | Time        | Pace    | Overall | AG  |
+| ---- | --------------- | ----------- | ------- | ------- | --- |
+| 12   | San Leandro, CA | **1:21:15** | 6:12/mi | 3       | 2   |
 
 Flat, but brutal — gravel, sand, bridges, wind, and bugs.
 
@@ -246,9 +247,9 @@ Cool temps (~47–50°F), but didn’t feel like it.
 
 ## Little Rock Half Marathon (3/1/2026)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 13   | Little Rock, AR | **1:24:42** | 6:28/mi | 17      | 2  |
+| Race | Location        | Time        | Pace    | Overall | AG  |
+| ---- | --------------- | ----------- | ------- | ------- | --- |
+| 13   | Little Rock, AR | **1:24:42** | 6:28/mi | 17      | 2   |
 
 <div class="review-card">
   <h4>Pre-Race: Ristorante Capeo</h4>
@@ -264,13 +265,12 @@ Cool temps (~47–50°F), but didn’t feel like it.
 
 Hilly course, but a great race overall. Ran alongside another runner for much of it — strong finish and great crowd support.
 
-
 # 14. Kentucky
 
 ## Kentucky Derby Festival – Humana Mini-Marathon (4/25/2026)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
+| Race | Location       | Time        | Pace    | Overall | AG  |
+| ---- | -------------- | ----------- | ------- | ------- | --- |
 | 16   | Louisville, KY | **1:21:53** | 6:15/mi | 42      | 10  |
 
 <div class="review-card">
@@ -291,9 +291,9 @@ A scenic and energetic first race in Louisville with strong crowd support throug
 
 ## Flying Pig Half Marathon (5/3/2026)
 
-| Race | Location   | Time           | Pace    | Overall | AG |
-|------|------------|----------------|---------|---------|----|
-| 17   | Cincinnati, OH | **1:29:33** | 6:51/mi | 165      | 27  |
+| Race | Location       | Time        | Pace    | Overall | AG  |
+| ---- | -------------- | ----------- | ------- | ------- | --- |
+| 17   | Cincinnati, OH | **1:29:33** | 6:51/mi | 165     | 27  |
 
 <div class="review-card">
   <h4>Pre-Race: Pepp & Dolores</h4>
@@ -315,9 +315,9 @@ First time racing in Cincinnati at one of the most well-known half marathons in 
 
 ## Grand Teton Half Marathon (6/6/2026)
 
-| Race | Location | Time | Pace | Overall | AG |
-|------|----------|------|------|---------|----|
-| 18 | Jackson, WY | **1:34:05** | 7:10/mi | 12 | 2 |
+| Race | Location    | Time        | Pace    | Overall | AG  |
+| ---- | ----------- | ----------- | ------- | ------- | --- |
+| 18   | Jackson, WY | **1:34:05** | 7:10/mi | 12      | 2   |
 
 <div class="review-card">
   <h4>Pre-Race: Calico Restaurant &amp; Bar</h4>
@@ -341,9 +341,9 @@ Beautiful mountain scenery and my first podium finish at altitude. Racing above 
 
 ## Yellowstone Half Marathon (6/13/2026)
 
-| Race | Location | Time | Pace | Overall | AG |
-|------|----------|------|------|---------|----|
-| 19 | West Yellowstone, MT | **1:37:41** | 7:27/mi | 9 | 2 |
+| Race | Location             | Time        | Pace    | Overall | AG  |
+| ---- | -------------------- | ----------- | ------- | ------- | --- |
+| 19   | West Yellowstone, MT | **1:37:41** | 7:27/mi | 9       | 2   |
 
 <div class="review-card">
   <h4>Pre-Race: Madison Crossing Lounge</h4>
@@ -367,9 +367,9 @@ High-altitude trail race with roughly 671 feet of climbing, rocky footing, and t
 
 ## Boise Half Marathon (6/20/2026)
 
-| Race | Location | Time | Pace | Overall | AG |
-|------|----------|------|------|---------|----|
-| 20 | Boise, ID | **1:28:48** | 6:47/mi | 10 | 2 |
+| Race | Location  | Time        | Pace    | Overall | AG  |
+| ---- | --------- | ----------- | ------- | ------- | --- |
+| 20   | Boise, ID | **1:28:48** | 6:47/mi | 10      | 2   |
 
 <div class="review-card">
   <h4>Pre-Race: Àlavita</h4>
